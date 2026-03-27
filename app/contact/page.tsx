@@ -3,14 +3,42 @@
 import { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
+import { supabase } from "@/lib/supabase";
 
 export default function Contact() {
   const [submitted, setSubmitted] = useState(false);
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState<string | null>(null);
 
-  function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
-    e.preventDefault();
-    setSubmitted(true);
+  const [form, setForm] = useState({
+    nom: "",
+    prenom: "",
+    portable: "",
+    email: "",
+    motif: "",
+  });
+
+  function handleChange(e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement>) {
+    setForm({ ...form, [e.target.name]: e.target.value });
   }
+
+  async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
+    e.preventDefault();
+    setLoading(true);
+    setError(null);
+
+    const { error } = await supabase.from("contacts").insert([form]);
+
+    if (error) {
+      setError("Une erreur est survenue. Veuillez réessayer.");
+    } else {
+      setSubmitted(true);
+    }
+    setLoading(false);
+  }
+
+  const inputClass =
+    "rounded-full border border-black/[.08] bg-transparent px-5 py-3 text-sm text-black placeholder-zinc-400 outline-none transition-colors hover:border-black/20 focus:border-black dark:border-white/[.145] dark:text-zinc-50 dark:placeholder-zinc-600 dark:hover:border-white/30 dark:focus:border-white";
 
   return (
     <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
@@ -41,7 +69,7 @@ export default function Contact() {
               Merci, votre message a bien été envoyé !
             </p>
             <button
-              onClick={() => setSubmitted(false)}
+              onClick={() => { setSubmitted(false); setForm({ nom: "", prenom: "", portable: "", email: "", motif: "" }); }}
               className="w-fit rounded-full bg-foreground px-5 py-3 text-sm font-medium text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc]"
             >
               Envoyer un autre message
@@ -56,9 +84,12 @@ export default function Contact() {
                 </label>
                 <input
                   type="text"
+                  name="nom"
+                  value={form.nom}
+                  onChange={handleChange}
                   required
                   placeholder="Dupont"
-                  className="rounded-full border border-black/[.08] bg-transparent px-5 py-3 text-sm text-black placeholder-zinc-400 outline-none transition-colors hover:border-black/20 focus:border-black dark:border-white/[.145] dark:text-zinc-50 dark:placeholder-zinc-600 dark:hover:border-white/30 dark:focus:border-white"
+                  className={inputClass}
                 />
               </div>
 
@@ -68,9 +99,12 @@ export default function Contact() {
                 </label>
                 <input
                   type="text"
+                  name="prenom"
+                  value={form.prenom}
+                  onChange={handleChange}
                   required
                   placeholder="Jean"
-                  className="rounded-full border border-black/[.08] bg-transparent px-5 py-3 text-sm text-black placeholder-zinc-400 outline-none transition-colors hover:border-black/20 focus:border-black dark:border-white/[.145] dark:text-zinc-50 dark:placeholder-zinc-600 dark:hover:border-white/30 dark:focus:border-white"
+                  className={inputClass}
                 />
               </div>
             </div>
@@ -82,9 +116,12 @@ export default function Contact() {
                 </label>
                 <input
                   type="tel"
+                  name="portable"
+                  value={form.portable}
+                  onChange={handleChange}
                   required
                   placeholder="06 00 00 00 00"
-                  className="rounded-full border border-black/[.08] bg-transparent px-5 py-3 text-sm text-black placeholder-zinc-400 outline-none transition-colors hover:border-black/20 focus:border-black dark:border-white/[.145] dark:text-zinc-50 dark:placeholder-zinc-600 dark:hover:border-white/30 dark:focus:border-white"
+                  className={inputClass}
                 />
               </div>
 
@@ -94,9 +131,12 @@ export default function Contact() {
                 </label>
                 <input
                   type="email"
+                  name="email"
+                  value={form.email}
+                  onChange={handleChange}
                   required
                   placeholder="jean.dupont@email.com"
-                  className="rounded-full border border-black/[.08] bg-transparent px-5 py-3 text-sm text-black placeholder-zinc-400 outline-none transition-colors hover:border-black/20 focus:border-black dark:border-white/[.145] dark:text-zinc-50 dark:placeholder-zinc-600 dark:hover:border-white/30 dark:focus:border-white"
+                  className={inputClass}
                 />
               </div>
             </div>
@@ -106,8 +146,10 @@ export default function Contact() {
                 Motif <span className="text-zinc-400">*</span>
               </label>
               <select
+                name="motif"
+                value={form.motif}
+                onChange={handleChange}
                 required
-                defaultValue=""
                 className="rounded-full border border-black/[.08] bg-white px-5 py-3 text-sm text-black outline-none transition-colors hover:border-black/20 focus:border-black dark:border-white/[.145] dark:bg-black dark:text-zinc-50 dark:hover:border-white/30 dark:focus:border-white"
               >
                 <option value="" disabled>Sélectionnez un motif</option>
@@ -117,12 +159,17 @@ export default function Contact() {
               </select>
             </div>
 
+            {error && (
+              <p className="text-sm text-red-500">{error}</p>
+            )}
+
             <div className="flex gap-4 pt-2">
               <button
                 type="submit"
-                className="flex h-12 items-center justify-center rounded-full bg-foreground px-8 text-sm font-medium text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc]"
+                disabled={loading}
+                className="flex h-12 items-center justify-center rounded-full bg-foreground px-8 text-sm font-medium text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] disabled:opacity-50"
               >
-                Envoyer
+                {loading ? "Envoi..." : "Envoyer"}
               </button>
               <Link
                 href="/"
