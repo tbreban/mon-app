@@ -45,11 +45,11 @@ export default function Contact() {
       <main className="flex flex-1 w-full max-w-3xl flex-col gap-12 py-32 px-16 bg-white dark:bg-black">
         <Link href="/">
           <Image
-            className="dark:invert"
-            src="/next.svg"
-            alt="Next.js logo"
-            width={100}
-            height={20}
+            className="rounded-xl"
+            src="/LogoGBA.png"
+            alt="Logo GBA"
+            width={450}
+            height={150}
             priority
           />
         </Link>
