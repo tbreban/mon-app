@@ -15,13 +15,13 @@ export default function Navbar() {
 
   return (
     <header className="sticky top-0 z-50 w-full border-b border-gray-100 bg-white shadow-sm">
-      <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-6">
+      <div className="mx-auto flex h-20 max-w-6xl items-center justify-between px-6">
         <Link href="/">
           <Image
             src="/LogoGBA.png"
             alt="GBA Connect"
-            width={140}
-            height={48}
+            width={175}
+            height={60}
             priority
           />
         </Link>
