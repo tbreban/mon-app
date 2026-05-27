@@ -156,7 +156,7 @@ export default function Home() {
           <div className="relative">
             <div className="relative h-80 overflow-hidden rounded-2xl md:h-[360px]">
               <Image
-                src="https://picsum.photos/seed/gba-team/800/600"
+                src="/team-office.jpg"
                 alt="Équipe GBA Connect"
                 fill
                 className="object-cover"
