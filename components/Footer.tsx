@@ -13,7 +13,7 @@ export default function Footer() {
           {/* Brand */}
           <div className="col-span-2 md:col-span-1">
             <p className="text-lg font-bold">GBA Connect</p>
-            <p className="mt-3 text-sm leading-relaxed text-white/55">
+            <p className="mt-3 whitespace-pre-line text-sm leading-relaxed text-white/55">
               {t("brandDescription")}
             </p>
           </div>
