@@ -1,5 +1,5 @@
 import { notFound } from "next/navigation";
-import { useTranslations } from "next-intl";
+import { useLocale, useTranslations } from "next-intl";
 import { getTranslations } from "next-intl/server";
 import { Link } from "@/lib/navigation";
 import ReactMarkdown from "react-markdown";
@@ -103,9 +103,12 @@ const mdComponents: React.ComponentProps<typeof ReactMarkdown>["components"] = {
 
 /* ─── Page pilier ─── */
 function PillarPage({ pillarSlug }: { pillarSlug: PillarSlug }) {
+  const locale = useLocale();
   const t = useTranslations("OffresPage");
   const pillar = PILLARS[pillarSlug];
-  const offers = getOffersByPillar(pillarSlug);
+  const pillarLabel = locale === "en" ? pillar.labelEn : pillar.label;
+  const pillarDesc = locale === "en" ? pillar.descriptionEn : pillar.description;
+  const offers = getOffersByPillar(pillarSlug, locale);
 
   return (
     <div className="flex flex-col">
@@ -118,13 +121,13 @@ function PillarPage({ pillarSlug }: { pillarSlug: PillarSlug }) {
             {t("backToOffres")}
           </Link>
           <div className="mb-4 inline-flex items-center rounded-full border border-[#E7A64F]/40 px-4 py-1.5 text-xs font-bold uppercase tracking-widest text-[#E7A64F]">
-            {pillar.label}
+            {pillarLabel}
           </div>
           <h1 className="mt-2 max-w-3xl text-4xl font-extrabold leading-tight tracking-tight md:text-5xl">
-            {pillar.label}
+            {pillarLabel}
           </h1>
           <p className="mt-4 max-w-xl text-lg leading-relaxed text-white/65">
-            {pillar.description}
+            {pillarDesc}
           </p>
         </div>
       </section>
@@ -154,11 +157,13 @@ function PillarPage({ pillarSlug }: { pillarSlug: PillarSlug }) {
 
 /* ─── Page fiche individuelle ─── */
 function OfferPage({ slug }: { slug: string }) {
+  const locale = useLocale();
   const t = useTranslations("OffresPage");
-  const offer = getOfferBySlug(slug);
+  const offer = getOfferBySlug(slug, locale);
   if (!offer) notFound();
 
   const pillar = PILLARS[offer.pillar];
+  const pillarLabel = locale === "en" ? pillar.labelEn : pillar.label;
 
   return (
     <div className="flex flex-col">
@@ -177,13 +182,13 @@ function OfferPage({ slug }: { slug: string }) {
             <span>/</span>
             {/* eslint-disable-next-line @typescript-eslint/no-explicit-any */}
             <Link href={`/offres/${offer.pillar}` as any} className="transition-colors hover:text-white">
-              {pillar.label}
+              {pillarLabel}
             </Link>
           </nav>
 
           {/* Badge pilier */}
           <span className="inline-flex items-center rounded-full border border-[#E7A64F]/40 px-3 py-1 text-xs font-bold uppercase tracking-widest text-[#E7A64F]">
-            {pillar.label}
+            {pillarLabel}
           </span>
 
           {/* Titre */}

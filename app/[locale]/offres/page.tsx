@@ -1,12 +1,11 @@
-import { useTranslations } from "next-intl";
+import { useLocale, useTranslations } from "next-intl";
 import { Link } from "@/lib/navigation";
-import { getAllOffers, getOffersByPillar, PILLARS, type PillarSlug } from "@/lib/offers";
+import { getOffersByPillar, PILLARS, type PillarSlug } from "@/lib/offers";
 import OfferCard, { PillarCard } from "@/components/OfferCard";
 
 export default function OffresPage() {
+  const locale = useLocale();
   const t = useTranslations("OffresPage");
-  const allOffers = getAllOffers();
-
   const pillarSlugs = Object.keys(PILLARS) as PillarSlug[];
 
   return (
@@ -37,8 +36,9 @@ export default function OffresPage() {
               <PillarCard
                 key={slug}
                 pillarSlug={slug}
-                offerCount={getOffersByPillar(slug).length}
+                offerCount={getOffersByPillar(slug, locale).length}
                 cta={t("pillarCta")}
+                locale={locale}
               />
             ))}
           </div>
@@ -47,17 +47,19 @@ export default function OffresPage() {
 
       {/* ── Toutes les offres par pilier ── */}
       {pillarSlugs.map((pillarSlug) => {
-        const offers = getOffersByPillar(pillarSlug);
+        const offers = getOffersByPillar(pillarSlug, locale);
         const pillar = PILLARS[pillarSlug];
+        const pillarLabel = locale === "en" ? pillar.labelEn : pillar.label;
+        const pillarDesc = locale === "en" ? pillar.descriptionEn : pillar.description;
         return (
           <section key={pillarSlug} className="bg-white px-6 py-16 border-b border-gray-100 last:border-0">
             <div className="mx-auto max-w-6xl">
               <div className="mb-8 flex items-baseline justify-between">
                 <div>
                   <span className="text-xs font-bold uppercase tracking-widest text-[#E7A64F]">
-                    {pillar.label}
+                    {pillarLabel}
                   </span>
-                  <p className="mt-1 text-sm text-gray-500">{pillar.description}</p>
+                  <p className="mt-1 text-sm text-gray-500">{pillarDesc}</p>
                 </div>
                 {/* eslint-disable-next-line @typescript-eslint/no-explicit-any */}
                 <Link
@@ -69,7 +71,7 @@ export default function OffresPage() {
               </div>
               <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
                 {offers.map((offer) => (
-                  <OfferCard key={offer.slug} offer={offer} cta={t("offerCta")} />
+                  <OfferCard key={offer.slug} offer={offer} cta={t("offerCta")} locale={locale} />
                 ))}
               </div>
             </div>
