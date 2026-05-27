@@ -40,6 +40,7 @@ export interface Offer {
   title: string;
   pillar: PillarSlug;
   variant: string;
+  order: number;
   content: string;
 }
 
@@ -55,6 +56,7 @@ export function getOfferBySlug(slug: string): Offer | null {
     title: data.title as string,
     pillar: data.pillar as PillarSlug,
     variant: data.variant as string,
+    order: typeof data.order === "number" ? data.order : 999,
     content,
   };
 }
@@ -67,7 +69,9 @@ export function getAllOffers(): Offer[] {
 }
 
 export function getOffersByPillar(pillar: PillarSlug): Offer[] {
-  return getAllOffers().filter((o) => o.pillar === pillar);
+  return getAllOffers()
+    .filter((o) => o.pillar === pillar)
+    .sort((a, b) => a.order - b.order);
 }
 
 export function isPillarSlug(slug: string): slug is PillarSlug {

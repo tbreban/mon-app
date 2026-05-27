@@ -3,15 +3,16 @@ slug: transition-paie
 title: Transition Paie
 pillar: paie-conformite
 variant: conseil-projet
+order: 1
 ---
 
 # Assurer la continuité de votre paie face à une rupture de compétence
 
-**Un profil paie qualifié, opérationnel immédiatement — pour que la paie tourne sans interruption, quelles que soient les circonstances.**
+**Un manager de transition paie expérimenté, opérationnel immédiatement — pour que la paie tourne sans interruption, quelles que soient les circonstances.**
 
-Départ imprévu d'un gestionnaire de paie, longue maladie, poste non pourvu, surcharge temporaire liée à un projet : les ruptures de compétence en paie surviennent sans prévenir, et leurs conséquences sont immédiates. Les salariés attendent leur bulletin. La DSN ne peut pas attendre.
+Départ imprévu d'un responsable paie, longue maladie, poste non pourvu, surcharge temporaire liée à un projet : les ruptures de compétence en paie surviennent sans prévenir, et leurs conséquences sont immédiates. Les salariés attendent leur bulletin. La DSN ne peut pas attendre.
 
-GBA Connect met à votre disposition un **profil de transition paie expérimenté**, disponible rapidement, qui prend en main votre environnement et assure la continuité de la production dans les conditions habituelles de votre organisation.
+GBA Connect met à votre disposition un **manager de transition paie**, disponible rapidement, capable de prendre en main votre environnement et d'assurer la continuité de la production — mais aussi de piloter l'équipe en place, de prioriser les sujets et de préparer la suite.
 
 ## À qui s'adresse cette offre
 
@@ -20,9 +21,10 @@ GBA Connect met à votre disposition un **profil de transition paie expériment�
 - Vous traversez un pic d'activité (fusion, acquisition, déploiement SIRH) et votre équipe est en surcharge
 - Vous souhaitez sécuriser la passation entre deux titulaires du poste avec un profil garant de la continuité
 
-## Ce que nous mettons en place
+## Ce que le manager de transition prend en charge
 
 - **Prise de poste rapide** : analyse de votre environnement de paie (logiciel, conventions collectives, spécificités) et montée en compétence sur votre contexte en un minimum de temps
+- **Pilotage de l'équipe** : management opérationnel des gestionnaires de paie en place, organisation du travail, gestion des priorités et des délais
 - **Production de paie maintenue** : traitement des éléments variables, calcul des bulletins, contrôles, virements, dans le respect de vos délais habituels
 - **DSN et déclarations sociales** : production et envoi des DSN mensuelles et événementielles, suivi des retours OPS
 - **Gestion des cas complexes** : rétroactivités, arrêts maladie, congés payés, soldes de tout compte — selon le niveau de complexité de votre paie
@@ -38,7 +40,8 @@ GBA Connect met à votre disposition un **profil de transition paie expériment�
 ## Indicateurs de réussite
 
 - **Zéro interruption** de la production de paie pendant la période de transition
-- **DSN émises dans les délais** sans pénalités ni régularisations à posteriori
+- **DSN émises dans les délais** sans pénalités ni régularisations a posteriori
+- **Équipe stabilisée** autour du manager de transition, sans perte de repères ni de performance
 - **Passation documentée** : le titulaire suivant dispose d'une base de travail claire et structurée
 - **Équipe RH déchargée** du poids opérationnel, recentrée sur le recrutement ou le retour du collaborateur
 
