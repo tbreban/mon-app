@@ -8,7 +8,7 @@ export default function Navbar() {
 
   const links = [
     { href: "/expertise" as const, label: t("expertise") },
-    { href: "/solutions" as const, label: t("solutions") },
+    { href: "/offres" as const, label: t("solutions") },
     { href: "/actualites" as const, label: t("news") },
     { href: "/about" as const, label: t("about") },
   ];
