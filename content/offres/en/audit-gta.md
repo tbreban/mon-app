@@ -1,7 +1,7 @@
 ---
 slug: audit-gta
 title: Time & Attendance Management Audit
-pillar: etudes-rh-donnees
+pillar: paie-conformite
 variant: conseil-projet
 ---
 

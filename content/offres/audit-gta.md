@@ -1,7 +1,7 @@
 ---
 slug: audit-gta
 title: Audit GTA — Gestion des Temps et Activités
-pillar: etudes-rh-donnees
+pillar: paie-conformite
 variant: conseil-projet
 ---
 

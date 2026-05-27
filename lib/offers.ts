@@ -18,8 +18,8 @@ export const PILLARS = {
     descriptionEn: "Drive your SIRH, Payroll and Time Management projects from the business side.",
   },
   "paie-conformite": {
-    label: "Paie & Conformité",
-    labelEn: "Payroll & Compliance",
+    label: "Conformité GTA Paie",
+    labelEn: "GTA Payroll Compliance",
     description:
       "Fiabiliser, contrôler et sécuriser votre paie au quotidien.",
     descriptionEn: "Strengthen, control and secure your payroll on a daily basis.",
