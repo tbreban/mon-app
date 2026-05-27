@@ -13,38 +13,48 @@ export default function Navbar() {
   ];
 
   return (
-    <header className="sticky top-0 z-50 w-full border-b border-gray-100 bg-white shadow-sm">
-      <div className="mx-auto flex h-20 max-w-6xl items-center justify-between px-6">
+    <header className="sticky top-0 z-50 w-full shadow-md">
+
+      {/* ── Ligne logo ── */}
+      <div className="flex justify-center bg-white px-6 py-4">
         <Link href="/">
           <Image
             src="/LogoGBA.png"
             alt="GBA Connect"
-            width={175}
-            height={60}
+            width={320}
+            height={110}
             priority
+            style={{ width: "auto", maxWidth: "320px", height: "110px" }}
           />
         </Link>
-        <nav className="hidden items-center gap-8 md:flex">
-          {links.map((link) => (
+      </div>
+
+      {/* ── Ligne navigation ── */}
+      <div className="bg-[#254770] px-6">
+        <div className="mx-auto flex h-12 max-w-6xl items-center justify-between">
+          <nav className="hidden items-center gap-8 md:flex">
+            {links.map((link) => (
+              <Link
+                key={link.href}
+                href={link.href}
+                className="text-sm font-medium text-white/80 transition-colors hover:text-white"
+              >
+                {link.label}
+              </Link>
+            ))}
+          </nav>
+          <div className="flex items-center gap-4">
+            <LanguageSwitcher />
             <Link
-              key={link.href}
-              href={link.href}
-              className="text-sm font-medium text-gray-600 transition-colors hover:text-[#254770]"
+              href="/contact"
+              className="rounded-full bg-[#E7A64F] px-5 py-1.5 text-sm font-semibold text-white transition-colors hover:bg-[#D4913A]"
             >
-              {link.label}
+              {t("contact")}
             </Link>
-          ))}
-        </nav>
-        <div className="flex items-center gap-4">
-          <LanguageSwitcher />
-          <Link
-            href="/contact"
-            className="rounded-full bg-[#E7A64F] px-5 py-2 text-sm font-semibold text-white transition-colors hover:bg-[#D4913A]"
-          >
-            {t("contact")}
-          </Link>
+          </div>
         </div>
       </div>
+
     </header>
   );
 }
