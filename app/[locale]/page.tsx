@@ -92,8 +92,8 @@ export default function Home() {
             </div>
 
             {/* Conseil RH — highlighted */}
-            <div className="rounded-2xl bg-[#4380B9] p-8 text-white">
-              <Users2 className="mb-6 h-8 w-8 text-[#FBE8C7]" />
+            <div className="rounded-2xl bg-[#254770] p-8 text-white">
+              <Users2 className="mb-6 h-8 w-8 text-[#E7A64F]" />
               <h3 className="text-xl font-bold">{t("service2Title")}</h3>
               <p className="mt-3 text-sm leading-relaxed text-white/75">{t("service2Description")}</p>
               <Link
