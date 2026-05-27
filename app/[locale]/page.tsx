@@ -1,7 +1,8 @@
 import { useTranslations } from "next-intl";
 import { Link } from "@/lib/navigation";
 import Image from "next/image";
-import { LayoutDashboard, Users2, Calculator, Check, Mail, Phone, MapPin } from "lucide-react";
+import { Compass, ClipboardList, ShieldCheck, BarChart2, Check } from "lucide-react";
+import { PILLARS, getOffersByPillar } from "@/lib/offers";
 
 export default function Home() {
   const t = useTranslations("HomePage");
@@ -77,54 +78,49 @@ export default function Home() {
             <p className="mt-2 max-w-lg text-sm text-gray-500">{t("servicesDescription")}</p>
           </div>
 
-          <div className="grid gap-6 md:grid-cols-2">
-            {/* SIRH */}
+          <div className="grid gap-6 sm:grid-cols-2">
+            {/* Conseil & Stratégie */}
             <div className="rounded-2xl bg-white p-8 shadow-sm ring-1 ring-gray-100">
-              <LayoutDashboard className="mb-6 h-8 w-8 text-[#E7A64F]" />
-              <h3 className="text-xl font-bold text-[#222222]">{t("service1Title")}</h3>
-              <p className="mt-3 text-sm leading-relaxed text-gray-500">{t("service1Description")}</p>
-              <Link
-                href="/offres"
-                className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-[#222222] transition-colors hover:text-[#E7A64F]"
-              >
+              <Compass className="mb-6 h-8 w-8 text-[#E7A64F]" />
+              <h3 className="text-xl font-bold text-[#222222]">{PILLARS["conseil-strategie"].label}</h3>
+              <p className="mt-3 text-sm leading-relaxed text-gray-500">{PILLARS["conseil-strategie"].description}</p>
+              {/* eslint-disable-next-line @typescript-eslint/no-explicit-any */}
+              <Link href={"/offres/conseil-strategie" as any} className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-[#222222] transition-colors hover:text-[#E7A64F]">
                 {t("servicesLearnMore")} →
               </Link>
             </div>
 
-            {/* Conseil RH — highlighted */}
+            {/* AMOA Projets — highlighted */}
             <div className="rounded-2xl bg-[#254770] p-8 text-white">
-              <Users2 className="mb-6 h-8 w-8 text-[#E7A64F]" />
-              <h3 className="text-xl font-bold">{t("service2Title")}</h3>
-              <p className="mt-3 text-sm leading-relaxed text-white/75">{t("service2Description")}</p>
-              <Link
-                href="/offres"
-                className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-white transition-colors hover:text-[#FBE8C7]"
-              >
-                {t("servicesLearnMore")}
-              </Link>
-            </div>
-
-            {/* Gestion de la Paie */}
-            <div className="rounded-2xl bg-white p-8 shadow-sm ring-1 ring-gray-100">
-              <Calculator className="mb-6 h-8 w-8 text-[#E7A64F]" />
-              <h3 className="text-xl font-bold text-[#222222]">{t("service3Title")}</h3>
-              <p className="mt-3 text-sm leading-relaxed text-gray-500">{t("service3Description")}</p>
-              <Link
-                href="/offres"
-                className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-[#222222] transition-colors hover:text-[#E7A64F]"
-              >
+              <ClipboardList className="mb-6 h-8 w-8 text-[#E7A64F]" />
+              <h3 className="text-xl font-bold">{PILLARS["amoa-projets"].label}</h3>
+              <p className="mt-3 text-sm leading-relaxed text-white/75">{PILLARS["amoa-projets"].description}</p>
+              {/* eslint-disable-next-line @typescript-eslint/no-explicit-any */}
+              <Link href={"/offres/amoa-projets" as any} className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-white transition-colors hover:text-[#E7A64F]">
                 {t("servicesLearnMore")} →
               </Link>
             </div>
 
-            {/* Image placeholder */}
-            <div className="relative overflow-hidden rounded-2xl h-[240px]">
-              <Image
-                src="https://picsum.photos/seed/gba-services/800/500"
-                alt="Services RH"
-                fill
-                className="object-cover"
-              />
+            {/* Paie & Conformité */}
+            <div className="rounded-2xl bg-white p-8 shadow-sm ring-1 ring-gray-100">
+              <ShieldCheck className="mb-6 h-8 w-8 text-[#E7A64F]" />
+              <h3 className="text-xl font-bold text-[#222222]">{PILLARS["paie-conformite"].label}</h3>
+              <p className="mt-3 text-sm leading-relaxed text-gray-500">{PILLARS["paie-conformite"].description}</p>
+              {/* eslint-disable-next-line @typescript-eslint/no-explicit-any */}
+              <Link href={"/offres/paie-conformite" as any} className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-[#222222] transition-colors hover:text-[#E7A64F]">
+                {t("servicesLearnMore")} →
+              </Link>
+            </div>
+
+            {/* Études RH & Données */}
+            <div className="rounded-2xl bg-white p-8 shadow-sm ring-1 ring-gray-100">
+              <BarChart2 className="mb-6 h-8 w-8 text-[#E7A64F]" />
+              <h3 className="text-xl font-bold text-[#222222]">{PILLARS["etudes-rh-donnees"].label}</h3>
+              <p className="mt-3 text-sm leading-relaxed text-gray-500">{PILLARS["etudes-rh-donnees"].description}</p>
+              {/* eslint-disable-next-line @typescript-eslint/no-explicit-any */}
+              <Link href={"/offres/etudes-rh-donnees" as any} className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-[#222222] transition-colors hover:text-[#E7A64F]">
+                {t("servicesLearnMore")} →
+              </Link>
             </div>
           </div>
         </div>
