@@ -8,11 +8,11 @@ order: 1
 
 # Assurer la continuité de votre paie face à une rupture de compétence
 
-**Un manager de transition paie expérimenté, opérationnel immédiatement — pour que la paie tourne sans interruption, quelles que soient les circonstances.**
+**Un profil paie qualifié, opérationnel immédiatement — pour que la paie tourne sans interruption, quelles que soient les circonstances.**
 
-Départ imprévu d'un responsable paie, longue maladie, poste non pourvu, surcharge temporaire liée à un projet : les ruptures de compétence en paie surviennent sans prévenir, et leurs conséquences sont immédiates. Les salariés attendent leur bulletin. La DSN ne peut pas attendre.
+Départ imprévu d'un gestionnaire de paie, longue maladie, poste non pourvu, surcharge temporaire liée à un projet : les ruptures de compétence en paie surviennent sans prévenir, et leurs conséquences sont immédiates. Les salariés attendent leur bulletin. La DSN ne peut pas attendre.
 
-GBA Connect met à votre disposition un **manager de transition paie**, disponible rapidement, capable de prendre en main votre environnement et d'assurer la continuité de la production — mais aussi de piloter l'équipe en place, de prioriser les sujets et de préparer la suite.
+GBA Connect met à votre disposition le **profil adapté à votre situation** — gestionnaire de paie ou manager de transition paie — disponible rapidement, capable de prendre en main votre environnement et d'assurer la continuité de la production dans les conditions habituelles de votre organisation.
 
 ## À qui s'adresse cette offre
 
@@ -21,13 +21,19 @@ GBA Connect met à votre disposition un **manager de transition paie**, disponib
 - Vous traversez un pic d'activité (fusion, acquisition, déploiement SIRH) et votre équipe est en surcharge
 - Vous souhaitez sécuriser la passation entre deux titulaires du poste avec un profil garant de la continuité
 
-## Ce que le manager de transition prend en charge
+## Deux types de profils selon votre besoin
+
+**Le gestionnaire de paie en transition** intervient pour assurer la production opérationnelle : traitement des éléments variables, calcul des bulletins, émission des DSN, gestion des cas complexes (rétroactivités, arrêts maladie, STC). Il s'intègre à votre équipe existante et maintient le rythme habituel de votre paie.
+
+**Le manager de transition paie** va plus loin : en plus de la production, il prend en charge le pilotage de l'équipe en place, l'organisation du travail, la priorisation des sujets et la coordination avec vos interlocuteurs RH, DAF et managers. Il est la bonne réponse lorsque le poste vacant est celui d'un responsable ou d'un référent paie.
+
+## Ce que nous mettons en place
 
 - **Prise de poste rapide** : analyse de votre environnement de paie (logiciel, conventions collectives, spécificités) et montée en compétence sur votre contexte en un minimum de temps
-- **Pilotage de l'équipe** : management opérationnel des gestionnaires de paie en place, organisation du travail, gestion des priorités et des délais
 - **Production de paie maintenue** : traitement des éléments variables, calcul des bulletins, contrôles, virements, dans le respect de vos délais habituels
 - **DSN et déclarations sociales** : production et envoi des DSN mensuelles et événementielles, suivi des retours OPS
 - **Gestion des cas complexes** : rétroactivités, arrêts maladie, congés payés, soldes de tout compte — selon le niveau de complexité de votre paie
+- **Pilotage de l'équipe** *(profil manager)* : management opérationnel des gestionnaires en place, organisation du travail, gestion des priorités et des délais
 - **Documentation et transfert** : formalisation des procédures en cours de mission pour faciliter la prise de poste du futur titulaire ou le retour du collaborateur
 - **Coordination avec vos équipes** : RH, DAF, managers — pour que la transition soit transparente pour l'organisation
 
@@ -41,7 +47,6 @@ GBA Connect met à votre disposition un **manager de transition paie**, disponib
 
 - **Zéro interruption** de la production de paie pendant la période de transition
 - **DSN émises dans les délais** sans pénalités ni régularisations a posteriori
-- **Équipe stabilisée** autour du manager de transition, sans perte de repères ni de performance
 - **Passation documentée** : le titulaire suivant dispose d'une base de travail claire et structurée
 - **Équipe RH déchargée** du poids opérationnel, recentrée sur le recrutement ou le retour du collaborateur
 
