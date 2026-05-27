@@ -31,7 +31,7 @@ export default function Navbar() {
             <Link
               key={link.href}
               href={link.href}
-              className="text-sm font-medium text-gray-600 transition-colors hover:text-[#0b1464]"
+              className="text-sm font-medium text-gray-600 transition-colors hover:text-[#254770]"
             >
               {link.label}
             </Link>
@@ -41,7 +41,7 @@ export default function Navbar() {
           <LanguageSwitcher />
           <Link
             href="/contact"
-            className="rounded-full bg-teal-500 px-5 py-2 text-sm font-semibold text-white transition-colors hover:bg-teal-400"
+            className="rounded-full bg-[#E7A64F] px-5 py-2 text-sm font-semibold text-white transition-colors hover:bg-[#D4913A]"
           >
             {t("contact")}
           </Link>

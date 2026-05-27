@@ -6,7 +6,7 @@ export default function Footer() {
   const t = useTranslations("Footer");
 
   return (
-    <footer className="bg-[#0b1464] text-white">
+    <footer className="bg-[#254770] text-white">
       <div className="mx-auto max-w-6xl px-6 py-16">
         <div className="grid grid-cols-2 gap-10 md:grid-cols-4">
 
@@ -57,15 +57,15 @@ export default function Footer() {
             </p>
             <ul className="mt-4 space-y-3">
               <li className="flex items-center gap-2 text-sm text-white/55">
-                <Mail className="h-4 w-4 shrink-0 text-teal-400" />
+                <Mail className="h-4 w-4 shrink-0 text-[#E7A64F]" />
                 {t("contactEmail")}
               </li>
               <li className="flex items-center gap-2 text-sm text-white/55">
-                <Phone className="h-4 w-4 shrink-0 text-teal-400" />
+                <Phone className="h-4 w-4 shrink-0 text-[#E7A64F]" />
                 {t("contactPhone")}
               </li>
               <li className="flex items-center gap-2 text-sm text-white/55">
-                <MapPin className="h-4 w-4 shrink-0 text-teal-400" />
+                <MapPin className="h-4 w-4 shrink-0 text-[#E7A64F]" />
                 {t("contactCity")}
               </li>
             </ul>

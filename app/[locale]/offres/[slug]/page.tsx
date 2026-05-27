@@ -47,18 +47,18 @@ function PillarPage({ pillarSlug }: { pillarSlug: PillarSlug }) {
   return (
     <div className="flex flex-col">
       {/* Hero */}
-      <section className="relative overflow-hidden bg-[#0b1464] px-6 py-24 text-white">
-        <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(ellipse_80%_60%_at_80%_40%,_rgba(0,176,155,0.12),_transparent)]" />
+      <section className="relative overflow-hidden bg-[#254770] px-6 py-24 text-white">
+        <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(ellipse_80%_60%_at_80%_40%,_rgba(231,166,79,0.12),_transparent)]" />
         <div className="relative mx-auto max-w-6xl">
           {/* eslint-disable-next-line @typescript-eslint/no-explicit-any */}
           <Link
             href={"/offres" as any}
-            className="mb-8 inline-flex items-center gap-1.5 text-sm text-teal-400 transition-colors hover:text-teal-300"
+            className="mb-8 inline-flex items-center gap-1.5 text-sm text-[#E7A64F] transition-colors hover:text-[#C6A481]"
           >
             <ArrowLeft className="h-4 w-4" />
             {t("backToOffres")}
           </Link>
-          <div className="mb-4 inline-flex items-center rounded-full border border-teal-500/40 px-4 py-1.5 text-xs font-bold uppercase tracking-widest text-teal-400">
+          <div className="mb-4 inline-flex items-center rounded-full border border-[#E7A64F]/40 px-4 py-1.5 text-xs font-bold uppercase tracking-widest text-[#E7A64F]">
             {pillar.label}
           </div>
           <h1 className="max-w-3xl text-4xl font-extrabold leading-tight tracking-tight md:text-5xl">
@@ -82,13 +82,13 @@ function PillarPage({ pillarSlug }: { pillarSlug: PillarSlug }) {
       </section>
 
       {/* CTA */}
-      <section className="bg-[#0b1464] px-6 py-24 text-center">
+      <section className="bg-[#254770] px-6 py-24 text-center">
         <div className="mx-auto max-w-3xl">
           <h2 className="text-4xl font-extrabold text-white">{t("ctaTitle")}</h2>
           <p className="mt-4 text-white/60">{t("ctaDescription")}</p>
           <Link
             href="/contact"
-            className="mt-10 inline-flex items-center justify-center rounded-full bg-teal-500 px-10 py-4 text-sm font-semibold text-white transition-colors hover:bg-teal-400"
+            className="mt-10 inline-flex items-center justify-center rounded-full bg-[#E7A64F] px-10 py-4 text-sm font-semibold text-white transition-colors hover:bg-[#D4913A]"
           >
             {t("ctaButton")}
           </Link>
@@ -112,39 +112,39 @@ function OfferPage({ slug }: { slug: string }) {
       <div className="border-b border-gray-100 bg-white px-6 py-4">
         <div className="mx-auto flex max-w-6xl items-center gap-2 text-sm text-gray-500">
           {/* eslint-disable-next-line @typescript-eslint/no-explicit-any */}
-          <Link href={"/offres" as any} className="hover:text-[#0b1464]">
+          <Link href={"/offres" as any} className="hover:text-[#254770]">
             {t("breadcrumbOffres")}
           </Link>
           <span>/</span>
           {/* eslint-disable-next-line @typescript-eslint/no-explicit-any */}
-          <Link href={`/offres/${offer.pillar}` as any} className="hover:text-[#0b1464]">
+          <Link href={`/offres/${offer.pillar}` as any} className="hover:text-[#254770]">
             {pillar.label}
           </Link>
           <span>/</span>
-          <span className="text-[#0b1464] font-medium">{offer.title}</span>
+          <span className="font-medium text-[#222222]">{offer.title}</span>
         </div>
       </div>
 
       {/* Content */}
       <article className="bg-white px-6 py-16">
         <div className="mx-auto max-w-3xl">
-          <span className="mb-6 inline-flex rounded-full bg-teal-50 px-3 py-1 text-xs font-semibold text-teal-700">
+          <span className="mb-6 inline-flex rounded-full bg-[#FFEED9] px-3 py-1 text-xs font-semibold text-[#A56B22]">
             {pillar.label}
           </span>
           <ReactMarkdown
             components={{
               h1: ({ children }) => (
-                <h1 className="mb-4 mt-2 text-3xl font-extrabold leading-tight text-[#0b1464] md:text-4xl">
+                <h1 className="mb-4 mt-2 text-3xl font-extrabold leading-tight text-[#222222] md:text-4xl">
                   {children}
                 </h1>
               ),
               h2: ({ children }) => (
-                <h2 className="mb-4 mt-12 text-2xl font-bold text-[#0b1464]">
+                <h2 className="mb-4 mt-12 text-2xl font-bold text-[#222222]">
                   {children}
                 </h2>
               ),
               h3: ({ children }) => (
-                <h3 className="mb-3 mt-8 text-xl font-bold text-[#0b1464]">
+                <h3 className="mb-3 mt-8 text-xl font-bold text-[#222222]">
                   {children}
                 </h3>
               ),
@@ -158,17 +158,17 @@ function OfferPage({ slug }: { slug: string }) {
                 <ol className="mb-6 list-decimal space-y-2 pl-6">{children}</ol>
               ),
               li: ({ children }) => (
-                <li className="text-gray-600 before:mr-2 before:text-teal-500 before:content-['–']">
+                <li className="text-gray-600 before:mr-2 before:text-[#E7A64F] before:content-['–']">
                   {children}
                 </li>
               ),
               blockquote: ({ children }) => (
-                <blockquote className="my-8 rounded-xl border-l-4 border-teal-500 bg-gray-50 px-6 py-5 italic text-gray-500">
+                <blockquote className="my-8 rounded-xl border-l-4 border-[#E7A64F] bg-[#FFEED9] px-6 py-5 italic text-gray-600">
                   {children}
                 </blockquote>
               ),
               strong: ({ children }) => (
-                <strong className="font-semibold text-[#0b1464]">
+                <strong className="font-semibold text-[#222222]">
                   {children}
                 </strong>
               ),
@@ -184,13 +184,13 @@ function OfferPage({ slug }: { slug: string }) {
       </article>
 
       {/* CTA */}
-      <section className="bg-[#0b1464] px-6 py-24 text-center">
+      <section className="bg-[#254770] px-6 py-24 text-center">
         <div className="mx-auto max-w-3xl">
           <h2 className="text-3xl font-extrabold text-white">{t("ctaTitle")}</h2>
           <p className="mt-4 text-white/60">{t("ctaDescription")}</p>
           <Link
             href="/contact"
-            className="mt-10 inline-flex items-center justify-center rounded-full bg-teal-500 px-10 py-4 text-sm font-semibold text-white transition-colors hover:bg-teal-400"
+            className="mt-10 inline-flex items-center justify-center rounded-full bg-[#E7A64F] px-10 py-4 text-sm font-semibold text-white transition-colors hover:bg-[#D4913A]"
           >
             {t("ctaButton")}
           </Link>

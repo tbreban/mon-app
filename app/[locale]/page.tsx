@@ -23,17 +23,17 @@ export default function Home() {
     <div className="flex flex-col">
 
       {/* ── Hero ── */}
-      <section className="relative overflow-hidden bg-[#0b1464] px-6 py-44 text-white">
-        <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(ellipse_80%_60%_at_80%_40%,_rgba(0,176,155,0.12),_transparent)]" />
-        <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(ellipse_60%_50%_at_10%_80%,_rgba(0,176,155,0.08),_transparent)]" />
+      <section className="relative overflow-hidden bg-[#254770] px-6 py-44 text-white">
+        <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(ellipse_80%_60%_at_80%_40%,_rgba(231,166,79,0.12),_transparent)]" />
+        <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(ellipse_60%_50%_at_10%_80%,_rgba(231,166,79,0.08),_transparent)]" />
         <div className="relative mx-auto max-w-6xl">
-          <div className="mb-6 inline-flex items-center rounded-full border border-teal-500/40 px-4 py-1.5 text-xs font-bold uppercase tracking-widest text-teal-400">
+          <div className="mb-6 inline-flex items-center rounded-full border border-[#E7A64F]/40 px-4 py-1.5 text-xs font-bold uppercase tracking-widest text-[#E7A64F]">
             {t("heroBadge")}
           </div>
           <h1 className="max-w-3xl text-5xl font-extrabold leading-tight tracking-tight md:text-6xl">
             {t.rich("heroTitle", {
               highlight: (chunks) => (
-                <span className="text-teal-400">{chunks}</span>
+                <span className="text-[#E7A64F]">{chunks}</span>
               ),
             })}
           </h1>
@@ -43,7 +43,7 @@ export default function Home() {
           <div className="mt-10 flex flex-wrap gap-4">
             <Link
               href="/offres"
-              className="rounded-full border-2 border-white px-8 py-3 text-sm font-semibold text-white transition-colors hover:bg-white hover:text-[#0b1464]"
+              className="rounded-full border-2 border-white px-8 py-3 text-sm font-semibold text-white transition-colors hover:bg-white hover:text-[#254770]"
             >
               {t("ctaServices")}
             </Link>
@@ -62,7 +62,7 @@ export default function Home() {
         <div className="mx-auto grid max-w-5xl grid-cols-2 gap-8 sm:grid-cols-4">
           {stats.map((stat) => (
             <div key={stat.label} className="flex flex-col gap-2">
-              <span className="text-5xl font-extrabold text-[#0b1464]">{stat.value}</span>
+              <span className="text-5xl font-extrabold text-[#254770]">{stat.value}</span>
               <span className="text-xs font-semibold uppercase tracking-widest text-gray-400">{stat.label}</span>
             </div>
           ))}
@@ -73,32 +73,32 @@ export default function Home() {
       <section className="bg-gray-50 px-6 py-24">
         <div className="mx-auto max-w-6xl">
           <div className="mb-12">
-            <h2 className="text-3xl font-bold text-[#0b1464]">{t("servicesTitle")}</h2>
+            <h2 className="text-3xl font-bold text-[#222222]">{t("servicesTitle")}</h2>
             <p className="mt-2 max-w-lg text-sm text-gray-500">{t("servicesDescription")}</p>
           </div>
 
           <div className="grid gap-6 md:grid-cols-2">
             {/* SIRH */}
             <div className="rounded-2xl bg-white p-8 shadow-sm ring-1 ring-gray-100">
-              <LayoutDashboard className="mb-6 h-8 w-8 text-teal-500" />
-              <h3 className="text-xl font-bold text-[#0b1464]">{t("service1Title")}</h3>
+              <LayoutDashboard className="mb-6 h-8 w-8 text-[#E7A64F]" />
+              <h3 className="text-xl font-bold text-[#222222]">{t("service1Title")}</h3>
               <p className="mt-3 text-sm leading-relaxed text-gray-500">{t("service1Description")}</p>
               <Link
                 href="/offres"
-                className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-[#0b1464] transition-colors hover:text-teal-500"
+                className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-[#222222] transition-colors hover:text-[#E7A64F]"
               >
                 {t("servicesLearnMore")} →
               </Link>
             </div>
 
             {/* Conseil RH — highlighted */}
-            <div className="rounded-2xl bg-teal-800 p-8 text-white">
-              <Users2 className="mb-6 h-8 w-8 text-teal-300" />
+            <div className="rounded-2xl bg-[#4380B9] p-8 text-white">
+              <Users2 className="mb-6 h-8 w-8 text-[#FBE8C7]" />
               <h3 className="text-xl font-bold">{t("service2Title")}</h3>
               <p className="mt-3 text-sm leading-relaxed text-white/75">{t("service2Description")}</p>
               <Link
                 href="/offres"
-                className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-white transition-colors hover:text-teal-200"
+                className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-white transition-colors hover:text-[#FBE8C7]"
               >
                 {t("servicesLearnMore")}
               </Link>
@@ -106,12 +106,12 @@ export default function Home() {
 
             {/* Gestion de la Paie */}
             <div className="rounded-2xl bg-white p-8 shadow-sm ring-1 ring-gray-100">
-              <Calculator className="mb-6 h-8 w-8 text-teal-500" />
-              <h3 className="text-xl font-bold text-[#0b1464]">{t("service3Title")}</h3>
+              <Calculator className="mb-6 h-8 w-8 text-[#E7A64F]" />
+              <h3 className="text-xl font-bold text-[#222222]">{t("service3Title")}</h3>
               <p className="mt-3 text-sm leading-relaxed text-gray-500">{t("service3Description")}</p>
               <Link
                 href="/offres"
-                className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-[#0b1464] transition-colors hover:text-teal-500"
+                className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-[#222222] transition-colors hover:text-[#E7A64F]"
               >
                 {t("servicesLearnMore")} →
               </Link>
@@ -135,20 +135,20 @@ export default function Home() {
         <div className="mx-auto grid max-w-6xl gap-16 md:grid-cols-2">
           {/* Left */}
           <div>
-            <span className="text-xs font-bold uppercase tracking-widest text-teal-500">
+            <span className="text-xs font-bold uppercase tracking-widest text-[#E7A64F]">
               {t("whyBadge")}
             </span>
-            <h2 className="mt-4 max-w-sm text-3xl font-bold leading-tight text-[#0b1464]">
+            <h2 className="mt-4 max-w-sm text-3xl font-bold leading-tight text-[#222222]">
               {t("whyTitle")}
             </h2>
             <ul className="mt-10 space-y-7">
               {whyFeatures.map((f) => (
                 <li key={f.title} className="flex gap-4">
-                  <div className="mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-teal-500">
+                  <div className="mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-[#E7A64F]">
                     <Check className="h-3.5 w-3.5 text-white" strokeWidth={3} />
                   </div>
                   <div>
-                    <p className="font-semibold text-[#0b1464]">{f.title}</p>
+                    <p className="font-semibold text-[#222222]">{f.title}</p>
                     <p className="mt-1 text-sm text-gray-500">{f.description}</p>
                   </div>
                 </li>
@@ -168,20 +168,20 @@ export default function Home() {
             </div>
             <div className="absolute bottom-6 left-6 right-6 rounded-xl bg-white p-5 shadow-xl">
               <p className="text-sm italic leading-relaxed text-gray-600">{t("testimonial")}</p>
-              <p className="mt-3 text-xs font-bold text-[#0b1464]">{t("testimonialAuthor")}</p>
+              <p className="mt-3 text-xs font-bold text-[#222222]">{t("testimonialAuthor")}</p>
             </div>
           </div>
         </div>
       </section>
 
       {/* ── CTA ── */}
-      <section className="bg-[#0b1464] px-6 py-24 text-center">
+      <section className="bg-[#254770] px-6 py-24 text-center">
         <div className="mx-auto max-w-3xl">
           <h2 className="text-4xl font-extrabold text-white">{t("ctaTitle")}</h2>
           <p className="mt-4 text-white/60">{t("ctaDescription")}</p>
           <Link
             href="/contact"
-            className="mt-10 inline-flex items-center justify-center rounded-full bg-teal-500 px-10 py-4 text-sm font-semibold text-white transition-colors hover:bg-teal-400"
+            className="mt-10 inline-flex items-center justify-center rounded-full bg-[#E7A64F] px-10 py-4 text-sm font-semibold text-white transition-colors hover:bg-[#D4913A]"
           >
             {t("ctaButton")}
           </Link>
