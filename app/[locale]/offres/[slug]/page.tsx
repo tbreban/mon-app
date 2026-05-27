@@ -112,9 +112,9 @@ function PillarPage({ pillarSlug }: { pillarSlug: PillarSlug }) {
 
   return (
     <div className="flex flex-col">
-      <section className="relative overflow-hidden bg-[#254770] px-6 py-24 text-white">
+      <section className="relative overflow-hidden bg-[#254770] py-24 text-white">
         <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(ellipse_80%_60%_at_80%_40%,_rgba(231,166,79,0.12),_transparent)]" />
-        <div className="relative mx-auto max-w-6xl">
+        <div className="relative mx-auto max-w-7xl px-4">
           {/* eslint-disable-next-line @typescript-eslint/no-explicit-any */}
           <Link href={"/offres" as any} className="mb-8 inline-flex items-center gap-1.5 text-sm text-[#E7A64F] transition-colors hover:text-[#C6A481]">
             <ArrowLeft className="h-4 w-4" />
@@ -132,8 +132,8 @@ function PillarPage({ pillarSlug }: { pillarSlug: PillarSlug }) {
         </div>
       </section>
 
-      <section className="bg-gray-50 px-6 py-16">
-        <div className="mx-auto max-w-6xl">
+      <section className="bg-gray-50 py-16">
+        <div className="mx-auto max-w-7xl px-4">
           <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
             {offers.map((offer) => (
               <OfferCard key={offer.slug} offer={offer} cta={t("offerCta")} />
@@ -142,7 +142,7 @@ function PillarPage({ pillarSlug }: { pillarSlug: PillarSlug }) {
         </div>
       </section>
 
-      <section className="bg-[#254770] px-6 py-24 text-center">
+      <section className="bg-[#254770] py-24 text-center">
         <div className="mx-auto max-w-3xl">
           <h2 className="text-4xl font-extrabold text-white">{t("ctaTitle")}</h2>
           <p className="mt-4 text-white/60">{t("ctaDescription")}</p>
@@ -169,7 +169,7 @@ function OfferPage({ slug }: { slug: string }) {
     <div className="flex flex-col">
 
       {/* Hero avec breadcrumb intégré + titre */}
-      <section className="relative overflow-hidden bg-[#254770] px-6 pb-14 pt-8 text-white">
+      <section className="relative overflow-hidden bg-[#254770] pb-14 pt-8 text-white">
         <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(ellipse_70%_60%_at_90%_50%,_rgba(231,166,79,0.10),_transparent)]" />
         <div className="relative mx-auto max-w-3xl">
 
@@ -199,7 +199,7 @@ function OfferPage({ slug }: { slug: string }) {
       </section>
 
       {/* Contenu Markdown */}
-      <article className="bg-white px-6 py-14">
+      <article className="bg-white py-14">
         <div className="mx-auto max-w-3xl">
           <ReactMarkdown components={mdComponents}>
             {offer.content}
@@ -208,7 +208,7 @@ function OfferPage({ slug }: { slug: string }) {
       </article>
 
       {/* CTA */}
-      <section className="bg-[#254770] px-6 py-24 text-center">
+      <section className="bg-[#254770] py-24 text-center">
         <div className="mx-auto max-w-3xl">
           <h2 className="text-3xl font-extrabold text-white">{t("ctaTitle")}</h2>
           <p className="mt-4 text-white/60">{t("ctaDescription")}</p>

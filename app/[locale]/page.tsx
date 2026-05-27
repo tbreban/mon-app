@@ -24,10 +24,10 @@ export default function Home() {
     <div className="flex flex-col">
 
       {/* ── Hero ── */}
-      <section className="relative overflow-hidden bg-[#254770] px-6 py-44 text-white">
+      <section className="relative overflow-hidden bg-[#254770] py-28 text-white">
         <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(ellipse_80%_60%_at_80%_40%,_rgba(231,166,79,0.12),_transparent)]" />
         <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(ellipse_60%_50%_at_10%_80%,_rgba(231,166,79,0.08),_transparent)]" />
-        <div className="relative mx-auto max-w-6xl">
+        <div className="relative mx-auto max-w-7xl px-4">
           <div className="mb-6 inline-flex items-center rounded-full border border-[#E7A64F]/40 px-4 py-1.5 text-xs font-bold uppercase tracking-widest text-[#E7A64F]">
             {t("heroBadge")}
           </div>
@@ -59,7 +59,7 @@ export default function Home() {
       </section>
 
       {/* ── Stats ── */}
-      <section className="bg-white px-6 py-16">
+      <section className="bg-white py-16">
         <div className="mx-auto grid max-w-5xl grid-cols-2 gap-8 sm:grid-cols-4">
           {stats.map((stat) => (
             <div key={stat.label} className="flex flex-col gap-2">
@@ -71,8 +71,8 @@ export default function Home() {
       </section>
 
       {/* ── Services ── */}
-      <section className="bg-gray-50 px-6 py-24">
-        <div className="mx-auto max-w-6xl">
+      <section className="bg-gray-50 py-24">
+        <div className="mx-auto max-w-7xl px-4">
           <div className="mb-12">
             <h2 className="text-3xl font-bold text-[#222222]">{t("servicesTitle")}</h2>
             <p className="mt-2 max-w-lg text-sm text-gray-500">{t("servicesDescription")}</p>
@@ -127,8 +127,8 @@ export default function Home() {
       </section>
 
       {/* ── Why GBA ── */}
-      <section className="bg-white px-6 py-24">
-        <div className="mx-auto grid max-w-6xl gap-16 md:grid-cols-2">
+      <section className="bg-white py-24">
+        <div className="mx-auto grid max-w-7xl px-4 gap-16 md:grid-cols-2">
           {/* Left */}
           <div>
             <span className="text-xs font-bold uppercase tracking-widest text-[#E7A64F]">
@@ -171,7 +171,7 @@ export default function Home() {
       </section>
 
       {/* ── CTA ── */}
-      <section className="bg-[#254770] px-6 py-24 text-center">
+      <section className="bg-[#254770] py-24 text-center">
         <div className="mx-auto max-w-3xl">
           <h2 className="text-4xl font-extrabold text-white">{t("ctaTitle")}</h2>
           <p className="mt-4 text-white/60">{t("ctaDescription")}</p>

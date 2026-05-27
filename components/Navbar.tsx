@@ -14,22 +14,22 @@ export default function Navbar() {
 
   return (
     <header className="sticky top-0 z-50 w-full border-b border-gray-100 bg-white shadow-sm">
-      <div className="mx-auto flex h-20 max-w-6xl items-center justify-between px-6">
+      <div className="mx-auto flex h-28 max-w-7xl items-center justify-between px-4">
         <Link href="/">
           <Image
             src="/LogoGBA.png"
             alt="GBA Connect"
-            width={175}
-            height={60}
+            width={250}
+            height={86}
             priority
           />
         </Link>
-        <nav className="hidden items-center gap-8 md:flex">
+        <nav className="hidden items-center gap-10 md:flex">
           {links.map((link) => (
             <Link
               key={link.href}
               href={link.href}
-              className="text-sm font-medium text-gray-600 transition-colors hover:text-[#254770]"
+              className="text-lg font-medium text-gray-600 transition-colors hover:text-[#254770]"
             >
               {link.label}
             </Link>
