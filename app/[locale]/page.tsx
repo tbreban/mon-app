@@ -153,13 +153,13 @@ export default function Home() {
           </div>
 
           {/* Right — image + testimonial */}
-          <div className="relative">
-            <div className="relative h-80 overflow-hidden rounded-2xl md:h-[360px]">
+          <div className="relative min-h-[360px]">
+            <div className="absolute inset-0 overflow-hidden rounded-2xl">
               <Image
-                src="/team-office.jpg"
+                src="/team-meeting-smile.jpg"
                 alt="Équipe GBA Connect"
                 fill
-                className="object-cover"
+                className="object-cover object-center"
               />
             </div>
             <div className="absolute bottom-6 left-6 right-6 rounded-xl bg-white p-5 shadow-xl">
