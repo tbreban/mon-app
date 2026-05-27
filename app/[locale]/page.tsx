@@ -79,48 +79,60 @@ export default function Home() {
           </div>
 
           <div className="grid gap-6 sm:grid-cols-2">
-            {/* Conseil & Stratégie */}
-            <div className="rounded-2xl bg-white p-8 shadow-sm ring-1 ring-gray-100">
-              <Compass className="mb-6 h-8 w-8 text-[#E7A64F]" />
-              <h3 className="text-xl font-bold text-[#222222]">{PILLARS["conseil-strategie"].label}</h3>
-              <p className="mt-3 text-sm leading-relaxed text-gray-500">{PILLARS["conseil-strategie"].description}</p>
-              {/* eslint-disable-next-line @typescript-eslint/no-explicit-any */}
-              <Link href={"/offres/conseil-strategie" as any} className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-[#222222] transition-colors hover:text-[#E7A64F]">
-                {t("servicesLearnMore")} →
-              </Link>
+            {/* Conseil & Stratégie — highlighted */}
+            <div className="overflow-hidden rounded-2xl shadow-sm ring-1 ring-gray-100">
+              <div className="bg-[#254770] h-3" />
+              <div className="bg-white p-8">
+                <Compass className="mb-6 h-8 w-8 text-[#E7A64F]" />
+                <h3 className="text-xl font-bold text-[#222222]">{PILLARS["conseil-strategie"].label}</h3>
+                <p className="mt-3 text-sm leading-relaxed text-gray-500">{PILLARS["conseil-strategie"].description}</p>
+                {/* eslint-disable-next-line @typescript-eslint/no-explicit-any */}
+                <Link href={"/offres/conseil-strategie" as any} className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-[#222222] transition-colors hover:text-[#E7A64F]">
+                  {t("servicesLearnMore")} →
+                </Link>
+              </div>
             </div>
 
-            {/* AMOA Projets — highlighted */}
-            <div className="rounded-2xl bg-[#254770] p-8 text-white">
-              <ClipboardList className="mb-6 h-8 w-8 text-[#E7A64F]" />
-              <h3 className="text-xl font-bold">{PILLARS["amoa-projets"].label}</h3>
-              <p className="mt-3 text-sm leading-relaxed text-white/75">{PILLARS["amoa-projets"].description}</p>
-              {/* eslint-disable-next-line @typescript-eslint/no-explicit-any */}
-              <Link href={"/offres/amoa-projets" as any} className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-white transition-colors hover:text-[#E7A64F]">
-                {t("servicesLearnMore")} →
-              </Link>
+            {/* AMOA Projets */}
+            <div className="overflow-hidden rounded-2xl shadow-sm ring-1 ring-gray-100">
+              <div className="bg-[#E7A64F] h-3" />
+              <div className="bg-white p-8">
+                <ClipboardList className="mb-6 h-8 w-8 text-[#E7A64F]" />
+                <h3 className="text-xl font-bold text-[#222222]">{PILLARS["amoa-projets"].label}</h3>
+                <p className="mt-3 text-sm leading-relaxed text-gray-500">{PILLARS["amoa-projets"].description}</p>
+                {/* eslint-disable-next-line @typescript-eslint/no-explicit-any */}
+                <Link href={"/offres/amoa-projets" as any} className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-[#222222] transition-colors hover:text-[#E7A64F]">
+                  {t("servicesLearnMore")} →
+                </Link>
+              </div>
             </div>
 
-            {/* Paie & Conformité */}
-            <div className="rounded-2xl bg-white p-8 shadow-sm ring-1 ring-gray-100">
-              <ShieldCheck className="mb-6 h-8 w-8 text-[#E7A64F]" />
-              <h3 className="text-xl font-bold text-[#222222]">{PILLARS["paie-conformite"].label}</h3>
-              <p className="mt-3 text-sm leading-relaxed text-gray-500">{PILLARS["paie-conformite"].description}</p>
-              {/* eslint-disable-next-line @typescript-eslint/no-explicit-any */}
-              <Link href={"/offres/paie-conformite" as any} className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-[#222222] transition-colors hover:text-[#E7A64F]">
-                {t("servicesLearnMore")} →
-              </Link>
+            {/* Paie & Conformité — highlighted */}
+            <div className="overflow-hidden rounded-2xl shadow-sm ring-1 ring-gray-100">
+              <div className="bg-[#254770] h-3" />
+              <div className="bg-white p-8">
+                <ShieldCheck className="mb-6 h-8 w-8 text-[#E7A64F]" />
+                <h3 className="text-xl font-bold text-[#222222]">{PILLARS["paie-conformite"].label}</h3>
+                <p className="mt-3 text-sm leading-relaxed text-gray-500">{PILLARS["paie-conformite"].description}</p>
+                {/* eslint-disable-next-line @typescript-eslint/no-explicit-any */}
+                <Link href={"/offres/paie-conformite" as any} className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-[#222222] transition-colors hover:text-[#E7A64F]">
+                  {t("servicesLearnMore")} →
+                </Link>
+              </div>
             </div>
 
             {/* Études RH & Données */}
-            <div className="rounded-2xl bg-white p-8 shadow-sm ring-1 ring-gray-100">
-              <BarChart2 className="mb-6 h-8 w-8 text-[#E7A64F]" />
-              <h3 className="text-xl font-bold text-[#222222]">{PILLARS["etudes-rh-donnees"].label}</h3>
-              <p className="mt-3 text-sm leading-relaxed text-gray-500">{PILLARS["etudes-rh-donnees"].description}</p>
-              {/* eslint-disable-next-line @typescript-eslint/no-explicit-any */}
-              <Link href={"/offres/etudes-rh-donnees" as any} className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-[#222222] transition-colors hover:text-[#E7A64F]">
-                {t("servicesLearnMore")} →
-              </Link>
+            <div className="overflow-hidden rounded-2xl shadow-sm ring-1 ring-gray-100">
+              <div className="bg-[#E7A64F] h-3" />
+              <div className="bg-white p-8">
+                <BarChart2 className="mb-6 h-8 w-8 text-[#E7A64F]" />
+                <h3 className="text-xl font-bold text-[#222222]">{PILLARS["etudes-rh-donnees"].label}</h3>
+                <p className="mt-3 text-sm leading-relaxed text-gray-500">{PILLARS["etudes-rh-donnees"].description}</p>
+                {/* eslint-disable-next-line @typescript-eslint/no-explicit-any */}
+                <Link href={"/offres/etudes-rh-donnees" as any} className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-[#222222] transition-colors hover:text-[#E7A64F]">
+                  {t("servicesLearnMore")} →
+                </Link>
+              </div>
             </div>
           </div>
         </div>
@@ -153,15 +165,14 @@ export default function Home() {
           </div>
 
           {/* Right — image + testimonial */}
-          <div className="relative min-h-[360px]">
-            <div className="absolute inset-0 overflow-hidden rounded-2xl">
-              <Image
-                src="/team-meeting-smile.jpg"
-                alt="Équipe GBA Connect"
-                fill
-                className="object-cover object-center"
-              />
-            </div>
+          <div className="relative min-h-[360px] overflow-hidden rounded-2xl">
+            <Image
+              src="/team-meeting-smile.jpg"
+              alt="Équipe GBA Connect"
+              fill
+              sizes="(max-width: 768px) 100vw, 50vw"
+              className="object-cover object-center"
+            />
             <div className="absolute bottom-6 left-6 right-6 rounded-xl bg-white p-5 shadow-xl">
               <p className="text-sm italic leading-relaxed text-gray-600">{t("testimonial")}</p>
               <p className="mt-3 text-xs font-bold text-[#222222]">{t("testimonialAuthor")}</p>
