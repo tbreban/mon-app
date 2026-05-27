@@ -20,9 +20,8 @@ export default function Navbar() {
           <Image
             src="/LogoGBA.png"
             alt="GBA Connect"
-            width={120}
-            height={40}
-            className="rounded-md"
+            width={140}
+            height={48}
             priority
           />
         </Link>
