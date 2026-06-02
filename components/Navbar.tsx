@@ -1,13 +1,21 @@
 import Image from "next/image";
 import { useTranslations } from "next-intl";
+import { getLocale } from "next-intl/server";
 import { Link } from "@/lib/navigation";
 import LanguageSwitcher from "./LanguageSwitcher";
+import OffresMenu from "./OffresMenu";
+import { getAllOffers } from "@/lib/offers";
 
-export default function Navbar() {
+export default async function Navbar() {
   const t = useTranslations("Navbar");
+  const locale = await getLocale();
 
-  const links = [
-    { href: "/offres" as const, label: t("solutions") },
+  const allOffers = getAllOffers(locale);
+  const navOffers = allOffers
+    .sort((a, b) => a.order - b.order)
+    .map(({ slug, title, pillar }) => ({ slug, title, pillar }));
+
+  const staticLinks = [
     { href: "/actualites" as const, label: t("news") },
     { href: "/about" as const, label: t("about") },
   ];
@@ -25,7 +33,8 @@ export default function Navbar() {
           />
         </Link>
         <nav className="hidden items-center gap-10 md:flex">
-          {links.map((link) => (
+          <OffresMenu offers={navOffers} />
+          {staticLinks.map((link) => (
             <Link
               key={link.href}
               href={link.href}
