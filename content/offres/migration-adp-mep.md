@@ -26,7 +26,7 @@ GBA Connect porte l'AMOA de vos projets ADP avec une **connaissance fine de la s
 - **Spécifications fonctionnelles** rédigées dans le vocabulaire ADP : rubriques, populations, profils, déclencheurs, interfaces standard
 - **Pilotage des équipes ADP** : suivi des livrables, contrôle qualité, gestion des écarts et des évolutions
 - **Stratégie de bascule** : plan de migration, scénarios de repli, contrôles avant/après, parallel run éventuel
-- **Recette métier** sur cas réels et complexes : conventions collectives, populations atypiques, événements rares mais critiques
+- **Recette métier** sur cas réels et complexes : conventions collectives, populations atypiques, évènements rares mais critiques
 - **Suivi des premières paies post-démarrage** : contrôle des écarts, accompagnement des équipes, traitement des incidents
 
 ## Notre approche

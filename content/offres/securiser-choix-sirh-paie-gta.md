@@ -38,9 +38,9 @@ GBA Connect vous met en position de **décider en connaissance de cause**, sur l
 ## Indicateurs de réussite
 
 - Un choix d'éditeur **documenté et défendable** en COMEX et en CSE
-- Un cahier des charges qui sert ensuite de **référentiel contractuel** opposable à l'éditeur
+- Un cahier des charges qui sert ensuite de **référentiel contractuel**, opposable à l'éditeur
 - Une **équipe interne, montée en compétence** sur les enjeux du nouvel outil, prête à entrer en phase projet
-- Une **enveloppe budgétaire pluriannuelle** connue avant signature : licences, intégration, run, TMA
+- Une **enveloppe budgétaire pluriannuelle**, connue avant signature : licences, intégration, run, TMA
 
 ## Format & durée
 

@@ -9,7 +9,7 @@ variant: conseil-projet
 
 **Piloter votre projet du côté métier — pas seulement du côté projet.**
 
-L'AMOA classique sait conduire un projet : ateliers, comités, plannings, livrables. Mais sur un projet SIRH ou Paie, **la complexité est métier avant d'être projet**. Une AMOA qui ne parle pas paie laissera passer la rubrique mal paramétrée, l'interface comptable bancale, le scénario de bascule incomplet — autant de coûts cachés qui se révèlent après le démarrage.
+L'AMOA classique sait conduire un projet : ateliers, comités, plannings, livrables. Mais sur un projet SIRH ou Paie, **la complexité est métier avant d'être projet**. Une AMOA qui ne parle pas paie, laissera passer la rubrique mal paramétrée, l'interface comptable bancale, le scénario de bascule incomplet — autant de coûts cachés qui se révèlent après le démarrage.
 
 GBA Connect porte l'AMOA de vos projets SIRH/Paie/GTA avec une **double exigence : maîtrise méthodologique et maîtrise métier**, quel que soit l'éditeur retenu.
 
