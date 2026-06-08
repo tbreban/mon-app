@@ -1,7 +1,7 @@
 {
   "Metadata": {
     "title": "GBA Connect — Experts SIRH & Paie",
-    "description": "Cabinet de conseil spécialisé en SIRH et gestion de la paie."
+    "description": "Cabinet de conseil spécialisé en SIRH et gestion de la paie"
   },
   "Navbar": {
     "expertise": "Expertise",
@@ -12,7 +12,7 @@
     "viewAll": "Voir toutes les offres"
   },
   "Footer": {
-    "brandDescription": "Excellence RH & Paie.\nCabinet de conseil opérationnel SIRH & Paie.",
+    "brandDescription": "Excellence RH & Paie.\nCabinet de conseil opérationnel SIRH & Paie",
     "servicesTitle": "Services",
     "service1": "Audit Paie",
     "service2": "Externalisation",
@@ -24,7 +24,7 @@
     "info3": "RGPD",
     "info4": "Mentions Légales",
     "contactTitle": "Contact",
-    "contactEmail": "contact@gbaconnect.fr",
+    "contactEmail": "contact@gba-connect.fr",
     "contactPhone": "+33 (0)1 00 00 00 00",
     "contactCity": "Paris, France",
     "copyright": "© 2024 GBA Connect, Excellence RH & Paie.",
@@ -32,8 +32,8 @@
   },
   "HomePage": {
     "heroBadge": "EXCELLENCE RH & PAIE",
-    "heroTitle": "Maîtrisez votre <highlight>SIRH</highlight> & votre paie avec des experts à vos côtés.",
-    "heroDescription": "Audit, transition paie et conseil SIRH pour transformer vos processus RH & Paie en leviers de performance durable.",
+    "heroTitle": "Maîtrisez votre <highlight>SIRH</highlight> & votre paie avec des experts à vos côtés",
+    "heroDescription": "Audit, transition paie et conseil SIRH pour transformer vos processus RH & Paie en leviers de performance durable",
     "ctaServices": "Découvrir nos services",
     "ctaContact": "Contactez-nous",
     "stat1Value": "30+",
@@ -45,22 +45,22 @@
     "stat4Value": "4",
     "stat4Label": "DOMAINES D'EXPERTISE",
     "servicesTitle": "Nos Piliers d'Accompagnement",
-    "servicesDescription": "Une approche structurée pour répondre aux défis complexes de la gestion du capital humain.",
+    "servicesDescription": "Une approche structurée pour répondre aux défis complexes de la gestion du capital humain",
     "service1Title": "SIRH",
-    "service1Description": "Optimisez vos outils digitaux pour une gestion fluide et centralisée de vos ressources humaines.",
+    "service1Description": "Optimisez vos outils digitaux pour une gestion fluide et centralisée de vos ressources humaines",
     "service2Title": "Conseil RH",
-    "service2Description": "Accompagnement stratégique sur mesure pour valoriser vos talents.",
+    "service2Description": "Accompagnement stratégique sur mesure pour valoriser vos talents",
     "service3Title": "Gestion de la Paie",
-    "service3Description": "Sécurisez votre conformité et assurez une justesse irréprochable de vos flux financiers.",
+    "service3Description": "Sécurisez votre conformité et assurez une justesse irréprochable de vos flux financiers",
     "servicesLearnMore": "En savoir plus",
     "whyBadge": "EXPERTISE RECONNUE",
     "whyTitle": "Pourquoi choisir GBA Connect pour vos projets ?",
     "why1Title": "Conformité RGPD",
-    "why1Description": "Sécurité maximale de vos données sensibles et respect des normes.",
+    "why1Description": "Sécurité maximale de vos données sensibles et respect des normes",
     "why2Title": "Réactivité 24/48h",
-    "why2Description": "Un support dédié et une réponse rapide à toutes vos problématiques.",
+    "why2Description": "Un support dédié et une réponse rapide à toutes vos problématiques",
     "why3Title": "Outils Modernes",
-    "why3Description": "Utilisation des dernières technologies SIRH du marché.",
+    "why3Description": "Utilisation des dernières technologies SIRH du marché",
     "testimonial": "\"GBA Connect a transformé notre gestion de la paie, nous permettant de gagner 20% de temps opérationnel.\"",
     "testimonialAuthor": "— DRH, Groupe Industriel",
     "ctaTitle": "Prêt à optimiser vos ressources humaines ?",
@@ -78,12 +78,12 @@
     "backToOffres": "Toutes les offres",
     "breadcrumbOffres": "Nos offres",
     "ctaTitle": "Parlons de votre projet",
-    "ctaDescription": "Échangeons sur vos besoins lors d'un premier entretien sans engagement.",
+    "ctaDescription": "Échangeons sur vos besoins lors d'un premier entretien sans engagement",
     "ctaButton": "Prendre rendez-vous"
   },
   "ContactPage": {
     "title": "Contactez-nous",
-    "description": "Remplissez le formulaire ci-dessous et nous vous répondrons rapidement.",
+    "description": "Remplissez le formulaire ci-dessous et nous vous répondrons rapidement",
     "nom": "Nom",
     "prenom": "Prénom",
     "portable": "Portable",

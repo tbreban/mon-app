@@ -1,4 +1,4 @@
-import { useTranslations } from "next-intl";
+import { useTranslations, useLocale } from "next-intl";
 import { Link } from "@/lib/navigation";
 import Image from "next/image";
 import { Compass, ClipboardList, ShieldCheck, BarChart2, Check } from "lucide-react";
@@ -6,6 +6,8 @@ import { PILLARS, getOffersByPillar } from "@/lib/offers";
 
 export default function Home() {
   const t = useTranslations("HomePage");
+  const locale = useLocale();
+  const isEn = locale === "en";
 
   const stats = [
     { value: t("stat1Value"), label: t("stat1Label") },
@@ -84,8 +86,8 @@ export default function Home() {
               <div className="bg-[#254770] h-3" />
               <div className="bg-white p-8">
                 <Compass className="mb-6 h-8 w-8 text-[#E7A64F]" />
-                <h3 className="text-xl font-bold text-[#222222]">{PILLARS["conseil-strategie"].label}</h3>
-                <p className="mt-3 text-sm leading-relaxed text-gray-500">{PILLARS["conseil-strategie"].description}</p>
+                <h3 className="text-xl font-bold text-[#222222]">{isEn ? PILLARS["conseil-strategie"].labelEn : PILLARS["conseil-strategie"].label}</h3>
+                <p className="mt-3 text-sm leading-relaxed text-gray-500">{isEn ? PILLARS["conseil-strategie"].descriptionEn : PILLARS["conseil-strategie"].description}</p>
                 {/* eslint-disable-next-line @typescript-eslint/no-explicit-any */}
                 <Link href={"/offres/conseil-strategie" as any} className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-[#222222] transition-colors hover:text-[#E7A64F]">
                   {t("servicesLearnMore")} →
@@ -98,8 +100,8 @@ export default function Home() {
               <div className="bg-[#E7A64F] h-3" />
               <div className="bg-white p-8">
                 <ClipboardList className="mb-6 h-8 w-8 text-[#E7A64F]" />
-                <h3 className="text-xl font-bold text-[#222222]">{PILLARS["amoa-projets"].label}</h3>
-                <p className="mt-3 text-sm leading-relaxed text-gray-500">{PILLARS["amoa-projets"].description}</p>
+                <h3 className="text-xl font-bold text-[#222222]">{isEn ? PILLARS["amoa-projets"].labelEn : PILLARS["amoa-projets"].label}</h3>
+                <p className="mt-3 text-sm leading-relaxed text-gray-500">{isEn ? PILLARS["amoa-projets"].descriptionEn : PILLARS["amoa-projets"].description}</p>
                 {/* eslint-disable-next-line @typescript-eslint/no-explicit-any */}
                 <Link href={"/offres/amoa-projets" as any} className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-[#222222] transition-colors hover:text-[#E7A64F]">
                   {t("servicesLearnMore")} →
@@ -112,8 +114,8 @@ export default function Home() {
               <div className="bg-[#254770] h-3" />
               <div className="bg-white p-8">
                 <ShieldCheck className="mb-6 h-8 w-8 text-[#E7A64F]" />
-                <h3 className="text-xl font-bold text-[#222222]">{PILLARS["paie-conformite"].label}</h3>
-                <p className="mt-3 text-sm leading-relaxed text-gray-500">{PILLARS["paie-conformite"].description}</p>
+                <h3 className="text-xl font-bold text-[#222222]">{isEn ? PILLARS["paie-conformite"].labelEn : PILLARS["paie-conformite"].label}</h3>
+                <p className="mt-3 text-sm leading-relaxed text-gray-500">{isEn ? PILLARS["paie-conformite"].descriptionEn : PILLARS["paie-conformite"].description}</p>
                 {/* eslint-disable-next-line @typescript-eslint/no-explicit-any */}
                 <Link href={"/offres/paie-conformite" as any} className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-[#222222] transition-colors hover:text-[#E7A64F]">
                   {t("servicesLearnMore")} →
@@ -126,8 +128,8 @@ export default function Home() {
               <div className="bg-[#E7A64F] h-3" />
               <div className="bg-white p-8">
                 <BarChart2 className="mb-6 h-8 w-8 text-[#E7A64F]" />
-                <h3 className="text-xl font-bold text-[#222222]">{PILLARS["etudes-rh-donnees"].label}</h3>
-                <p className="mt-3 text-sm leading-relaxed text-gray-500">{PILLARS["etudes-rh-donnees"].description}</p>
+                <h3 className="text-xl font-bold text-[#222222]">{isEn ? PILLARS["etudes-rh-donnees"].labelEn : PILLARS["etudes-rh-donnees"].label}</h3>
+                <p className="mt-3 text-sm leading-relaxed text-gray-500">{isEn ? PILLARS["etudes-rh-donnees"].descriptionEn : PILLARS["etudes-rh-donnees"].description}</p>
                 {/* eslint-disable-next-line @typescript-eslint/no-explicit-any */}
                 <Link href={"/offres/etudes-rh-donnees" as any} className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-[#222222] transition-colors hover:text-[#E7A64F]">
                   {t("servicesLearnMore")} →

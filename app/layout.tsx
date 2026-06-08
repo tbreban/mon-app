@@ -10,7 +10,7 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: "GBA Conseil",
-  description: "Cabinet de conseil spécialisé en SIRH et gestion de la paie.",
+  description: "Cabinet de conseil spécialisé en SIRH et gestion de la paie",
 };
 
 export default async function RootLayout({
