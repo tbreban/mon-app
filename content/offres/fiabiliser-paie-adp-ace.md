@@ -1,7 +1,7 @@
 ---
 slug: fiabiliser-paie-adp-ace
 title: Fiabiliser votre paie ADP avec l'outil de contrôle ACE
-pillar: paie-conformite
+pillar: paie
 variant: service-recurrent
 ---
 

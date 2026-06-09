@@ -1,27 +1,27 @@
 export const PILLARS = {
-  "conseil-strategie": {
-    label: "Conseil & Stratégie SIRH",
-    labelEn: "HRIS Consulting & Strategy",
-    description: "Sécuriser vos décisions SIRH/Paie avant d'engager le projet.",
-    descriptionEn: "Secure your SIRH/Payroll decisions before starting the project.",
+  "conseil-projets-sirh": {
+    label: "Conseil & Projets SIRH",
+    labelEn: "HRIS Consulting & Projects",
+    description: "Cadrage, choix de solution, déploiement, conduite du changement, pilotage de projet, recette, transformation.",
+    descriptionEn: "Scoping, solution selection, deployment, change management, project steering, testing, transformation.",
   },
-  "amoa-projets": {
-    label: "AMOA Projets",
-    labelEn: "Project AMOA",
-    description: "Piloter & Executer vos projets SIRH, Paie et GTA du côté métier.",
-    descriptionEn: "Drive your SIRH, Payroll and Time Management projects from the business side.",
+  "paie": {
+    label: "Paie",
+    labelEn: "Payroll",
+    description: "Audit, fiabilisation, externalisation, multi-conventions, contrôles réglementaires.",
+    descriptionEn: "Audit, reliability, outsourcing, multi-agreement, regulatory checks.",
   },
-  "paie-conformite": {
-    label: "Conformité & Transition GTA Paie",
-    labelEn: "GTA Payroll Compliance",
-    description: "Fiabiliser, contrôler et sécuriser votre paie au quotidien.",
-    descriptionEn: "Strengthen, control and secure your T&A + payroll on a daily basis.",
+  "gta": {
+    label: "GTA",
+    labelEn: "Time & Attendance",
+    description: "Conception, paramétrage, badgeage, horaires & cycles, plannings, interfaces avec la paie.",
+    descriptionEn: "Design, configuration, time tracking, schedules & cycles, plannings, payroll interfaces.",
   },
-  "etudes-rh-donnees": {
-    label: "Études RH & Data",
-    labelEn: "HR Studies & Data",
-    description: "Transformer vos données sociales en outil de pilotage.",
-    descriptionEn: "Turn your social data into a management tool.",
+  "formation": {
+    label: "Formation",
+    labelEn: "Training & Enablement",
+    description: "Transfert de compétences en paie et GTA. Accompagnement utilisateurs et parcours sur mesure.",
+    descriptionEn: "Payroll and T&A skills transfer. User support and tailored learning paths.",
   },
 } as const;
 

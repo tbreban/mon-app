@@ -1,7 +1,7 @@
 ---
 slug: reprise-donnees-paie
 title: Reprise de données paie
-pillar: amoa-projets
+pillar: conseil-projets-sirh
 variant: conseil-projet
 ---
 

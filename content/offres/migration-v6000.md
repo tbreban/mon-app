@@ -1,7 +1,7 @@
 ---
 slug: migration-v6000
 title: Migration V6000 (sortie de version ADP)
-pillar: amoa-projets
+pillar: conseil-projets-sirh
 variant: conseil-projet
 ---
 

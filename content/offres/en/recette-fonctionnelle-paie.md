@@ -1,7 +1,7 @@
 ---
 slug: recette-fonctionnelle-paie
 title: Payroll Functional Testing (UAT)
-pillar: amoa-projets
+pillar: conseil-projets-sirh
 variant: conseil-projet
 ---
 

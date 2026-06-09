@@ -1,7 +1,7 @@
 ---
 slug: retro-activite-paie
 title: Retroactive Payroll Adjustments
-pillar: paie-conformite
+pillar: paie
 variant: conseil-projet
 ---
 

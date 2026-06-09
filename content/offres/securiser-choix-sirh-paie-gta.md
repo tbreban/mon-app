@@ -1,7 +1,7 @@
 ---
 slug: securiser-choix-sirh-paie-gta
 title: Sécuriser le choix de votre SIRH, Paie ou GTA
-pillar: conseil-strategie
+pillar: conseil-projets-sirh
 variant: conseil-projet
 ---
 

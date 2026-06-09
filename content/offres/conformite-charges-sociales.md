@@ -1,7 +1,7 @@
 ---
 slug: conformite-charges-sociales
 title: Conformité des charges sociales
-pillar: paie-conformite
+pillar: paie
 variant: conseil-projet
 ---
 

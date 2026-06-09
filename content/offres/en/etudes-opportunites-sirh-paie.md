@@ -1,7 +1,7 @@
 ---
 slug: etudes-opportunites-sirh-paie
 title: HRIS/Payroll Opportunity Assessments
-pillar: conseil-strategie
+pillar: conseil-projets-sirh
 variant: conseil-projet
 ---
 

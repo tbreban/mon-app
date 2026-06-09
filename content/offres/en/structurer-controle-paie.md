@@ -1,7 +1,7 @@
 ---
 slug: structurer-controle-paie
 title: Structuring your payroll controls for the long term
-pillar: paie-conformite
+pillar: formation
 variant: transfert-autonomie
 ---
 

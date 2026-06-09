@@ -1,7 +1,7 @@
 ---
 slug: amoa-projets-sirh-paie-gta
 title: Business Project Management for HRIS/Payroll/Time & Attendance Projects
-pillar: amoa-projets
+pillar: conseil-projets-sirh
 variant: conseil-projet
 ---
 

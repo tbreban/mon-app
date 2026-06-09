@@ -1,7 +1,7 @@
 ---
 slug: audit-fonction-paie
 title: Audit de la fonction Paie
-pillar: paie-conformite
+pillar: paie
 variant: conseil-projet
 ---
 

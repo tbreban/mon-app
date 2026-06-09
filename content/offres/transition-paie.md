@@ -1,7 +1,7 @@
 ---
 slug: transition-paie
 title: Transition Paie
-pillar: paie-conformite
+pillar: paie
 variant: conseil-projet
 order: 1
 ---

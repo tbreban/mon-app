@@ -1,7 +1,7 @@
 ---
 slug: structurer-controle-paie
 title: Structurer durablement votre contrôle de paie
-pillar: paie-conformite
+pillar: formation
 variant: transfert-autonomie
 ---
 

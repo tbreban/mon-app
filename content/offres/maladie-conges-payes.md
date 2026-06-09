@@ -1,7 +1,7 @@
 ---
 slug: maladie-conges-payes
 title: Maladie & Congés payés — sécuriser votre conformité post-réforme
-pillar: paie-conformite
+pillar: paie
 variant: conseil-projet
 ---
 

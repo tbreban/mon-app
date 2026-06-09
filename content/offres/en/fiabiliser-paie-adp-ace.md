@@ -1,7 +1,7 @@
 ---
 slug: fiabiliser-paie-adp-ace
 title: Securing your ADP payroll with the ACE control tool
-pillar: paie-conformite
+pillar: paie
 variant: service-recurrent
 ---
 

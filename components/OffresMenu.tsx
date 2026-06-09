@@ -9,10 +9,10 @@ import { PILLARS, type PillarSlug } from "@/lib/pillars";
 type NavOffer = { slug: string; title: string; pillar: PillarSlug };
 
 const PILLAR_ORDER: PillarSlug[] = [
-  "conseil-strategie",
-  "amoa-projets",
-  "paie-conformite",
-  "etudes-rh-donnees",
+  "conseil-projets-sirh",
+  "paie",
+  "gta",
+  "formation",
 ];
 
 export default function OffresMenu({ offers }: { offers: NavOffer[] }) {

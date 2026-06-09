@@ -1,7 +1,7 @@
 ---
 slug: retro-activite-paie
 title: Gestion de la rétro-activité paie
-pillar: paie-conformite
+pillar: paie
 variant: conseil-projet
 ---
 

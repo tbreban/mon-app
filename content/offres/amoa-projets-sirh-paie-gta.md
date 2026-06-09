@@ -1,7 +1,7 @@
 ---
 slug: amoa-projets-sirh-paie-gta
 title: AMOA Projets SIRH/Paie/GTA
-pillar: amoa-projets
+pillar: conseil-projets-sirh
 variant: conseil-projet
 ---
 

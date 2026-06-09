@@ -1,7 +1,7 @@
 ---
 slug: securiser-choix-sirh-paie-gta
 title: Securing Your HRIS, Payroll or Time & Attendance Choice
-pillar: conseil-strategie
+pillar: conseil-projets-sirh
 variant: conseil-projet
 ---
 

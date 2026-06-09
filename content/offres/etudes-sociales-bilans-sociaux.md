@@ -1,7 +1,7 @@
 ---
 slug: etudes-sociales-bilans-sociaux
 title: Études sociales et bilans sociaux
-pillar: etudes-rh-donnees
+pillar: paie
 variant: conseil-projet
 ---
 

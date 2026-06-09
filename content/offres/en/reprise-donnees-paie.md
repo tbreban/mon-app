@@ -1,7 +1,7 @@
 ---
 slug: reprise-donnees-paie
 title: Payroll Data Migration
-pillar: amoa-projets
+pillar: conseil-projets-sirh
 variant: conseil-projet
 ---
 

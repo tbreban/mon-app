@@ -1,7 +1,7 @@
 ---
 slug: etudes-opportunites-sirh-paie
 title: Études d'opportunités SIRH/Paie
-pillar: conseil-strategie
+pillar: conseil-projets-sirh
 variant: conseil-projet
 ---
 

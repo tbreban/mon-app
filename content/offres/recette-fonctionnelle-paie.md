@@ -1,7 +1,7 @@
 ---
 slug: recette-fonctionnelle-paie
 title: Recette fonctionnelle paie
-pillar: amoa-projets
+pillar: conseil-projets-sirh
 variant: conseil-projet
 ---
 

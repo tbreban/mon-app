@@ -1,7 +1,7 @@
 ---
 slug: bdese
 title: BDESE — concevoir et alimenter votre Base de Données Économiques, Sociales et Environnementales
-pillar: etudes-rh-donnees
+pillar: paie
 variant: conseil-projet
 ---
 

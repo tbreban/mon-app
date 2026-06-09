@@ -1,7 +1,7 @@
 ---
 slug: migration-adp-mep
 title: ADP Migration Support
-pillar: amoa-projets
+pillar: conseil-projets-sirh
 variant: conseil-projet
 ---
 

@@ -1,7 +1,7 @@
 ---
 slug: maladie-conges-payes
 title: Sick Leave & Annual Leave — securing your compliance after the 2024 reform
-pillar: paie-conformite
+pillar: paie
 variant: conseil-projet
 ---
 
