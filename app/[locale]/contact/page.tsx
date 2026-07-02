@@ -18,9 +18,10 @@ export default function Contact() {
     portable: "",
     email: "",
     motif: "",
+    message: "",
   });
 
-  function handleChange(e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement>) {
+  function handleChange(e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement>) {
     setForm({ ...form, [e.target.name]: e.target.value });
   }
 
@@ -70,7 +71,7 @@ export default function Contact() {
               {t("successMessage")}
             </p>
             <button
-              onClick={() => { setSubmitted(false); setForm({ nom: "", prenom: "", portable: "", email: "", motif: "" }); }}
+              onClick={() => { setSubmitted(false); setForm({ nom: "", prenom: "", portable: "", email: "", motif: "", message: "" }); }}
               className="w-fit rounded-full bg-foreground px-5 py-3 text-sm font-medium text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc]"
             >
               {t("sendAnother")}
@@ -158,10 +159,29 @@ export default function Contact() {
                 className="rounded-full border border-black/[.08] bg-white px-5 py-3 text-sm text-black outline-none transition-colors hover:border-black/20 focus:border-black dark:border-white/[.145] dark:bg-black dark:text-zinc-50 dark:hover:border-white/30 dark:focus:border-white"
               >
                 <option value="" disabled>{t("motifPlaceholder")}</option>
-                <option value="fleur">{t("motif1")}</option>
-                <option value="papillon">{t("motif2")}</option>
-                <option value="casquette">{t("motif3")}</option>
+                <option value="devis">{t("motif1")}</option>
+                <option value="offre">{t("motif2")}</option>
+                <option value="rdv">{t("motif3")}</option>
+                <option value="recrutement">{t("motif4")}</option>
+                <option value="partenariat">{t("motif5")}</option>
+                <option value="autre">{t("motif6")}</option>
               </select>
+            </div>
+
+            <div className="flex flex-col gap-2">
+              <label className="text-sm font-medium text-black dark:text-zinc-50">
+                {t("message")} <span className="text-zinc-400">*</span>
+              </label>
+              <textarea
+                name="message"
+                value={form.message}
+                onChange={handleChange}
+                required
+                rows={5}
+                maxLength={5000}
+                placeholder={t("messagePlaceholder")}
+                className="resize-y rounded-2xl border border-black/[.08] bg-transparent px-5 py-3 text-sm text-black placeholder-zinc-400 outline-none transition-colors hover:border-black/20 focus:border-black dark:border-white/[.145] dark:text-zinc-50 dark:placeholder-zinc-600 dark:hover:border-white/30 dark:focus:border-white"
+              />
             </div>
 
             {error && (
