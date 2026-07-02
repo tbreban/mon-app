@@ -89,6 +89,7 @@ export default function Contact() {
                   value={form.nom}
                   onChange={handleChange}
                   required
+                  maxLength={100}
                   placeholder="Dupont"
                   className={inputClass}
                 />
@@ -104,6 +105,7 @@ export default function Contact() {
                   value={form.prenom}
                   onChange={handleChange}
                   required
+                  maxLength={100}
                   placeholder="Jean"
                   className={inputClass}
                 />
@@ -121,6 +123,7 @@ export default function Contact() {
                   value={form.portable}
                   onChange={handleChange}
                   required
+                  maxLength={30}
                   placeholder="06 00 00 00 00"
                   className={inputClass}
                 />
@@ -136,6 +139,7 @@ export default function Contact() {
                   value={form.email}
                   onChange={handleChange}
                   required
+                  maxLength={254}
                   placeholder="jean.dupont@email.com"
                   className={inputClass}
                 />
