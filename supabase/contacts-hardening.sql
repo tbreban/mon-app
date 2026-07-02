@@ -28,6 +28,8 @@ alter table public.contacts
   add column if not exists created_at timestamptz not null default now();
 alter table public.contacts
   add column if not exists ip text;
+alter table public.contacts
+  add column if not exists message text;
 
 -- 2. Validation constraints --------------------------------------------------
 alter table public.contacts drop constraint if exists contacts_len_chk;
@@ -37,6 +39,8 @@ alter table public.contacts add constraint contacts_len_chk check (
   and char_length(portable) between 1 and 30
   and char_length(email)    between 3 and 254
   and char_length(motif)    between 1 and 50
+  -- message is nullable for pre-existing rows; when present it must be 1..5000
+  and (message is null or char_length(message) between 1 and 5000)
 );
 
 alter table public.contacts drop constraint if exists contacts_email_chk;
