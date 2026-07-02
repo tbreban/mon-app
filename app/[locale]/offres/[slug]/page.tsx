@@ -15,6 +15,11 @@ import OfferCard from "@/components/OfferCard";
 import { ArrowLeft } from "lucide-react";
 import type { Metadata } from "next";
 
+// Only slugs enumerated by generateStaticParams are valid; any other slug
+// 404s instead of being rendered on demand (avoids untrusted slugs reaching
+// the filesystem lookup in getOfferBySlug).
+export const dynamicParams = false;
+
 export async function generateStaticParams() {
   const offerSlugs = getAllOffers().map((o) => ({ slug: o.slug }));
   const pillarSlugs = (Object.keys(PILLARS) as PillarSlug[]).map((slug) => ({ slug }));

@@ -16,7 +16,12 @@ export interface Offer {
 
 const CONTENT_DIR = path.join(process.cwd(), "content", "offres");
 
+// Slugs are simple content identifiers; reject anything else before it can
+// reach the filesystem (defense-in-depth against path traversal).
+const SLUG_RE = /^[a-z0-9-]+$/;
+
 export function getOfferBySlug(slug: string, locale = "fr"): Offer | null {
+  if (!SLUG_RE.test(slug) || !SLUG_RE.test(locale)) return null;
   const localePath = path.join(CONTENT_DIR, locale, `${slug}.md`);
   const defaultPath = path.join(CONTENT_DIR, `${slug}.md`);
   const filePath = locale !== "fr" && fs.existsSync(localePath) ? localePath : defaultPath;
