@@ -12,6 +12,7 @@ import {
   type PillarSlug,
 } from "@/lib/offers";
 import OfferCard from "@/components/OfferCard";
+import HighlightText from "@/components/HighlightText";
 import { ArrowLeft } from "lucide-react";
 import type { Metadata } from "next";
 
@@ -132,7 +133,21 @@ function PillarPage({ pillarSlug }: { pillarSlug: PillarSlug }) {
             {pillarLabel}
           </h1>
           <p className="mt-4 max-w-xl text-lg leading-relaxed text-white/65">
-            {pillarDesc}
+            {pillarSlug === "paie" ? (
+              <HighlightText
+                text={pillarDesc}
+                highlight={locale === "en" ? "payroll transition" : "transition paie"}
+                className="font-bold text-[#E7A64F]"
+              />
+            ) : pillarSlug === "conseil-projets-sirh" ? (
+              <HighlightText
+                text={pillarDesc}
+                highlight={locale === "en" ? "migration project" : "projet de migration"}
+                className="font-bold text-[#E7A64F]"
+              />
+            ) : (
+              pillarDesc
+            )}
           </p>
         </div>
       </section>

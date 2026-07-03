@@ -2,14 +2,14 @@ export const PILLARS = {
   "conseil-projets-sirh": {
     label: "Conseil & Projets SIRH",
     labelEn: "HRIS Consulting & Projects",
-    description: "Cadrage, choix de solution, déploiement, conduite du changement, pilotage de projet, recette, transformation.",
-    descriptionEn: "Scoping, solution selection, deployment, change management, project steering, testing, transformation.",
+    description: "Cadrage, choix de solution, déploiement, conduite du changement, projet de migration, recette, transformation.",
+    descriptionEn: "Scoping, solution selection, deployment, change management, migration project, testing, transformation.",
   },
   "paie": {
     label: "Paie",
     labelEn: "Payroll",
-    description: "Audit, fiabilisation, externalisation, multi-conventions, contrôles réglementaires.",
-    descriptionEn: "Audit, reliability, outsourcing, multi-agreement, regulatory checks.",
+    description: "Audit, fiabilisation, transition paie, multi-conventions, contrôles réglementaires.",
+    descriptionEn: "Audit, reliability, payroll transition, multi-agreement, regulatory checks.",
   },
   "gta": {
     label: "GTA",

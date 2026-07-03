@@ -3,6 +3,7 @@ import { Link } from "@/lib/navigation";
 import Image from "next/image";
 import { Compass, ShieldCheck, Clock, GraduationCap, Check } from "lucide-react";
 import { PILLARS, getOffersByPillar } from "@/lib/offers";
+import HighlightText from "@/components/HighlightText";
 
 export default function Home() {
   const t = useTranslations("HomePage");
@@ -87,7 +88,12 @@ export default function Home() {
               <div className="bg-white p-8">
                 <Compass className="mb-6 h-8 w-8 text-[#E7A64F]" />
                 <h3 className="text-xl font-bold text-[#222222]">{isEn ? PILLARS["conseil-projets-sirh"].labelEn : PILLARS["conseil-projets-sirh"].label}</h3>
-                <p className="mt-3 text-sm leading-relaxed text-gray-500">{isEn ? PILLARS["conseil-projets-sirh"].descriptionEn : PILLARS["conseil-projets-sirh"].description}</p>
+                <p className="mt-3 text-sm leading-relaxed text-gray-500">
+                  <HighlightText
+                    text={isEn ? PILLARS["conseil-projets-sirh"].descriptionEn : PILLARS["conseil-projets-sirh"].description}
+                    highlight={isEn ? "migration project" : "projet de migration"}
+                  />
+                </p>
                 {/* eslint-disable-next-line @typescript-eslint/no-explicit-any */}
                 <Link href={"/offres/conseil-projets-sirh" as any} className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-[#222222] transition-colors hover:text-[#E7A64F]">
                   {t("servicesLearnMore")} →
@@ -101,7 +107,12 @@ export default function Home() {
               <div className="bg-white p-8">
                 <ShieldCheck className="mb-6 h-8 w-8 text-[#E7A64F]" />
                 <h3 className="text-xl font-bold text-[#222222]">{isEn ? PILLARS["paie"].labelEn : PILLARS["paie"].label}</h3>
-                <p className="mt-3 text-sm leading-relaxed text-gray-500">{isEn ? PILLARS["paie"].descriptionEn : PILLARS["paie"].description}</p>
+                <p className="mt-3 text-sm leading-relaxed text-gray-500">
+                  <HighlightText
+                    text={isEn ? PILLARS["paie"].descriptionEn : PILLARS["paie"].description}
+                    highlight={isEn ? "payroll transition" : "transition paie"}
+                  />
+                </p>
                 {/* eslint-disable-next-line @typescript-eslint/no-explicit-any */}
                 <Link href={"/offres/paie" as any} className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-[#222222] transition-colors hover:text-[#E7A64F]">
                   {t("servicesLearnMore")} →
