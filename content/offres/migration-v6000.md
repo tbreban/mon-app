@@ -1,7 +1,7 @@
 ---
 slug: migration-v6000
 title: Migration V6000 (sortie de version ADP)
-pillar: conseil-projets-sirh
+pillar: gta
 variant: conseil-projet
 ---
 

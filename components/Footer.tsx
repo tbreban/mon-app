@@ -1,9 +1,13 @@
-import { useTranslations } from "next-intl";
+import { useTranslations, useLocale } from "next-intl";
 import { Link } from "@/lib/navigation";
 import { Mail, Phone, MapPin } from "lucide-react";
+import { PILLARS, type PillarSlug } from "@/lib/pillars";
 
 export default function Footer() {
   const t = useTranslations("Footer");
+  const locale = useLocale();
+  const isEn = locale === "en";
+  const pillarSlugs = Object.keys(PILLARS) as PillarSlug[];
 
   return (
     <footer className="bg-[#254770] text-white">
@@ -24,10 +28,11 @@ export default function Footer() {
               {t("servicesTitle")}
             </p>
             <ul className="mt-4 space-y-2.5">
-              {(["service1", "service2", "service3", "service4"] as const).map((key) => (
-                <li key={key}>
-                  <Link href="/offres" className="text-sm text-white/55 transition-colors hover:text-white">
-                    {t(key)}
+              {pillarSlugs.map((slug) => (
+                <li key={slug}>
+                  {/* eslint-disable-next-line @typescript-eslint/no-explicit-any */}
+                  <Link href={`/offres/${slug}` as any} className="text-sm text-white/55 transition-colors hover:text-white">
+                    {isEn ? PILLARS[slug].labelEn : PILLARS[slug].label}
                   </Link>
                 </li>
               ))}
@@ -40,9 +45,15 @@ export default function Footer() {
               {t("infoTitle")}
             </p>
             <ul className="mt-4 space-y-2.5">
-              {(["info1", "info2", "info3", "info4"] as const).map((key) => (
+              {(
+                [
+                  { key: "info2", href: "/about" },
+                  { key: "info3", href: "/rgpd" },
+                  { key: "info4", href: "/mentions-legales" },
+                ] as const
+              ).map(({ key, href }) => (
                 <li key={key}>
-                  <Link href="/about" className="text-sm text-white/55 transition-colors hover:text-white">
+                  <Link href={href} className="text-sm text-white/55 transition-colors hover:text-white">
                     {t(key)}
                   </Link>
                 </li>

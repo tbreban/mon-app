@@ -15,10 +15,7 @@ export default async function Navbar() {
     .sort((a, b) => a.order - b.order)
     .map(({ slug, title, pillar }) => ({ slug, title, pillar }));
 
-  const staticLinks = [
-    { href: "/actualites" as const, label: t("news") },
-    { href: "/about" as const, label: t("about") },
-  ];
+  const staticLinks = [{ href: "/about" as const, label: t("about") }];
 
   return (
     <header className="sticky top-0 z-50 w-full border-b border-gray-100 bg-white shadow-sm">
@@ -33,6 +30,12 @@ export default async function Navbar() {
           />
         </Link>
         <nav className="hidden items-center gap-10 md:flex">
+          <Link
+            href="/"
+            className="text-lg font-medium text-gray-600 transition-colors hover:text-[#254770]"
+          >
+            {t("home")}
+          </Link>
           <OffresMenu offers={navOffers} />
           {staticLinks.map((link) => (
             <Link
