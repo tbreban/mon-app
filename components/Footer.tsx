@@ -84,11 +84,8 @@ export default function Footer() {
         </div>
 
         {/* Bottom bar */}
-        <div className="mt-14 flex flex-col items-center justify-between gap-3 border-t border-white/10 pt-6 sm:flex-row">
+        <div className="mt-14 border-t border-white/10 pt-6 text-center sm:text-left">
           <p className="text-xs text-white/35">{t("copyright")}</p>
-          <Link href="/privacy" className="text-xs text-white/35 transition-colors hover:text-white">
-            {t("privacy")}
-          </Link>
         </div>
       </div>
     </footer>
