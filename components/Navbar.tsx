@@ -24,8 +24,8 @@ export default async function Navbar() {
           <Image
             src="/LogoGBA.png"
             alt="GBA Connect"
-            width={250}
-            height={86}
+            width={300}
+            height={103}
             priority
           />
         </Link>
