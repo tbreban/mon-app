@@ -159,12 +159,11 @@ export default function Contact() {
                 className="rounded-full border border-black/[.08] bg-white px-5 py-3 text-sm text-black outline-none transition-colors hover:border-black/20 focus:border-black dark:border-white/[.145] dark:bg-black dark:text-zinc-50 dark:hover:border-white/30 dark:focus:border-white"
               >
                 <option value="" disabled>{t("motifPlaceholder")}</option>
-                <option value="devis">{t("motif1")}</option>
-                <option value="offre">{t("motif2")}</option>
-                <option value="rdv">{t("motif3")}</option>
-                <option value="recrutement">{t("motif4")}</option>
-                <option value="partenariat">{t("motif5")}</option>
-                <option value="autre">{t("motif6")}</option>
+                <option value="sirh">{t("motif1")}</option>
+                <option value="paie">{t("motif2")}</option>
+                <option value="gta">{t("motif3")}</option>
+                <option value="formation">{t("motif4")}</option>
+                <option value="autre">{t("motif5")}</option>
               </select>
             </div>
 
