@@ -1,5 +1,11 @@
 // supabase/functions/send-email/index.ts
-import { SMTPClient } from "https://deno.land/x/denomailer@1.6.0/mod.ts";
+// Sends the contact-form notification via the Brevo transactional email HTTP
+// API (https://api.brevo.com/v3/smtp/email). Using the HTTP API instead of raw
+// SMTP avoids the TLS/STARTTLS issues denomailer hits on Supabase Edge.
+//
+// Required secrets: FUNCTION_SECRET (webhook auth), BREVO_API_KEY, SMTP_FROM
+// (a sender verified in Brevo), CONTACT_TO (GBA inbox). The old SMTP_HOST/
+// SMTP_PORT/SMTP_USER/SMTP_PASS secrets are no longer used.
 
 Deno.serve(async (req) => {
   // Verify the request came from the database webhook. The webhook's
@@ -12,53 +18,50 @@ Deno.serve(async (req) => {
     return new Response("Unauthorized", { status: 401 });
   }
 
-  // Match TLS mode to the port: 465 = implicit TLS; 587/25 = STARTTLS (connect
-  // in plaintext, then upgrade). Forcing implicit TLS on a STARTTLS port throws
-  // "received corrupt message of type InvalidContentType".
-  const port = Number(Deno.env.get("SMTP_PORT") ?? 465);
-  const client = new SMTPClient({
-    connection: {
-      hostname: Deno.env.get("SMTP_HOST")!,
-      port,
-      tls: port === 465,
-      auth: {
-        username: Deno.env.get("SMTP_USER")!,
-        password: Deno.env.get("SMTP_PASS")!,
-      },
-    },
-  });
-
   try {
+    const apiKey = Deno.env.get("BREVO_API_KEY");
+    if (!apiKey) throw new Error("BREVO_API_KEY is not set");
+
     const payload = await req.json();
     // Database Webhook payload shape: { type, table, record, old_record, schema }
     const row = payload.record;
 
-    // Notification goes TO the GBA inbox (contact@gba-connect.fr), configured
-    // in the CONTACT_TO env var. From must be a domain-authenticated sender
-    // (SMTP_FROM) for SPF/DKIM — it cannot be the visitor's address. The
-    // visitor's email is set as Reply-To so replying reaches them directly.
-    const to = Deno.env.get("CONTACT_TO") ?? Deno.env.get("SMTP_FROM")!;
-    const from = Deno.env.get("SMTP_FROM")!;
-
+    // From must be a sender verified in Brevo (SPF/DKIM); it cannot be the
+    // visitor's address. To is the GBA inbox. The visitor's email is set as
+    // Reply-To so replying reaches them directly.
+    const fromEmail = Deno.env.get("SMTP_FROM")!;
+    const toEmail = Deno.env.get("CONTACT_TO") ?? fromEmail;
     const name = oneLine(`${row.prenom ?? ""} ${row.nom ?? ""}`.trim()) || "—";
 
-    await client.send({
-      from,
-      to,
-      replyTo: row.email,
-      subject: `Nouveau message de contact — ${name} (${oneLine(row.motif ?? "")})`,
-      content: "auto",                     // lets denomailer build text/plain
-      html: `
-        <h2>Nouveau message via le formulaire de contact</h2>
-        <p><strong>Nom :</strong> ${escapeHtml(row.nom ?? "")}</p>
-        <p><strong>Prénom :</strong> ${escapeHtml(row.prenom ?? "")}</p>
-        <p><strong>Email :</strong> ${escapeHtml(row.email ?? "")}</p>
-        <p><strong>Portable :</strong> ${escapeHtml(row.portable ?? "")}</p>
-        <p><strong>Motif :</strong> ${escapeHtml(row.motif ?? "")}</p>
-        <p><strong>Message :</strong></p>
-        <p>${escapeHtml(row.message ?? "").replace(/\n/g, "<br>")}</p>
-      `,
+    const res = await fetch("https://api.brevo.com/v3/smtp/email", {
+      method: "POST",
+      headers: {
+        "api-key": apiKey,
+        "content-type": "application/json",
+        "accept": "application/json",
+      },
+      body: JSON.stringify({
+        sender: { email: fromEmail, name: "Formulaire GBA Connect" },
+        to: [{ email: toEmail }],
+        replyTo: row.email ? { email: row.email, name } : undefined,
+        subject: `Nouveau message de contact — ${name} (${oneLine(row.motif ?? "")})`,
+        htmlContent: `
+          <h2>Nouveau message via le formulaire de contact</h2>
+          <p><strong>Nom :</strong> ${escapeHtml(row.nom ?? "")}</p>
+          <p><strong>Prénom :</strong> ${escapeHtml(row.prenom ?? "")}</p>
+          <p><strong>Email :</strong> ${escapeHtml(row.email ?? "")}</p>
+          <p><strong>Portable :</strong> ${escapeHtml(row.portable ?? "")}</p>
+          <p><strong>Motif :</strong> ${escapeHtml(row.motif ?? "")}</p>
+          <p><strong>Message :</strong></p>
+          <p>${escapeHtml(row.message ?? "").replace(/\n/g, "<br>")}</p>
+        `,
+      }),
     });
+
+    if (!res.ok) {
+      const detail = await res.text();
+      throw new Error(`Brevo API ${res.status}: ${detail}`);
+    }
 
     return new Response(JSON.stringify({ ok: true }), {
       headers: { "Content-Type": "application/json" },
@@ -69,15 +72,6 @@ Deno.serve(async (req) => {
       status: 500,
       headers: { "Content-Type": "application/json" },
     });
-  } finally {
-    // Close per-request: a reused SMTP connection across Edge isolates goes stale.
-    // denomailer's close() may return undefined (not a promise), so guard it and
-    // swallow errors from a connection that never fully opened.
-    try {
-      await client.close();
-    } catch (_) {
-      /* already closed or never opened */
-    }
   }
 });
 
