@@ -2,9 +2,13 @@
 import { SMTPClient } from "https://deno.land/x/denomailer@1.6.0/mod.ts";
 
 Deno.serve(async (req) => {
-  // Verify the request came from your database/webhook
+  // Verify the request came from the database webhook. Supabase DB webhooks
+  // authenticate with the project's service_role key in the Authorization
+  // header. We require exactly that key — checking for "any valid JWT" is not
+  // enough, since the anon key is public and would let anyone in.
   const authHeader = req.headers.get("Authorization");
-  if (authHeader !== `Bearer ${Deno.env.get("FUNCTION_SECRET")}`) {
+  const serviceRoleKey = Deno.env.get("SUPABASE_SERVICE_ROLE_KEY");
+  if (!serviceRoleKey || authHeader !== `Bearer ${serviceRoleKey}`) {
     return new Response("Unauthorized", { status: 401 });
   }
 
