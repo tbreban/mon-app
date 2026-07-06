@@ -1,24 +1,28 @@
 // supabase/functions/send-email/index.ts
 import { SMTPClient } from "https://deno.land/x/denomailer@1.6.0/mod.ts";
 
-const client = new SMTPClient({
-  connection: {
-    hostname: Deno.env.get("SMTP_HOST")!,
-    port: Number(Deno.env.get("SMTP_PORT") ?? 465),
-    tls: true, // use implicit TLS (port 465). For STARTTLS on 587, see note below
-    auth: {
-      username: Deno.env.get("SMTP_USER")!,
-      password: Deno.env.get("SMTP_PASS")!,
-    },
-  },
-});
-
 Deno.serve(async (req) => {
   // Verify the request came from your database/webhook
   const authHeader = req.headers.get("Authorization");
   if (authHeader !== `Bearer ${Deno.env.get("FUNCTION_SECRET")}`) {
     return new Response("Unauthorized", { status: 401 });
   }
+
+  // Match TLS mode to the port: 465 = implicit TLS; 587/25 = STARTTLS (connect
+  // in plaintext, then upgrade). Forcing implicit TLS on a STARTTLS port throws
+  // "received corrupt message of type InvalidContentType".
+  const port = Number(Deno.env.get("SMTP_PORT") ?? 465);
+  const client = new SMTPClient({
+    connection: {
+      hostname: Deno.env.get("SMTP_HOST")!,
+      port,
+      tls: port === 465,
+      auth: {
+        username: Deno.env.get("SMTP_USER")!,
+        password: Deno.env.get("SMTP_PASS")!,
+      },
+    },
+  });
 
   try {
     const payload = await req.json();
@@ -61,6 +65,9 @@ Deno.serve(async (req) => {
       status: 500,
       headers: { "Content-Type": "application/json" },
     });
+  } finally {
+    // Close per-request: a reused SMTP connection across Edge isolates goes stale.
+    await client.close().catch(() => {});
   }
 });
 
