@@ -7,9 +7,9 @@ variant: service-recurrent
 
 # Fiabiliser votre paie ADP avec l'outil de contrôle ACE
 
-**Détecter les écarts avant qu'ils ne deviennent des incidents — bulletin par bulletin, mois après mois.**
+**Détecter les écarts avant qu'ils ne deviennent des incidents - bulletin par bulletin, mois après mois.**
 
-Une paie ADP, c'est en moyenne plusieurs milliers de rubriques actives, des paramétrages hérités sur plusieurs années, et un volume de bulletins qu'aucun gestionnaire ne peut contrôler exhaustivement à la main. Les écarts existent toujours — la question n'est pas *s'ils existent*, mais *quand* vous les découvrez : avant la DSN, après une réclamation salarié, ou lors d'un contrôle URSSAF.
+Une paie ADP, c'est en moyenne plusieurs milliers de rubriques actives, des paramétrages hérités sur plusieurs années, et un volume de bulletins qu'aucun gestionnaire ne peut contrôler exhaustivement à la main. Les écarts existent toujours - la question n'est pas *s'ils existent*, mais *quand* vous les découvrez : avant la DSN, après une réclamation salarié, ou lors d'un contrôle URSSAF.
 
 GBA Connect exploite **ACE, l'outil de contrôle de paie d'ADP**, pour transformer ce contrôle en processus systématique, traçable et industrialisé.
 
@@ -33,7 +33,7 @@ GBA Connect exploite **ACE, l'outil de contrôle de paie d'ADP**, pour transform
 
 > *« Avant, on découvrait les écarts via les retours salariés ou les régularisations en N+1. Avec le contrôle outillé mis en place, on les détecte au moment de la pré-paie, on les corrige avant l'édition du bulletin. La DSN passe sans rejet, et les retours salariés ont sensiblement diminué. »*
 >
-> — *Responsable Paie, groupe de services, 4 500 paies mensuelles — mission réalisée par les associés-fondateurs avant la création de GBA Connect*
+> - *Responsable Paie, groupe de services, 4 500 paies mensuelles - mission réalisée par les associés-fondateurs avant la création de GBA Connect*
 
 ## Indicateurs de réussite
 
@@ -46,12 +46,12 @@ GBA Connect exploite **ACE, l'outil de contrôle de paie d'ADP**, pour transform
 
 Deux modalités possibles selon votre maturité :
 
-- **Mise en place + transfert** : projet de 8 à 12 semaines pour cartographier, paramétrer, former vos équipes — puis vous opérez en autonomie.
+- **Mise en place + transfert** : projet de 8 à 12 semaines pour cartographier, paramétrer, former vos équipes - puis vous opérez en autonomie.
 - **Run mensuel délégué** : GBA Connect produit chaque mois les contrôles ACE et le reporting associé. Engagement annuel, volume facturé selon nombre de bulletins et complexité paramétrale.
 
 ## Ce que nous ne faisons pas
 
-GBA Connect n'effectue **pas la production de paie** elle-même : nous contrôlons, nous ne saisissons pas. Cette séparation est volontaire — elle garantit l'indépendance du contrôle vis-à-vis de la production.
+GBA Connect n'effectue **pas la production de paie** elle-même : nous contrôlons, nous ne saisissons pas. Cette séparation est volontaire - elle garantit l'indépendance du contrôle vis-à-vis de la production.
 
 ## Pour aller plus loin
 

@@ -7,7 +7,7 @@ variant: conseil-projet
 
 # Réussir votre sortie de V6000
 
-**La fin de la V6000 est annoncée — il est temps d'organiser la transition sans subir le calendrier éditeur.**
+**La fin de la V6000 est annoncée - il est temps d'organiser la transition sans subir le calendrier éditeur.**
 
 ADP V6000 a accompagné des centaines d'entreprises pendant deux décennies. La sortie de cette version est désormais cadrée par ADP, avec un calendrier contraint et des options de cible (ADP Link, Decidium, autres solutions ADP ou changement complet d'éditeur). Cette transition n'est pas une simple montée de version : c'est un **projet de migration complet**, avec reprise de données, refonte du paramétrage, recette métier et bascule sociale.
 
@@ -23,7 +23,7 @@ GBA Connect a accompagné des entreprises sur cette transition spécifique. Nous
 ## Ce que nous livrons
 
 - **Diagnostic de votre instance V6000** : volumétrie, complexité paramétrale, spécifiques, interfaces, dette technique
-- **Étude des cibles possibles** : ADP Link, Decidium, autres solutions ADP, ou sortie de l'écosystème — avec analyse comparative
+- **Étude des cibles possibles** : ADP Link, Decidium, autres solutions ADP, ou sortie de l'écosystème - avec analyse comparative
 - **Stratégie de migration** : périmètre, calendrier, jalons critiques, stratégie de reprise, plan de recette
 - **AMOA de la migration** : pilotage des équipes ADP, suivi des paramétrages, recette métier sur cas réels
 - **Reprise de l'historique** : stratégie, contrôles d'intégrité, validation des cumuls et des reprises de soldes
@@ -33,7 +33,7 @@ GBA Connect a accompagné des entreprises sur cette transition spécifique. Nous
 
 > *« Sur la V6000, il y a des sujets qu'on ne voit qu'avec l'expérience : les cumuls de rubriques fantômes, les paramétrages qui ne se documentent pas tout seuls, les interfaces qui ont vieilli avec le SI. Avoir des gens qui ont fait la migration ailleurs nous a évité de redécouvrir tout ça en cours de projet. »*
 >
-> — *Resp. Paie, groupe de services multi-établissements — mission réalisée par les associés-fondateurs avant la création de GBA Connect*
+> - *Resp. Paie, groupe de services multi-établissements - mission réalisée par les associés-fondateurs avant la création de GBA Connect*
 
 ## Indicateurs de réussite
 

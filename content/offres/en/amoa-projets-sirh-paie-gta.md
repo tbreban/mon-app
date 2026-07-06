@@ -7,9 +7,9 @@ variant: conseil-projet
 
 # Business Project Management for HRIS, Payroll and Time & Attendance Projects
 
-**Driving your project from the business side — not just the project management side.**
+**Driving your project from the business side - not just the project management side.**
 
-Standard Business Project Management (AMOA) knows how to run a project: workshops, steering committees, schedules, deliverables. But on an HRIS or Payroll project, **the complexity is business complexity before it is project complexity**. A Business Project Manager who doesn't speak payroll will miss the misconfigured pay element, the unstable accounting interface, the incomplete cutover scenario — all hidden costs that only surface after go-live.
+Standard Business Project Management (AMOA) knows how to run a project: workshops, steering committees, schedules, deliverables. But on an HRIS or Payroll project, **the complexity is business complexity before it is project complexity**. A Business Project Manager who doesn't speak payroll will miss the misconfigured pay element, the unstable accounting interface, the incomplete cutover scenario - all hidden costs that only surface after go-live.
 
 GBA Connect leads the Business Project Management of your HRIS/Payroll/Time & Attendance projects with a **dual requirement: methodological expertise and business expertise**, regardless of the vendor selected.
 
@@ -31,9 +31,9 @@ GBA Connect leads the Business Project Management of your HRIS/Payroll/Time & At
 
 ## Our approach
 
-> *"We had a Business Project Manager who asked the right questions of the integrator — one who wouldn't be won over by 'it'll work, trust us.' On sensitive pay elements, they demanded proof of configuration before functional testing, not during. The result: no unpleasant surprises at go-live."*
+> *"We had a Business Project Manager who asked the right questions of the integrator - one who wouldn't be won over by 'it'll work, trust us.' On sensitive pay elements, they demanded proof of configuration before functional testing, not during. The result: no unpleasant surprises at go-live."*
 >
-> — *Payroll Manager, multi-site industrial mid-sized company — assignment carried out by the founding partners prior to the creation of GBA Connect*
+> - *Payroll Manager, multi-site industrial mid-sized company - assignment carried out by the founding partners prior to the creation of GBA Connect*
 
 ## Success indicators
 
@@ -48,7 +48,7 @@ A long-term assignment, generally between **6 and 18 months** depending on the s
 
 ## What we do not do
 
-GBA Connect is **not a system integrator** and does not perform tool configuration. Our role is to steer, specify, control and test — representing your business interests, which are distinct from those of the integrator.
+GBA Connect is **not a system integrator** and does not perform tool configuration. Our role is to steer, specify, control and test - representing your business interests, which are distinct from those of the integrator.
 
 ## Further reading
 

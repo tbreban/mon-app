@@ -8,11 +8,11 @@ order: 1
 
 # Ensuring payroll continuity through a skills gap
 
-**A qualified payroll professional, operational immediately — so payroll runs without interruption, whatever the circumstances.**
+**A qualified payroll professional, operational immediately - so payroll runs without interruption, whatever the circumstances.**
 
 An unexpected departure of a payroll administrator, extended sick leave, an unfilled position, a temporary overload tied to a project: skills gaps in payroll arise without warning, and their consequences are immediate. Employees are waiting for their payslips. DSN filings cannot wait.
 
-GBA Connect provides the **profile suited to your situation** — payroll administrator or interim payroll manager — available quickly, capable of taking ownership of your environment and ensuring production continuity under your organisation's usual conditions.
+GBA Connect provides the **profile suited to your situation** - payroll administrator or interim payroll manager - available quickly, capable of taking ownership of your environment and ensuring production continuity under your organisation's usual conditions.
 
 ## Who this offer is for
 
@@ -30,18 +30,18 @@ GBA Connect provides the **profile suited to your situation** — payroll admini
 ## What we put in place
 
 - **Fast onboarding**: analysis of your payroll environment (software, collective agreements, specific features) and rapid familiarisation with your context in minimum time
-- **Maintained payroll production**: processing of variable elements, payslip calculations, controls, payment transfers — in line with your usual deadlines
+- **Maintained payroll production**: processing of variable elements, payslip calculations, controls, payment transfers - in line with your usual deadlines
 - **DSN and social declarations**: production and submission of monthly and event-based DSN filings, monitoring of OPS responses
-- **Complex case management**: retroactive adjustments, sick leave, paid leave, final pay settlements — according to the complexity level of your payroll
+- **Complex case management**: retroactive adjustments, sick leave, paid leave, final pay settlements - according to the complexity level of your payroll
 - **Team management** *(manager profile)*: operational management of existing payroll administrators, workload organisation, priority and deadline management
 - **Documentation and handover**: formalisation of procedures during the assignment to facilitate onboarding for the incoming role-holder or the returning employee
-- **Coordination with your teams**: HR, CFO, managers — so the transition is transparent for the organisation
+- **Coordination with your teams**: HR, CFO, managers - so the transition is transparent for the organisation
 
 ## Our approach
 
 > *"We lost our payroll manager overnight. In less than a week, GBA Connect had someone in place. That month's payroll went out on time, with no errors. While we recruited, we never had to explain to employees why their payslips were late."*
 >
-> — *HR Director, services company — assignment carried out by the founding partners before GBA Connect was established*
+> - *HR Director, services company - assignment carried out by the founding partners before GBA Connect was established*
 
 ## Success indicators
 

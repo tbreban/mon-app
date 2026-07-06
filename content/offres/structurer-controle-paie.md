@@ -7,11 +7,11 @@ variant: transfert-autonomie
 
 # Structurer durablement votre contrôle de paie
 
-**La maîtrise de votre paie ne doit dépendre ni d'un consultant, ni d'un outil unique — mais d'une méthode robuste portée par vos équipes.**
+**La maîtrise de votre paie ne doit dépendre ni d'un consultant, ni d'un outil unique - mais d'une méthode robuste portée par vos équipes.**
 
 Le contrôle de paie reste, dans la majorité des entreprises, un exercice partiellement formalisé : quelques contrôles documentés, beaucoup de vigilance individuelle, des tableaux Excel transmis de gestionnaire à gestionnaire. Quand un collaborateur part, une partie du contrôle part avec lui.
 
-GBA Connect conçoit et déploie chez vous **une méthodologie de contrôle de paie structurée, documentée et portée par vos équipes** — adaptée à votre environnement, vos outils existants, et vos enjeux de conformité.
+GBA Connect conçoit et déploie chez vous **une méthodologie de contrôle de paie structurée, documentée et portée par vos équipes** - adaptée à votre environnement, vos outils existants, et vos enjeux de conformité.
 
 ## À qui s'adresse cette offre
 
@@ -24,7 +24,7 @@ GBA Connect conçoit et déploie chez vous **une méthodologie de contrôle de p
 
 - **Diagnostic de votre dispositif de contrôle actuel** : cartographie des contrôles existants, identification des zones non couvertes, analyse des incidents récents
 - **Référentiel de contrôle paie sur mesure** : matrices de contrôles structurées par catégorie (rubriques fixes, variables, événements, cotisations, nets, DSN), seuils de tolérance, périodicités
-- **Outillage exploitable dans votre environnement** : requêtes paramétrées sur votre paie, modèles Excel/Power BI, procédures pas-à-pas — quel que soit votre éditeur
+- **Outillage exploitable dans votre environnement** : requêtes paramétrées sur votre paie, modèles Excel/Power BI, procédures pas-à-pas - quel que soit votre éditeur
 - **Plan de contrôle mensuel** : calendrier, responsabilités, livrables attendus, points de vigilance par période (clôture, paie de décembre, soldes de tout compte, IJSS)
 - **Formation et transfert de compétences** aux gestionnaires et responsables : sessions pratiques sur cas réels, supports pédagogiques, grille de montée en compétence
 - **Accompagnement des premières paies contrôlées** : présence sur 2 à 3 cycles paie pour ancrer la méthode et corriger les frottements
@@ -33,7 +33,7 @@ GBA Connect conçoit et déploie chez vous **une méthodologie de contrôle de p
 
 > *« On avait déjà des contrôles, mais chacun les faisait à sa manière. GBA Connect nous a aidés à structurer ce qui existait, à documenter ce qui ne l'était pas, et surtout à embarquer toute l'équipe paie dans la démarche. Aujourd'hui, le référentiel vit en interne et chaque nouveau gestionnaire est formé dessus dès son arrivée. »*
 >
-> — *Responsable Paie, ETI services aux entreprises — mission réalisée par les associés-fondateurs avant la création de GBA Connect*
+> - *Responsable Paie, ETI services aux entreprises - mission réalisée par les associés-fondateurs avant la création de GBA Connect*
 
 ## Indicateurs de réussite
 

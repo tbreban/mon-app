@@ -7,9 +7,9 @@ variant: service-recurrent
 
 # Securing your ADP payroll with the ACE control tool
 
-**Detecting discrepancies before they become incidents — payslip by payslip, month after month.**
+**Detecting discrepancies before they become incidents - payslip by payslip, month after month.**
 
-An ADP payroll typically contains several thousand active pay codes, configurations inherited over many years, and a volume of payslips that no payroll administrator can exhaustively check by hand. Discrepancies always exist — the question is not *whether* they exist, but *when* you discover them: before the DSN filing, after an employee complaint, or during an URSSAF inspection.
+An ADP payroll typically contains several thousand active pay codes, configurations inherited over many years, and a volume of payslips that no payroll administrator can exhaustively check by hand. Discrepancies always exist - the question is not *whether* they exist, but *when* you discover them: before the DSN filing, after an employee complaint, or during an URSSAF inspection.
 
 GBA Connect uses **ACE, ADP's payroll control tool**, to transform this control process into a systematic, traceable, and industrialised workflow.
 
@@ -33,7 +33,7 @@ GBA Connect uses **ACE, ADP's payroll control tool**, to transform this control 
 
 > *"Previously, we discovered discrepancies through employee feedback or N+1 retroactive adjustments. With the tooled control process in place, we detect them at the pre-payroll stage and correct them before the payslip is issued. DSN filings go through without rejection, and employee queries have dropped significantly."*
 >
-> — *Payroll Manager, services group, 4,500 monthly payslips — assignment carried out by the founding partners before GBA Connect was established*
+> - *Payroll Manager, services group, 4,500 monthly payslips - assignment carried out by the founding partners before GBA Connect was established*
 
 ## Success indicators
 
@@ -46,12 +46,12 @@ GBA Connect uses **ACE, ADP's payroll control tool**, to transform this control 
 
 Two possible modalities depending on your maturity level:
 
-- **Implementation + handover**: an 8 to 12 week project to map, configure, and train your teams — you then operate independently.
+- **Implementation + handover**: an 8 to 12 week project to map, configure, and train your teams - you then operate independently.
 - **Delegated monthly run**: GBA Connect produces the ACE controls and associated reporting each month. Annual commitment, volume billed according to number of payslips and configuration complexity.
 
 ## What we do not do
 
-GBA Connect does **not handle payroll production** itself: we control, we do not input. This separation is deliberate — it guarantees the independence of the control process from production.
+GBA Connect does **not handle payroll production** itself: we control, we do not input. This separation is deliberate - it guarantees the independence of the control process from production.
 
 ## Further reading
 

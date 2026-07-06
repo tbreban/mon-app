@@ -7,11 +7,11 @@ variant: conseil-projet
 
 # Auditing your Time & Attendance Management
 
-**Time & Attendance Management (GTA) is the blind spot of HRIS projects — often acquired by default, rarely audited by choice. And yet it is a major source of payroll discrepancies, workforce tensions, and lost productivity.**
+**Time & Attendance Management (GTA) is the blind spot of HRIS projects - often acquired by default, rarely audited by choice. And yet it is a major source of payroll discrepancies, workforce tensions, and lost productivity.**
 
 Time & Attendance Management touches every employee, every day. An ill-configured GTA system generates a cascade of payroll errors (overtime not properly valued, compensatory rest accrued incorrectly, absences miscategorised), management conflicts, and invisible administrative overheads.
 
-GBA Connect carries out a **comprehensive audit of your GTA** — system, configuration, processes, usage, and payroll interface — to identify friction points and improvement levers.
+GBA Connect carries out a **comprehensive audit of your GTA** - system, configuration, processes, usage, and payroll interface - to identify friction points and improvement levers.
 
 ## Who this offer is for
 
@@ -31,9 +31,9 @@ GBA Connect carries out a **comprehensive audit of your GTA** — system, config
 
 ## Our approach
 
-> *"Nobody touched the GTA — it was a legacy system that nobody really understood. The audit showed we were losing a significant amount of payroll cost every month through miscategorised overtime. We made the call: keep the system, overhaul the configuration, train the managers. ROI achieved within six months."*
+> *"Nobody touched the GTA - it was a legacy system that nobody really understood. The audit showed we were losing a significant amount of payroll cost every month through miscategorised overtime. We made the call: keep the system, overhaul the configuration, train the managers. ROI achieved within six months."*
 >
-> — *CFO, multi-site industrial mid-size company — assignment carried out by the founding partners prior to the creation of GBA Connect*
+> - *CFO, multi-site industrial mid-size company - assignment carried out by the founding partners prior to the creation of GBA Connect*
 
 ## Success indicators
 

@@ -7,7 +7,7 @@ variant: conseil-projet
 
 # Assessing an HRIS or Payroll Opportunity Before Committing to the Project
 
-**Deciding to go — or not to go — on the basis of a solid business case, not a gut feeling.**
+**Deciding to go - or not to go - on the basis of a solid business case, not a gut feeling.**
 
 Before launching a major transformation project (HRIS overhaul, payroll insourcing, multi-country consolidation, post-acquisition harmonisation), it is rare to have a clear picture of the expected value, total costs, and real risks involved. The decision is often made under the pressure of a committee meeting, without a substantiated opportunity dossier.
 
@@ -31,16 +31,16 @@ GBA Connect builds with you **a costed, argued, and defensible opportunity dossi
 
 ## Our approach
 
-> *"We were torn between evolving our current payroll system and starting from scratch. GBA Connect helped us objectify both scenarios on a comparable basis: total costs, risks, internal workload, realistic timeline. The Executive Committee made its decision within two weeks based on the dossier — after we had been going in circles for eight months."*
+> *"We were torn between evolving our current payroll system and starting from scratch. GBA Connect helped us objectify both scenarios on a comparable basis: total costs, risks, internal workload, realistic timeline. The Executive Committee made its decision within two weeks based on the dossier - after we had been going in circles for eight months."*
 >
-> — *CFO, multi-site retail group — engagement delivered by the founding partners prior to the creation of GBA Connect*
+> - *CFO, multi-site retail group - engagement delivered by the founding partners prior to the creation of GBA Connect*
 
 ## Success indicators
 
 - A **decision that has been made**, documented, defensible, and traceable
 - **Scenarios built on comparable assumptions**, not on vendors' claims
 - A **business case** whose assumptions survive the implementation phase
-- An **aligned team** — HR, Finance, IT, and General Management — on the path forward
+- An **aligned team** - HR, Finance, IT, and General Management - on the path forward
 
 ## Format & duration
 

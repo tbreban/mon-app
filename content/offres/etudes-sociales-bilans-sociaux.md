@@ -7,7 +7,7 @@ variant: conseil-projet
 
 # Études sociales et bilans sociaux
 
-**Transformer vos données sociales en outil de pilotage — pas seulement en obligation déclarative.**
+**Transformer vos données sociales en outil de pilotage - pas seulement en obligation déclarative.**
 
 Bilan social, index égalité professionnelle, rapport de situation comparée, indicateurs OETH, rapports sur l'emploi des seniors : la production d'études sociales s'est complexifiée et multipliée. Le risque est double : produire des documents conformes mais inexploités, ou produire des documents inexploitables parce que les données sources sont fragiles.
 
@@ -33,7 +33,7 @@ GBA Connect vous accompagne sur la **production rigoureuse et l'exploitation man
 
 > *« On avait un bilan social produit chaque année, mais personne ne savait dire si nos indicateurs étaient bons ou pas. GBA Connect a posé une grille de lecture, comparé à des benchmarks sectoriels, et fait émerger trois points qu'on n'avait pas vus. On en a fait des axes de plan d'action RH. »*
 >
-> — *DRH, ETI services — mission réalisée par les associés-fondateurs avant la création de GBA Connect*
+> - *DRH, ETI services - mission réalisée par les associés-fondateurs avant la création de GBA Connect*
 
 ## Indicateurs de réussite
 

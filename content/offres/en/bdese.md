@@ -1,17 +1,17 @@
 ---
 slug: bdese
-title: BDESE — designing and populating your Economic, Social and Environmental Database
+title: BDESE - designing and populating your Economic, Social and Environmental Database
 pillar: paie
 variant: conseil-projet
 ---
 
 # Designing and populating your BDESE
 
-**A BDESE that does not serve social dialogue serves no purpose — and every update costs more than it contributes.**
+**A BDESE that does not serve social dialogue serves no purpose - and every update costs more than it contributes.**
 
-The BDESE (Economic, Social and Environmental Database — formerly BDES) has become an extended legal obligation, but above all a **structuring tool for social dialogue**. Too often it is treated as an administrative chore: a heavy spreadsheet to produce, one that fails to reflect the reality of the business and serves neither employee representatives nor management.
+The BDESE (Economic, Social and Environmental Database - formerly BDES) has become an extended legal obligation, but above all a **structuring tool for social dialogue**. Too often it is treated as an administrative chore: a heavy spreadsheet to produce, one that fails to reflect the reality of the business and serves neither employee representatives nor management.
 
-GBA Connect designs and deploys a BDESE that **meets the legal obligation, feeds social dialogue, and remains maintainable over time** — tailored to your size, your sector, and your level of social maturity.
+GBA Connect designs and deploys a BDESE that **meets the legal obligation, feeds social dialogue, and remains maintainable over time** - tailored to your size, your sector, and your level of social maturity.
 
 ## Who this offer is for
 
@@ -33,7 +33,7 @@ GBA Connect designs and deploys a BDESE that **meets the legal obligation, feeds
 
 > *"Our old BDESE ran to 80 pages and nobody read it. We rebuilt everything with GBA Connect: a tighter structure, data linked to reliable sources, annotated indicators. The employee representatives started using it in consultations, and we saved significant time in Works Council meetings."*
 >
-> — *HR Director, multi-site industrial mid-size company — assignment carried out by the founding partners prior to the creation of GBA Connect*
+> - *HR Director, multi-site industrial mid-size company - assignment carried out by the founding partners prior to the creation of GBA Connect*
 
 ## Success indicators
 

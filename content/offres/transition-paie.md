@@ -8,11 +8,11 @@ order: 1
 
 # Assurer la continuité de votre paie face à une rupture de compétence
 
-**Un profil paie qualifié, opérationnel immédiatement — pour que la paie tourne sans interruption, quelles que soient les circonstances.**
+**Un profil paie qualifié, opérationnel immédiatement - pour que la paie tourne sans interruption, quelles que soient les circonstances.**
 
 Départ imprévu d'un gestionnaire de paie, longue maladie, poste non pourvu, surcharge temporaire liée à un projet : les ruptures de compétence en paie surviennent sans prévenir, et leurs conséquences sont immédiates. Les salariés attendent leur bulletin. La DSN ne peut pas attendre.
 
-GBA Connect met à votre disposition le **profil adapté à votre situation** — gestionnaire de paie ou manager de transition paie — disponible rapidement, capable de prendre en main votre environnement et d'assurer la continuité de la production dans les conditions habituelles de votre organisation.
+GBA Connect met à votre disposition le **profil adapté à votre situation** - gestionnaire de paie ou manager de transition paie - disponible rapidement, capable de prendre en main votre environnement et d'assurer la continuité de la production dans les conditions habituelles de votre organisation.
 
 ## À qui s'adresse cette offre
 
@@ -32,16 +32,16 @@ GBA Connect met à votre disposition le **profil adapté à votre situation** �
 - **Prise de poste rapide** : analyse de votre environnement de paie (logiciel, conventions collectives, spécificités) et montée en compétence sur votre contexte en un minimum de temps
 - **Production de paie maintenue** : traitement des éléments variables, calcul des bulletins, contrôles, virements, dans le respect de vos délais habituels
 - **DSN et déclarations sociales** : production et envoi des DSN mensuelles et événementielles, suivi des retours OPS
-- **Gestion des cas complexes** : rétroactivités, arrêts maladie, congés payés, soldes de tout compte — selon le niveau de complexité de votre paie
+- **Gestion des cas complexes** : rétroactivités, arrêts maladie, congés payés, soldes de tout compte - selon le niveau de complexité de votre paie
 - **Pilotage de l'équipe** *(profil manager)* : management opérationnel des gestionnaires en place, organisation du travail, gestion des priorités et des délais
 - **Documentation et transfert** : formalisation des procédures en cours de mission pour faciliter la prise de poste du futur titulaire ou le retour du collaborateur
-- **Coordination avec vos équipes** : RH, DAF, managers — pour que la transition soit transparente pour l'organisation
+- **Coordination avec vos équipes** : RH, DAF, managers - pour que la transition soit transparente pour l'organisation
 
 ## Notre approche
 
 > *« Nous avons perdu notre responsable paie du jour au lendemain. En moins d'une semaine, GBA Connect avait quelqu'un en poste. La paie de ce mois-là est sortie à l'heure, sans erreur. Le temps qu'on recrute, on n'a jamais eu à expliquer aux salariés pourquoi leurs bulletins étaient en retard. »*
 >
-> — *DRH, entreprise de services — mission réalisée par les associés-fondateurs avant la création de GBA Connect*
+> - *DRH, entreprise de services - mission réalisée par les associés-fondateurs avant la création de GBA Connect*
 
 ## Indicateurs de réussite
 

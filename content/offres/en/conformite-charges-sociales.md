@@ -7,11 +7,11 @@ variant: conseil-projet
 
 # Securing and optimising your social charges
 
-**From one-off review to recurring reliability — covering the full lifecycle of social charges.**
+**From one-off review to recurring reliability - covering the full lifecycle of social charges.**
 
 Social charges represent a major budget line, a significant URSSAF risk area, and a source of optimisation that is often under-exploited. Complexity has increased with the proliferation of exemptions (general reduction, young workers, apprentices, ZFU, ZRR, BOETH, etc.), the precision required on contribution bases, and the heightened declaration requirements introduced by the DSN.
 
-GBA Connect covers the **full social charges compliance lifecycle** — from one-off diagnosis to recurring reliability assurance, through optimisation and defence during inspections.
+GBA Connect covers the **full social charges compliance lifecycle** - from one-off diagnosis to recurring reliability assurance, through optimisation and defence during inspections.
 
 ## Who this offer is for
 
@@ -33,7 +33,7 @@ Our offer covers four modalities, combinable according to your needs:
 
 > *"We had been told 'everything is fine' for years. GBA Connect looked in detail at our exemptions over two years. The result: a significant recovery from URSSAF, and a revised process to stop the same issues recurring. The audit more than paid for itself."*
 >
-> — *CFO, industrial mid-size company — assignment carried out by the founding partners before GBA Connect was established*
+> - *CFO, industrial mid-size company - assignment carried out by the founding partners before GBA Connect was established*
 
 ## Success indicators
 

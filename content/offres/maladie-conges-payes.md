@@ -1,6 +1,6 @@
 ---
 slug: maladie-conges-payes
-title: Maladie & Congés payés — sécuriser votre conformité post-réforme
+title: Maladie & Congés payés - sécuriser votre conformité post-réforme
 pillar: paie
 variant: conseil-projet
 ---
@@ -33,7 +33,7 @@ GBA Connect vous aide à **mettre en conformité, sécuriser la rétro-activité
 
 > *« On avait appliqué la loi sur le courant, mais la rétro-activité, on ne savait pas par quel bout la prendre. GBA Connect a posé une méthode claire, on a chiffré l'exposition, on a tranché le périmètre avec la direction et le juridique, et on a pu déployer les régularisations sereinement. »*
 >
-> — *Resp. Paie, groupe de services — mission réalisée par les associés-fondateurs avant la création de GBA Connect*
+> - *Resp. Paie, groupe de services - mission réalisée par les associés-fondateurs avant la création de GBA Connect*
 
 ## Indicateurs de réussite
 

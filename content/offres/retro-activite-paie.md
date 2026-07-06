@@ -7,11 +7,11 @@ variant: conseil-projet
 
 # Maîtriser la rétro-activité paie
 
-**Le sujet le plus mal traité en paie — par méconnaissance, par contrainte d'outil, ou par évitement. Et pourtant, le plus coûteux quand il déraille.**
+**Le sujet le plus mal traité en paie - par méconnaissance, par contrainte d'outil, ou par évitement. Et pourtant, le plus coûteux quand il déraille.**
 
 La rétro-activité paie est partout : revalorisations conventionnelles tardives, NAO signés en cours d'année, changements de coefficient, régularisations sur indemnités, application d'une jurisprudence sur une période antérieure. À chaque fois, ce n'est pas un calcul ponctuel : c'est une **recomposition** de plusieurs périodes de paie, avec des effets sur cotisations, plafonds, allègements, déclarations DSN, et sur la perception du salarié.
 
-GBA Connect intervient sur l'ensemble des situations de rétro-activité, **du cas particulier à la régularisation de masse** — avec une méthodologie qui sécurise à la fois la conformité et la communication au salarié.
+GBA Connect intervient sur l'ensemble des situations de rétro-activité, **du cas particulier à la régularisation de masse** - avec une méthodologie qui sécurise à la fois la conformité et la communication au salarié.
 
 ## À qui s'adresse cette offre
 
@@ -33,7 +33,7 @@ GBA Connect intervient sur l'ensemble des situations de rétro-activité, **du c
 
 > *« On avait une régularisation massive à appliquer suite à un accord de branche. Notre outil ne savait pas faire en natif, et chaque gestionnaire avait sa méthode. GBA Connect a posé une méthode unique, l'a outillée, et a accompagné les gestionnaires sur les premiers dossiers. Tout est passé en deux paies sans rejet DSN ni réclamation salarié. »*
 >
-> — *Resp. Paie, ETI services — mission réalisée par les associés-fondateurs avant la création de GBA Connect*
+> - *Resp. Paie, ETI services - mission réalisée par les associés-fondateurs avant la création de GBA Connect*
 
 ## Indicateurs de réussite
 

@@ -1,6 +1,6 @@
 {
   "Metadata": {
-    "title": "GBA Connect — Experts SIRH & Paie",
+    "title": "GBA Connect - Experts SIRH & Paie",
     "description": "Cabinet de conseil spécialisé en SIRH et gestion de la paie"
   },
   "Navbar": {
@@ -57,7 +57,7 @@
     "why3Title": "Etat de l'art",
     "why3Description": "Utilisation des dernières méthodes & technologies du marché",
     "testimonial": "\"GBA Connect a transformé notre gestion de la paie, nous permettant de gagner près de 15% de temps opérationnel.\"",
-    "testimonialAuthor": "— DRH, Groupe Industriel",
+    "testimonialAuthor": "- DRH, Groupe Industriel",
     "ctaTitle": "Prêt à optimiser vos ressources humaines ?",
     "ctaDescription": "Échangeons sur vos besoins lors d'un échange de 30 minutes.",
     "ctaButton": "Prendre rendez-vous avec un consultant"
@@ -131,17 +131,17 @@
     "section6Title": "Destinataires des données",
     "section6Body": "Vos données sont destinées exclusivement aux équipes internes de GBA Connect habilitées à traiter votre demande. Elles ne sont ni vendues, ni cédées, ni louées à des tiers. Elles peuvent être transmises à nos sous-traitants techniques (hébergement, outils de gestion de la relation client) dans le strict cadre de l'exécution de leur prestation.",
     "section7Title": "Vos droits",
-    "section7Body": "Conformément au RGPD, vous disposez des droits suivants sur vos données personnelles : droit d'accès, de rectification, d'effacement, de limitation du traitement, d'opposition et de portabilité. Vous pouvez exercer ces droits à tout moment en nous contactant à l'adresse contact@gba-connect.fr. Vous disposez également du droit d'introduire une réclamation auprès de la Commission Nationale de l'Informatique et des Libertés (CNIL) — www.cnil.fr.",
+    "section7Body": "Conformément au RGPD, vous disposez des droits suivants sur vos données personnelles : droit d'accès, de rectification, d'effacement, de limitation du traitement, d'opposition et de portabilité. Vous pouvez exercer ces droits à tout moment en nous contactant à l'adresse contact@gba-connect.fr. Vous disposez également du droit d'introduire une réclamation auprès de la Commission Nationale de l'Informatique et des Libertés (CNIL) - www.cnil.fr.",
     "section8Title": "Sécurité des données",
     "section8Body": "GBA Connect met en œuvre les mesures techniques et organisationnelles appropriées afin de garantir un niveau de sécurité adapté au risque, et de protéger vos données contre toute perte, altération, accès non autorisé ou divulgation."
   },
   "AboutPage": {
     "badge": "QUI SOMMES-NOUS",
     "title": "À propos de GBA Connect",
-    "intro": "GBA Connect accompagne les transformations SIRH, paie et GTA en réunissant ce que le marché sépare trop souvent : la vision stratégique du conseil et la maîtrise de l’exécution.\nTrois associés, trois expertises, une exigence partagée — mener chaque projet jusqu’à son aboutissement opérationnel.",
+    "intro": "GBA Connect accompagne les transformations SIRH, paie et GTA en réunissant ce que le marché sépare trop souvent : la vision stratégique du conseil et la maîtrise de l’exécution.\nTrois associés, trois expertises, une exigence partagée - mener chaque projet jusqu’à son aboutissement opérationnel.",
     "storyBadge": "NOTRE HISTOIRE",
     "storyTitle": "Trois expertises, une même exigence",
-    "storyBody": "GBA Connect est né d'une conviction partagée par trois professionnels du SIRH et de la paie : une transformation ne réussit que si la vision stratégique et la maîtrise de l'exécution avancent ensemble, sans rupture.\nThomas, Farida et Laurent se connaissent de longue date, pour avoir travaillé côte à côte au fil de leurs parcours.\nDe cette expérience commune est née une même façon de voir le métier : l'exigence du conseil, doublée de la rigueur de l'opérationnel — jusqu'au bout.\nIls ont réuni leurs trois expertises — conseil et stratégie, expertise paie et conformité, migration et conduite de projets SIRH — pour bâtir le cabinet qu'ils voulaient : un partenaire capable de mener chaque projet du cadrage à la production, sans jamais lâcher le terrain.\nC'est la promesse de GBA Connect : Grandir · Bâtir · Accompagner.",
+    "storyBody": "GBA Connect est né d'une conviction partagée par trois professionnels du SIRH et de la paie : une transformation ne réussit que si la vision stratégique et la maîtrise de l'exécution avancent ensemble, sans rupture.\nThomas, Farida et Laurent se connaissent de longue date, pour avoir travaillé côte à côte au fil de leurs parcours.\nDe cette expérience commune est née une même façon de voir le métier : l'exigence du conseil, doublée de la rigueur de l'opérationnel - jusqu'au bout.\nIls ont réuni leurs trois expertises - conseil et stratégie, expertise paie et conformité, migration et conduite de projets SIRH - pour bâtir le cabinet qu'ils voulaient : un partenaire capable de mener chaque projet du cadrage à la production, sans jamais lâcher le terrain.\nC'est la promesse de GBA Connect : Grandir · Bâtir · Accompagner.",
     "valuesTitle": "Nos valeurs",
     "valuesDescription": "Quatre principes guident chacun de nos accompagnements.",
     "value1Title": "Exigence",

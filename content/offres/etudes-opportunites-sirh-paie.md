@@ -7,7 +7,7 @@ variant: conseil-projet
 
 # Évaluer une opportunité SIRH ou Paie avant d'engager le projet
 
-**Décider d'aller — ou de ne pas aller — sur la base d'un dossier solide, pas d'une intuition.**
+**Décider d'aller - ou de ne pas aller - sur la base d'un dossier solide, pas d'une intuition.**
 
 Avant de lancer un projet structurant (refonte SIRH, internalisation de la paie, regroupement multi-pays, mutualisation post-acquisition), il est rare d'avoir une vision claire de la valeur attendue, des coûts complets, et des risques réels. La décision se prend souvent dans l'urgence d'un comité, sans dossier d'opportunité étayé.
 
@@ -33,7 +33,7 @@ GBA Connect construit avec vous **un dossier d'opportunité chiffré, argumenté
 
 > *« On hésitait entre faire évoluer notre paie actuelle et tout refondre. GBA Connect nous a aidés à objectiver les deux scénarios sur des bases comparables : coûts complets, risques, charge interne, calendrier réaliste. Le COMEX a tranché en quinze jours sur la base du dossier, alors qu'on tournait en rond depuis huit mois. »*
 >
-> — *DAF, groupe de distribution multi-sites — mission réalisée par les associés-fondateurs avant la création de GBA Connect*
+> - *DAF, groupe de distribution multi-sites - mission réalisée par les associés-fondateurs avant la création de GBA Connect*
 
 ## Indicateurs de réussite
 

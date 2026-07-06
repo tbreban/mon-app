@@ -12,7 +12,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "AboutPage" });
-  return { title: `${t("title")} — GBA Connect` };
+  return { title: `${t("title")} - GBA Connect` };
 }
 
 export default function AboutPage() {

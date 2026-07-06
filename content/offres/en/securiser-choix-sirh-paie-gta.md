@@ -7,9 +7,9 @@ variant: conseil-projet
 
 # Securing Your HRIS, Payroll or Time & Attendance Choice
 
-**A structural decision, made on facts — not on a demo.**
+**A structural decision, made on facts - not on a demo.**
 
-The French HRIS market includes several dozen vendors. Each one claims to cover your needs. The reality of configuration, collective agreements, and interfaces with your payroll and Finance systems is often discovered too late — once the contract is signed.
+The French HRIS market includes several dozen vendors. Each one claims to cover your needs. The reality of configuration, collective agreements, and interfaces with your payroll and Finance systems is often discovered too late - once the contract is signed.
 
 GBA Connect puts you in a position to **make an informed decision**, grounded in your operational reality, not in vendors' sales pitches.
 
@@ -31,9 +31,9 @@ GBA Connect puts you in a position to **make an informed decision**, grounded in
 
 ## Our approach
 
-> *"What stood out for us was that the team brought our payroll administrators and frontline team leaders into the conversation from the very first week. The demonstration scenarios were built around our actual cases — Sunday on-call allowances, retroactive coefficient changes, overlap between IJSS and salary continuation. When the vendors tackled these, it was immediately clear who really knew their product and who was winging it."*
+> *"What stood out for us was that the team brought our payroll administrators and frontline team leaders into the conversation from the very first week. The demonstration scenarios were built around our actual cases - Sunday on-call allowances, retroactive coefficient changes, overlap between IJSS and salary continuation. When the vendors tackled these, it was immediately clear who really knew their product and who was winging it."*
 >
-> — *HR Director, mid-sized industrial group — engagement delivered by the founding partners prior to the creation of GBA Connect*
+> - *HR Director, mid-sized industrial group - engagement delivered by the founding partners prior to the creation of GBA Connect*
 
 ## Success indicators
 

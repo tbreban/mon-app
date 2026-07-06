@@ -7,9 +7,9 @@ variant: conseil-projet
 
 # Accompagner votre migration ADP, de A à Z
 
-**La spécialisation premium AMOA pour les projets ADP — par des praticiens qui connaissent la solution de l'intérieur.**
+**La spécialisation premium AMOA pour les projets ADP - par des praticiens qui connaissent la solution de l'intérieur.**
 
-Migrer sur une nouvelle version ADP (Decidium, ADP Link, GlobalView, GAP, ACE…) n'est pas un projet SIRH comme un autre. Les particularités du paramétrage ADP, la richesse des modules, les interfaces propriétaires et la rigueur attendue par l'éditeur exigent une AMOA qui parle **le même langage** que les équipes ADP — sans pour autant en être dépendante.
+Migrer sur une nouvelle version ADP (Decidium, ADP Link, GlobalView, GAP, ACE…) n'est pas un projet SIRH comme un autre. Les particularités du paramétrage ADP, la richesse des modules, les interfaces propriétaires et la rigueur attendue par l'éditeur exigent une AMOA qui parle **le même langage** que les équipes ADP - sans pour autant en être dépendante.
 
 GBA Connect porte l'AMOA de vos projets ADP avec une **connaissance fine de la solution**, acquise sur des dizaines de missions menées par les associés-fondateurs avant la création du cabinet.
 
@@ -31,9 +31,9 @@ GBA Connect porte l'AMOA de vos projets ADP avec une **connaissance fine de la s
 
 ## Notre approche
 
-> *« Nos consultants AMOA savaient comment ADP fonctionne. Quand les équipes ADP nous proposaient un paramétrage, ils pouvaient challenger sur le fond, proposer des alternatives, anticiper les effets de bord. C'est ce qui a fait la différence sur les cas complexes — les conventions multiples, les rétro-actifs, les cumuls. »*
+> *« Nos consultants AMOA savaient comment ADP fonctionne. Quand les équipes ADP nous proposaient un paramétrage, ils pouvaient challenger sur le fond, proposer des alternatives, anticiper les effets de bord. C'est ce qui a fait la différence sur les cas complexes - les conventions multiples, les rétro-actifs, les cumuls. »*
 >
-> — *DRH, groupe industriel international — mission réalisée par les associés-fondateurs avant la création de GBA Connect*
+> - *DRH, groupe industriel international - mission réalisée par les associés-fondateurs avant la création de GBA Connect*
 
 ## Indicateurs de réussite
 

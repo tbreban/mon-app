@@ -7,11 +7,11 @@ variant: conseil-projet
 
 # Sécuriser et optimiser vos charges sociales
 
-**Du contrôle ponctuel à la fiabilisation récurrente — couvrir l'ensemble du cycle de vie des charges sociales.**
+**Du contrôle ponctuel à la fiabilisation récurrente - couvrir l'ensemble du cycle de vie des charges sociales.**
 
 Les charges sociales représentent un poste budgétaire majeur, une zone de risque URSSAF importante, et un gisement d'optimisation souvent sous-exploité. La complexité s'est accrue avec la multiplication des exonérations (réduction générale, jeunes, apprentis, ZFU, ZRR, BOETH, etc.), la précision des assiettes, et l'exigence déclarative renforcée par la DSN.
 
-GBA Connect couvre l'**ensemble du cycle de conformité des charges sociales** — du diagnostic ponctuel à la fiabilisation récurrente, en passant par l'optimisation et la défense en contrôle.
+GBA Connect couvre l'**ensemble du cycle de conformité des charges sociales** - du diagnostic ponctuel à la fiabilisation récurrente, en passant par l'optimisation et la défense en contrôle.
 
 ## À qui s'adresse cette offre
 
@@ -33,7 +33,7 @@ Notre offre couvre quatre modalités, combinables selon votre besoin :
 
 > *« On nous avait dit "tout va bien" depuis des années. GBA Connect a regardé en détail nos exonérations sur deux ans. Résultat : récupération significative auprès de l'URSSAF, et révision de notre process pour ne plus laisser passer la même chose. L'audit s'est largement autofinancé. »*
 >
-> — *DAF, ETI industrielle — mission réalisée par les associés-fondateurs avant la création de GBA Connect*
+> - *DAF, ETI industrielle - mission réalisée par les associés-fondateurs avant la création de GBA Connect*
 
 ## Indicateurs de réussite
 

@@ -7,9 +7,9 @@ variant: conseil-projet
 
 # Sécuriser le choix de votre SIRH, Paie ou GTA
 
-**Une décision structurante, prise sur des faits — pas sur une démo.**
+**Une décision structurante, prise sur des faits - pas sur une démo.**
 
-Le marché SIRH français compte plusieurs dizaines d'éditeurs. Chacun affirme couvrir vos besoins. La réalité du paramétrage, de la convention collective, des interfaces avec votre paie et votre SI Finance se découvre souvent trop tard — quand le contrat est signé.
+Le marché SIRH français compte plusieurs dizaines d'éditeurs. Chacun affirme couvrir vos besoins. La réalité du paramétrage, de la convention collective, des interfaces avec votre paie et votre SI Finance se découvre souvent trop tard - quand le contrat est signé.
 
 GBA Connect vous met en position de **décider en connaissance de cause**, sur la base de votre réalité opérationnelle, pas du discours commercial des éditeurs.
 
@@ -31,9 +31,9 @@ GBA Connect vous met en position de **décider en connaissance de cause**, sur l
 
 ## Notre approche
 
-> *« Ce qui nous a marqués, c'est que l'équipe a fait parler nos gestionnaires de paie et nos chefs d'équipe terrain dès la première semaine. Les scénarios de démonstration ont été construits sur nos vrais cas — la prime d'astreinte du dimanche, la rétro-activité sur changement de coefficient, le cumul IJSS / maintien de salaire. Quand les éditeurs ont planché dessus, on a tout de suite vu qui maîtrisait vraiment et qui improvisait. »*
+> *« Ce qui nous a marqués, c'est que l'équipe a fait parler nos gestionnaires de paie et nos chefs d'équipe terrain dès la première semaine. Les scénarios de démonstration ont été construits sur nos vrais cas - la prime d'astreinte du dimanche, la rétro-activité sur changement de coefficient, le cumul IJSS / maintien de salaire. Quand les éditeurs ont planché dessus, on a tout de suite vu qui maîtrisait vraiment et qui improvisait. »*
 >
-> — *DRH, ETI industrielle — mission réalisée par les associés-fondateurs avant la création de GBA Connect*
+> - *DRH, ETI industrielle - mission réalisée par les associés-fondateurs avant la création de GBA Connect*
 
 ## Indicateurs de réussite
 

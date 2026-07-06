@@ -1,6 +1,6 @@
 ---
 slug: maladie-conges-payes
-title: Sick Leave & Annual Leave — securing your compliance after the 2024 reform
+title: Sick Leave & Annual Leave - securing your compliance after the 2024 reform
 pillar: paie
 variant: conseil-projet
 ---
@@ -33,7 +33,7 @@ GBA Connect helps you **achieve compliance, secure retroactive adjustments, and 
 
 > *"We had applied the law to our current payroll, but we had no idea where to start with the retroactivity. GBA Connect provided a clear methodology, we quantified our exposure, agreed on the scope with management and legal, and were able to roll out the adjustments without disruption."*
 >
-> — *Head of Payroll, services group — assignment carried out by the founding partners prior to the creation of GBA Connect*
+> - *Head of Payroll, services group - assignment carried out by the founding partners prior to the creation of GBA Connect*
 
 ## Success indicators
 

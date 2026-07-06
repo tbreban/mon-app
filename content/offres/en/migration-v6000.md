@@ -7,7 +7,7 @@ variant: conseil-projet
 
 # Making your V6000 exit a success
 
-**The end of V6000 has been announced — it is time to organise the transition without being dictated to by the vendor's schedule.**
+**The end of V6000 has been announced - it is time to organise the transition without being dictated to by the vendor's schedule.**
 
 ADP V6000 has supported hundreds of companies over two decades. The phase-out of this version is now framed by ADP, with a constrained timeline and target options (ADP Link, Decidium, other ADP solutions, or a complete change of vendor). This transition is not a simple version upgrade: it is a **full migration project**, involving data migration, configuration redesign, business functional testing and social cutover.
 
@@ -23,7 +23,7 @@ GBA Connect has supported companies through this specific transition. We know th
 ## What we deliver
 
 - **Diagnosis of your V6000 instance**: data volume, configuration complexity, custom developments, interfaces, technical debt
-- **Assessment of possible target solutions**: ADP Link, Decidium, other ADP solutions, or exiting the ecosystem — with comparative analysis
+- **Assessment of possible target solutions**: ADP Link, Decidium, other ADP solutions, or exiting the ecosystem - with comparative analysis
 - **Migration strategy**: scope, schedule, critical milestones, data migration strategy, functional testing plan
 - **Business Project Management of the migration**: ADP team management, configuration tracking, business functional testing on real cases
 - **Historical data migration**: strategy, integrity controls, validation of cumulative totals and balance carry-forwards
@@ -33,7 +33,7 @@ GBA Connect has supported companies through this specific transition. We know th
 
 > *"With V6000, there are issues you only see through experience: phantom pay element accumulators, configurations that don't document themselves, interfaces that have aged alongside the information system. Having people who had carried out the migration elsewhere saved us from rediscovering all of that mid-project."*
 >
-> — *Payroll Manager, multi-establishment services group — assignment carried out by the founding partners prior to the creation of GBA Connect*
+> - *Payroll Manager, multi-establishment services group - assignment carried out by the founding partners prior to the creation of GBA Connect*
 
 ## Success indicators
 

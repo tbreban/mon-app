@@ -1,17 +1,17 @@
 ---
 slug: bdese
-title: BDESE — concevoir et alimenter votre Base de Données Économiques, Sociales et Environnementales
+title: BDESE - concevoir et alimenter votre Base de Données Économiques, Sociales et Environnementales
 pillar: paie
 variant: conseil-projet
 ---
 
 # Concevoir et alimenter votre BDESE
 
-**Une BDESE qui ne sert pas le dialogue social ne sert à rien — et chaque mise à jour vous coûte plus qu'elle ne rapporte.**
+**Une BDESE qui ne sert pas le dialogue social ne sert à rien - et chaque mise à jour vous coûte plus qu'elle ne rapporte.**
 
 La Base de Données Économiques, Sociales et Environnementales (ex-BDES) est devenue une obligation légale étendue, mais surtout un **outil de dialogue social structurant**. Trop souvent, elle est traitée comme une corvée déclarative : un Excel lourd à produire, qui ne reflète pas la réalité de l'entreprise, et qui ne sert ni les élus, ni la direction.
 
-GBA Connect conçoit et déploie une BDESE qui **respecte l'obligation légale, alimente le dialogue social, et reste maintenable dans la durée** — adaptée à votre taille, votre secteur et votre maturité sociale.
+GBA Connect conçoit et déploie une BDESE qui **respecte l'obligation légale, alimente le dialogue social, et reste maintenable dans la durée** - adaptée à votre taille, votre secteur et votre maturité sociale.
 
 ## À qui s'adresse cette offre
 
@@ -33,7 +33,7 @@ GBA Connect conçoit et déploie une BDESE qui **respecte l'obligation légale, 
 
 > *« Notre ancienne BDESE faisait 80 pages, personne ne la lisait. On a tout reconstruit avec GBA Connect : structure resserrée, données reliées à des sources fiables, indicateurs commentés. Les élus s'en sont saisis pour les consultations, on a regagné du temps en réunion CSE. »*
 >
-> — *DRH, ETI industrielle multi-sites — mission réalisée par les associés-fondateurs avant la création de GBA Connect*
+> - *DRH, ETI industrielle multi-sites - mission réalisée par les associés-fondateurs avant la création de GBA Connect*
 
 ## Indicateurs de réussite
 

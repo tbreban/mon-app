@@ -9,7 +9,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "MentionsLegalesPage" });
-  return { title: `${t("title")} — GBA Connect` };
+  return { title: `${t("title")} - GBA Connect` };
 }
 
 const SECTION_KEYS = [1, 2, 3, 4, 5, 6] as const;

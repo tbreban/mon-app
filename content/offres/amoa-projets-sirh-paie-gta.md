@@ -7,9 +7,9 @@ variant: conseil-projet
 
 # AMOA Projets SIRH, Paie et GTA
 
-**Piloter votre projet du côté métier — pas seulement du côté projet.**
+**Piloter votre projet du côté métier - pas seulement du côté projet.**
 
-L'AMOA classique sait conduire un projet : ateliers, comités, plannings, livrables. Mais sur un projet SIRH ou Paie, **la complexité est métier avant d'être projet**. Une AMOA qui ne parle pas paie, laissera passer la rubrique mal paramétrée, l'interface comptable bancale, le scénario de bascule incomplet — autant de coûts cachés qui se révèlent après le démarrage.
+L'AMOA classique sait conduire un projet : ateliers, comités, plannings, livrables. Mais sur un projet SIRH ou Paie, **la complexité est métier avant d'être projet**. Une AMOA qui ne parle pas paie, laissera passer la rubrique mal paramétrée, l'interface comptable bancale, le scénario de bascule incomplet - autant de coûts cachés qui se révèlent après le démarrage.
 
 GBA Connect porte l'AMOA de vos projets SIRH/Paie/GTA avec une **double exigence : maîtrise méthodologique et maîtrise métier**, quel que soit l'éditeur retenu.
 
@@ -33,7 +33,7 @@ GBA Connect porte l'AMOA de vos projets SIRH/Paie/GTA avec une **double exigence
 
 > *« On a eu une AMOA qui posait les bonnes questions à l'intégrateur, qui ne se laissait pas embarquer dans des "ça marchera, faites-nous confiance". Sur les rubriques sensibles, ils ont demandé des preuves de paramétrage avant la recette, pas pendant. Résultat : pas de mauvaise surprise au démarrage. »*
 >
-> — *Resp. Paie, ETI industrielle multi-sites — mission réalisée par les associés-fondateurs avant la création de GBA Connect*
+> - *Resp. Paie, ETI industrielle multi-sites - mission réalisée par les associés-fondateurs avant la création de GBA Connect*
 
 ## Indicateurs de réussite
 
@@ -48,7 +48,7 @@ Mission longue, généralement entre **6 et 18 mois** selon l'ampleur du projet.
 
 ## Ce que nous ne faisons pas
 
-GBA Connect n'est **pas intégrateur** et ne réalise pas le paramétrage de l'outil. Notre rôle est de piloter, spécifier, contrôler et recetter — en représentation de votre intérêt métier, distinct de celui de l'intégrateur.
+GBA Connect n'est **pas intégrateur** et ne réalise pas le paramétrage de l'outil. Notre rôle est de piloter, spécifier, contrôler et recetter - en représentation de votre intérêt métier, distinct de celui de l'intégrateur.
 
 ## Pour aller plus loin
 

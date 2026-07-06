@@ -7,9 +7,9 @@ variant: conseil-projet
 
 # Supporting your ADP migration, from start to finish
 
-**The premium Business Project Management specialisation for ADP projects — by practitioners who know the solution from the inside.**
+**The premium Business Project Management specialisation for ADP projects - by practitioners who know the solution from the inside.**
 
-Migrating to a new ADP version (Decidium, ADP Link, GlobalView, GAP, ACE…) is not a standard HRIS project. The intricacies of ADP configuration, the richness of its modules, its proprietary interfaces and the rigour expected by the vendor all require a Business Project Manager who speaks **the same language** as the ADP teams — while remaining fully independent of them.
+Migrating to a new ADP version (Decidium, ADP Link, GlobalView, GAP, ACE…) is not a standard HRIS project. The intricacies of ADP configuration, the richness of its modules, its proprietary interfaces and the rigour expected by the vendor all require a Business Project Manager who speaks **the same language** as the ADP teams - while remaining fully independent of them.
 
 GBA Connect leads the Business Project Management of your ADP projects with **in-depth knowledge of the solution**, built up across dozens of assignments carried out by the founding partners before the firm was established.
 
@@ -31,9 +31,9 @@ GBA Connect leads the Business Project Management of your ADP projects with **in
 
 ## Our approach
 
-> *"Our Business Project Management consultants knew how ADP works. When the ADP teams proposed a configuration, they could challenge it on substance, suggest alternatives, anticipate side effects. That made all the difference on the complex cases — multiple collective agreements, retroactive adjustments, cumulative calculations."*
+> *"Our Business Project Management consultants knew how ADP works. When the ADP teams proposed a configuration, they could challenge it on substance, suggest alternatives, anticipate side effects. That made all the difference on the complex cases - multiple collective agreements, retroactive adjustments, cumulative calculations."*
 >
-> — *HR Director, international industrial group — assignment carried out by the founding partners prior to the creation of GBA Connect*
+> - *HR Director, international industrial group - assignment carried out by the founding partners prior to the creation of GBA Connect*
 
 ## Success indicators
 

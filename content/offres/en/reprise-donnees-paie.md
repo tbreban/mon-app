@@ -7,9 +7,9 @@ variant: conseil-projet
 
 # Securing your payroll data migration
 
-**Migration succeeds or fails at the data migration stage — and the outcome is visible from the very first payslip.**
+**Migration succeeds or fails at the data migration stage - and the outcome is visible from the very first payslip.**
 
-A payroll data migration is not simply a matter of mapping fields from one system to another. It means **reconstructing a social history** (accumulated leave balances, RTT balances, seniority, accrued entitlements, in-progress events, payments already made) in a form that the new system can correctly interpret, calculate, and report. The slightest error surfaces on the first payslip — and is paid for in adjustment runs, employee complaints, and lost team confidence.
+A payroll data migration is not simply a matter of mapping fields from one system to another. It means **reconstructing a social history** (accumulated leave balances, RTT balances, seniority, accrued entitlements, in-progress events, payments already made) in a form that the new system can correctly interpret, calculate, and report. The slightest error surfaces on the first payslip - and is paid for in adjustment runs, employee complaints, and lost team confidence.
 
 GBA Connect manages your payroll data migration as **a project in its own right**, with a proven methodology and an enforceable quality standard.
 
@@ -31,9 +31,9 @@ GBA Connect manages your payroll data migration as **a project in its own right*
 
 ## Our approach
 
-> *"Data migration is the blind spot of every project. Everyone watches the configuration; no one looks seriously at the data until the month before go-live. GBA Connect forced us to address the issue from the start — we discovered discrepancies six months before go-live and had time to resolve them. Without them, we would have found out on the first payslip."*
+> *"Data migration is the blind spot of every project. Everyone watches the configuration; no one looks seriously at the data until the month before go-live. GBA Connect forced us to address the issue from the start - we discovered discrepancies six months before go-live and had time to resolve them. Without them, we would have found out on the first payslip."*
 >
-> — *CHRO, post-acquisition industrial group — engagement delivered by the founding partners prior to the creation of GBA Connect*
+> - *CHRO, post-acquisition industrial group - engagement delivered by the founding partners prior to the creation of GBA Connect*
 
 ## Success indicators
 

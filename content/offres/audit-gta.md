@@ -1,17 +1,17 @@
 ---
 slug: audit-gta
-title: Audit GTA — Gestion des Temps et Activités
+title: Audit GTA - Gestion des Temps et Activités
 pillar: gta
 variant: conseil-projet
 ---
 
 # Auditer votre Gestion des Temps et Activités
 
-**La GTA est l'angle mort des projets SIRH — souvent acquise par défaut, rarement auditée par choix. Et pourtant, source majeure d'écarts paie, de tensions sociales, et de perte de productivité.**
+**La GTA est l'angle mort des projets SIRH - souvent acquise par défaut, rarement auditée par choix. Et pourtant, source majeure d'écarts paie, de tensions sociales, et de perte de productivité.**
 
 La Gestion des Temps et Activités touche tous les salariés, tous les jours. Un paramétrage GTA inadapté génère des écarts paie en chaîne (heures supplémentaires non valorisées, repos compensateurs mal acquis, absences mal qualifiées), des conflits managériaux, et des surcharges administratives invisibles.
 
-GBA Connect réalise un **audit complet de votre GTA** — outil, paramétrage, processus, usages, articulation paie — pour identifier les zones de friction et les leviers d'amélioration.
+GBA Connect réalise un **audit complet de votre GTA** - outil, paramétrage, processus, usages, articulation paie - pour identifier les zones de friction et les leviers d'amélioration.
 
 ## À qui s'adresse cette offre
 
@@ -33,7 +33,7 @@ GBA Connect réalise un **audit complet de votre GTA** — outil, paramétrage, 
 
 > *« Personne ne touchait à la GTA, c'était un truc historique que personne ne maîtrisait. L'audit a montré qu'on perdait significativement de la masse salariale chaque mois en heures sup mal qualifiées. On a tranché : on garde l'outil, mais on revoit le paramétrage et on forme les managers. ROI en six mois. »*
 >
-> — *DAF, ETI industrielle multi-sites — mission réalisée par les associés-fondateurs avant la création de GBA Connect*
+> - *DAF, ETI industrielle multi-sites - mission réalisée par les associés-fondateurs avant la création de GBA Connect*
 
 ## Indicateurs de réussite
 

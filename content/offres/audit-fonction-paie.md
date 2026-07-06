@@ -7,7 +7,7 @@ variant: conseil-projet
 
 # Auditer votre fonction Paie pour la sécuriser et la transformer
 
-**Un état des lieux objectif, chiffré et hiérarchisé — pour décider de ce que vous gardez, corrigez ou transformez.**
+**Un état des lieux objectif, chiffré et hiérarchisé - pour décider de ce que vous gardez, corrigez ou transformez.**
 
 La fonction paie est rarement auditée pour elle-même. Elle l'est par contrainte (CAC, URSSAF, audit social), par incident (rejet DSN massif, contentieux salarié), ou à l'occasion d'un projet plus large. Résultat : on découvre tard les zones fragiles, les sur-coûts, les ruptures de continuité, les dépendances individuelles.
 
@@ -33,7 +33,7 @@ GBA Connect réalise un **audit complet et hiérarchisé de votre fonction paie*
 
 > *« On savait qu'on avait des sujets, mais on n'arrivait pas à hiérarchiser. L'audit a posé un diagnostic clair : ce qui était grave et urgent, ce qui était grave mais pouvait attendre, ce qui était cosmétique. Ça nous a permis d'arbitrer les investissements sans céder à l'urgence ressentie. »*
 >
-> — *DRH, groupe de services multi-établissements — mission réalisée par les associés-fondateurs avant la création de GBA Connect*
+> - *DRH, groupe de services multi-établissements - mission réalisée par les associés-fondateurs avant la création de GBA Connect*
 
 ## Indicateurs de réussite
 

@@ -7,7 +7,7 @@ variant: conseil-projet
 
 # Social Studies and Workforce Reports
 
-**Turning your workforce data into a management tool — not just a compliance obligation.**
+**Turning your workforce data into a management tool - not just a compliance obligation.**
 
 The workforce report, gender equality index, comparative situation report, OETH disability employment indicators, senior employment reports: the production of social studies has grown both in complexity and in volume. The risk is twofold: producing compliant but unused documents, or producing unusable documents because the underlying data is unreliable.
 
@@ -33,7 +33,7 @@ GBA Connect supports you in the **rigorous production and management-level use**
 
 > *"We had a workforce report produced every year, but nobody could say whether our indicators were good or not. GBA Connect provided a reading framework, benchmarked us against sector data, and surfaced three issues we had overlooked. We turned them into HR action plan priorities."*
 >
-> — *HR Director, mid-size services company — assignment carried out by the founding partners prior to the creation of GBA Connect*
+> - *HR Director, mid-size services company - assignment carried out by the founding partners prior to the creation of GBA Connect*
 
 ## Success indicators
 

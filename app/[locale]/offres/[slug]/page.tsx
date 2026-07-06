@@ -35,11 +35,11 @@ export async function generateMetadata({
   const { slug, locale } = await params;
   if (isPillarSlug(slug)) {
     const pillar = PILLARS[slug];
-    return { title: `${locale === "en" ? pillar.labelEn : pillar.label} — GBA Connect` };
+    return { title: `${locale === "en" ? pillar.labelEn : pillar.label} - GBA Connect` };
   }
   const offer = getOfferBySlug(slug);
   if (!offer) return {};
-  return { title: `${offer.title} — GBA Connect` };
+  return { title: `${offer.title} - GBA Connect` };
 }
 
 /* ─── Composants Markdown ─── */

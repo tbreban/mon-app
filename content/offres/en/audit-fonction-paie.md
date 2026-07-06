@@ -7,7 +7,7 @@ variant: conseil-projet
 
 # Auditing your payroll function to secure and transform it
 
-**An objective, quantified, and prioritised assessment — so you can decide what to keep, correct, or transform.**
+**An objective, quantified, and prioritised assessment - so you can decide what to keep, correct, or transform.**
 
 The payroll function is rarely audited on its own terms. It gets audited under pressure (statutory auditors, URSSAF, social audit), following an incident (mass DSN rejection, employee dispute), or in the context of a broader project. The result: fragile areas, cost overruns, continuity gaps, and individual dependencies are discovered too late.
 
@@ -33,7 +33,7 @@ GBA Connect delivers a **comprehensive, prioritised audit of your payroll functi
 
 > *"We knew we had issues, but we couldn't prioritise them. The audit gave us a clear picture: what was serious and urgent, what was serious but could wait, what was cosmetic. That allowed us to allocate investment without being driven by perceived urgency."*
 >
-> — *HR Director, multi-site services group — assignment carried out by the founding partners before GBA Connect was established*
+> - *HR Director, multi-site services group - assignment carried out by the founding partners before GBA Connect was established*
 
 ## Success indicators
 

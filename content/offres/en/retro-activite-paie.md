@@ -7,11 +7,11 @@ variant: conseil-projet
 
 # Managing Retroactive Payroll Adjustments
 
-**The most poorly handled topic in payroll — through lack of knowledge, system constraints, or avoidance. And yet the most costly when it goes wrong.**
+**The most poorly handled topic in payroll - through lack of knowledge, system constraints, or avoidance. And yet the most costly when it goes wrong.**
 
 Retroactivity in payroll is everywhere: late collective agreement uplifts, annual wage negotiations signed mid-year, job grade changes, adjustments to allowances, application of case law to a prior period. Each time, this is not an isolated calculation: it is a **full recomposition** of several payroll periods, with knock-on effects on contributions, ceilings, exemptions, DSN filings, and employee perception.
 
-GBA Connect handles the full range of retroactivity situations, **from individual cases to mass regularisations** — with a methodology that secures both compliance and employee communication.
+GBA Connect handles the full range of retroactivity situations, **from individual cases to mass regularisations** - with a methodology that secures both compliance and employee communication.
 
 ## Who this offer is for
 
@@ -33,7 +33,7 @@ GBA Connect handles the full range of retroactivity situations, **from individua
 
 > *"We had a mass regularisation to apply following a sector-level agreement. Our system couldn't handle it natively, and every payroll administrator had their own approach. GBA Connect established a single methodology, built the tooling around it, and supported the team on the first cases. Everything went through in two payroll runs with no DSN rejections and no employee complaints."*
 >
-> — *Head of Payroll, mid-size services company — assignment carried out by the founding partners prior to the creation of GBA Connect*
+> - *Head of Payroll, mid-size services company - assignment carried out by the founding partners prior to the creation of GBA Connect*
 
 ## Success indicators
 

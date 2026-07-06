@@ -7,9 +7,9 @@ variant: conseil-projet
 
 # Sécuriser la reprise de vos données paie
 
-**La reprise est le moment où une migration réussit ou échoue — visible dès la première paie.**
+**La reprise est le moment où une migration réussit ou échoue - visible dès la première paie.**
 
-Une reprise de données paie ne se limite pas à transposer des champs d'un outil à l'autre. C'est la **reconstruction d'un historique social** (cumuls de congés, soldes RTT, ancienneté, droits acquis, événements en cours, indemnités versées) sous une forme que le nouvel outil saura interpréter, calculer et déclarer. La moindre erreur se révèle au premier bulletin — et se paie en régularisations, en réclamations salariés, et en confiance des équipes.
+Une reprise de données paie ne se limite pas à transposer des champs d'un outil à l'autre. C'est la **reconstruction d'un historique social** (cumuls de congés, soldes RTT, ancienneté, droits acquis, événements en cours, indemnités versées) sous une forme que le nouvel outil saura interpréter, calculer et déclarer. La moindre erreur se révèle au premier bulletin - et se paie en régularisations, en réclamations salariés, et en confiance des équipes.
 
 GBA Connect porte la reprise de vos données paie comme **un projet à part entière**, avec une méthodologie éprouvée et une exigence de qualité opposable.
 
@@ -31,9 +31,9 @@ GBA Connect porte la reprise de vos données paie comme **un projet à part enti
 
 ## Notre approche
 
-> *« La reprise, c'est l'angle mort des projets. Tout le monde regarde le paramétrage, personne ne regarde sérieusement la donnée jusqu'au mois précédent le démarrage. GBA Connect nous a forcés à instruire le sujet dès le début — on a découvert des écarts à six mois du go-live, on a eu le temps de les traiter. Sans eux, on les aurait découverts dans le premier bulletin. »*
+> *« La reprise, c'est l'angle mort des projets. Tout le monde regarde le paramétrage, personne ne regarde sérieusement la donnée jusqu'au mois précédent le démarrage. GBA Connect nous a forcés à instruire le sujet dès le début - on a découvert des écarts à six mois du go-live, on a eu le temps de les traiter. Sans eux, on les aurait découverts dans le premier bulletin. »*
 >
-> — *DRH, groupe industriel post-acquisition — mission réalisée par les associés-fondateurs avant la création de GBA Connect*
+> - *DRH, groupe industriel post-acquisition - mission réalisée par les associés-fondateurs avant la création de GBA Connect*
 
 ## Indicateurs de réussite
 
