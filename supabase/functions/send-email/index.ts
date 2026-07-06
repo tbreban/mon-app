@@ -71,7 +71,13 @@ Deno.serve(async (req) => {
     });
   } finally {
     // Close per-request: a reused SMTP connection across Edge isolates goes stale.
-    await client.close().catch(() => {});
+    // denomailer's close() may return undefined (not a promise), so guard it and
+    // swallow errors from a connection that never fully opened.
+    try {
+      await client.close();
+    } catch (_) {
+      /* already closed or never opened */
+    }
   }
 });
 
