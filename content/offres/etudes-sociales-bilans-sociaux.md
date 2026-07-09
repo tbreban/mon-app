@@ -31,7 +31,7 @@ GBA Connect vous accompagne sur la **production rigoureuse et l'exploitation man
 
 ## Verbatims client
 
-> *« On avait un bilan social produit chaque année, mais personne ne savait dire si nos indicateurs étaient bons ou pas. GBA Connect a posé une grille de lecture, comparé à des benchmarks sectoriels, et fait émerger trois points qu'on n'avait pas vus. On en a fait des axes de plan d'action RH. »*
+> *« Nous produisions des chiffres, mais ils étaient difficiles à consolider et peu comparables d'un mois à l'autre. GBA Connect a structuré notre dispositif de pilotage, de la définition des indicateurs jusqu'à leur restitution. Nous avons gagné en fiabilité, en lisibilité et en efficacité dans nos prises de décision. »*
 >
 > - *DRH, ETI services - mission réalisée par les associés-fondateurs avant la création de GBA Connect*
 

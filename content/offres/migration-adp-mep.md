@@ -31,7 +31,7 @@ GBA Connect porte l'AMOA de vos projets ADP avec une **connaissance fine de la s
 
 ## Verbatims client
 
-> *« Nos consultants AMOA savaient comment ADP fonctionne. Quand les équipes ADP nous proposaient un paramétrage, ils pouvaient challenger sur le fond, proposer des alternatives, anticiper les effets de bord. C'est ce qui a fait la différence sur les cas complexes - les conventions multiples, les rétro-actifs, les cumuls. »*
+> *« Nos consultants AMOA savaient comment ADP fonctionne. Quand les équipes ADP nous proposaient un paramétrage, ils pouvaient challenger sur le fond, proposer des alternatives, anticiper les effets de bord. C'est ce qui a fait la différence sur les cas complexes - les conventions multiples, les garanties conventionnelles, les cumuls. »*
 >
 > - *DRH, groupe industriel international - mission réalisée par les associés-fondateurs avant la création de GBA Connect*
 

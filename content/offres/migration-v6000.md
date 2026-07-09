@@ -31,7 +31,7 @@ GBA Connect a accompagné des entreprises sur cette transition spécifique. Nous
 
 ## Verbatims client
 
-> *« Sur la V6000, il y a des sujets qu'on ne voit qu'avec l'expérience : les cumuls de rubriques fantômes, les paramétrages qui ne se documentent pas tout seuls, les interfaces qui ont vieilli avec le SI. Avoir des gens qui ont fait la migration ailleurs nous a évité de redécouvrir tout ça en cours de projet. »*
+> *« Sur la V6000, il y a des sujets qu'on ne voit qu'avec l'expérience : les cumuls de rubriques fantômes, les paramétrages qui ne se documentent pas tout seuls, les interfaces qui ont vieilli avec le SI. Avoir des gens qui ont fait la migration ailleurs nous a évité de redécouvrir tout ça en cours de projet. Nous avons apprécié leur connaissance de notre éditeur et de son mode de fonctionnement. Ils savaient quelles questions poser, quels points de vigilance vérifier et comment challenger certaines propositions lorsqu'elles ne répondaient pas pleinement à nos besoins. Les échanges étaient plus constructifs et les décisions beaucoup plus sereines. »*
 >
 > - *Resp. Paie, groupe de services multi-établissements - mission réalisée par les associés-fondateurs avant la création de GBA Connect*
 

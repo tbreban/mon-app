@@ -31,7 +31,7 @@ GBA Connect réalise un **audit complet de votre GTA** - outil, paramétrage, pr
 
 ## Verbatims client
 
-> *« Personne ne touchait à la GTA, c'était un truc historique que personne ne maîtrisait. L'audit a montré qu'on perdait significativement de la masse salariale chaque mois en heures sup mal qualifiées. On a tranché : on garde l'outil, mais on revoit le paramétrage et on forme les managers. ROI en six mois. »*
+> *« Personne ne touchait à la GTA, c'était un truc historique que personne ne maîtrisait. L'audit a montré qu'on perdait significativement de la masse salariale chaque mois en heures sup mal qualifiées. On a tranché : on garde l'outil, mais on revoit le paramétrage et on forme les managers. »*
 >
 > - *DAF, ETI industrielle multi-sites - mission réalisée par les associés-fondateurs avant la création de GBA Connect*
 

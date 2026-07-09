@@ -31,7 +31,7 @@ GBA Connect exploite **ACE, l'outil de contrôle de paie d'ADP**, pour transform
 
 ## Verbatims client
 
-> *« Avant, on découvrait les écarts via les retours salariés ou les régularisations en N+1. Avec le contrôle outillé mis en place, on les détecte au moment de la pré-paie, on les corrige avant l'édition du bulletin. La DSN passe sans rejet, et les retours salariés ont sensiblement diminué. »*
+> *« La formation ADP nous a permis de découvrir les fonctionnalités d'ACE. L'accompagnement de GBA Connect nous a montré comment les utiliser pour construire une véritable méthodologie de contrôle adaptée à notre organisation. C'est cette complémentarité qui nous a permis de faire évoluer durablement nos pratiques. »*
 >
 > - *Responsable Paie, groupe de services, 4 500 paies mensuelles - mission réalisée par les associés-fondateurs avant la création de GBA Connect*
 
