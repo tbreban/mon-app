@@ -31,7 +31,7 @@ GBA Connect conçoit et déploie une BDESE qui **respecte l'obligation légale, 
 
 ## Notre approche
 
-> *« Notre ancienne BDESE faisait 80 pages, personne ne la lisait. On a tout reconstruit avec GBA Connect : structure resserrée, données reliées à des sources fiables, indicateurs commentés. Les élus s'en sont saisis pour les consultations, on a regagné du temps en réunion CSE. »*
+> *« Au-delà de la conformité réglementaire, nous avions besoin d'une organisation claire autour de la BDESE. GBA Connect a défini les rôles de chaque contributeur, mis en place un calendrier d'alimentation, des circuits de validation et des règles de diffusion adaptées aux consultations du CSE. La BDESE est devenue un véritable outil de pilotage, et non plus une simple obligation réglementaire. »*
 >
 > - *DRH, ETI industrielle multi-sites - mission réalisée par les associés-fondateurs avant la création de GBA Connect*
 

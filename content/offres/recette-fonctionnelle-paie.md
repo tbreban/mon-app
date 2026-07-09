@@ -31,7 +31,7 @@ GBA Connect conçoit, exécute et challenge la recette de vos projets paie sur l
 
 ## Notre approche
 
-> *« On avait préparé les cas standard, mais c'est sur les cas tordus qu'on s'est fait piéger en pré-prod : la maladie qui chevauche un changement de coefficient, la prime de départ d'un cadre dirigeant, le solde de tout compte d'un apprenti. GBA Connect a construit la recette sur ces cas-là dès le début. À la fin, on savait exactement où on allait. »*
+> *« Leur connaissance des processus de paie a changé notre façon d'aborder la recette. Les scénarios de test ont été définis en fonction des risques métier et des spécificités de notre entreprise, ce qui nous a permis de sécuriser la mise en production avec un niveau de confiance bien supérieur à celui de nos précédents projets.»*
 >
 > - *Resp. Paie, ETI industrielle - mission réalisée par les associés-fondateurs avant la création de GBA Connect*
 

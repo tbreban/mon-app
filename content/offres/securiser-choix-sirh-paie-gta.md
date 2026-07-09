@@ -31,9 +31,9 @@ GBA Connect vous met en position de **décider en connaissance de cause**, sur l
 
 ## Notre approche
 
-> *« Ce qui nous a marqués, c'est que l'équipe a fait parler nos gestionnaires de paie et nos chefs d'équipe terrain dès la première semaine. Les scénarios de démonstration ont été construits sur nos vrais cas - la prime d'astreinte du dimanche, la rétro-activité sur changement de coefficient, le cumul IJSS / maintien de salaire. Quand les éditeurs ont planché dessus, on a tout de suite vu qui maîtrisait vraiment et qui improvisait. »*
+> *« Nous hésitions entre faire évoluer notre solution existante et engager une refonte plus profonde. GBA Connect nous a aidés à objectiver les différents scénarios en intégrant les coûts, les risques, les impacts organisationnels et les contraintes de calendrier. Nous avons ainsi pu prendre une décision éclairée et partagée.»*
 >
-> - *DRH, ETI industrielle - mission réalisée par les associés-fondateurs avant la création de GBA Connect*
+> - *DRH, Groupe de distribution multi-sites - mission réalisée par les associés-fondateurs avant la création de GBA Connect*
 
 ## Indicateurs de réussite
 

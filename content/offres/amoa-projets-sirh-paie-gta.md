@@ -31,7 +31,7 @@ GBA Connect porte l'AMOA de vos projets SIRH/Paie/GTA avec une **double exigence
 
 ## Notre approche
 
-> *« On a eu une AMOA qui posait les bonnes questions à l'intégrateur, qui ne se laissait pas embarquer dans des "ça marchera, faites-nous confiance". Sur les rubriques sensibles, ils ont demandé des preuves de paramétrage avant la recette, pas pendant. Résultat : pas de mauvaise surprise au démarrage. »*
+> *« Leur expérience combinée de la paie et des éditeurs a fait la différence tout au long de la migration. Les échanges avec l'éditeur étaient plus fluides, les choix de paramétrage étaient challengés lorsque c'était nécessaire et les impacts métier étaient systématiquement pris en compte avant les arbitrages. »*
 >
 > - *Resp. Paie, ETI industrielle multi-sites - mission réalisée par les associés-fondateurs avant la création de GBA Connect*
 

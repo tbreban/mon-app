@@ -31,7 +31,7 @@ GBA Connect réalise un **audit complet et hiérarchisé de votre fonction paie*
 
 ## Notre approche
 
-> *« On savait qu'on avait des sujets, mais on n'arrivait pas à hiérarchiser. L'audit a posé un diagnostic clair : ce qui était grave et urgent, ce qui était grave mais pouvait attendre, ce qui était cosmétique. Ça nous a permis d'arbitrer les investissements sans céder à l'urgence ressentie. »*
+> *« Nous avions identifié de nombreux sujets, mais il était difficile de déterminer par où commencer. L'audit de GBA Connect nous a apporté un diagnostic structuré, une hiérarchisation des risques et des recommandations pragmatiques. Nous avons ainsi pu concentrer nos efforts sur les actions les plus prioritaires. »*
 >
 > - *DRH, groupe de services multi-établissements - mission réalisée par les associés-fondateurs avant la création de GBA Connect*
 
