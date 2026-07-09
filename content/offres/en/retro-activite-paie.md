@@ -29,7 +29,7 @@ GBA Connect handles the full range of retroactivity situations, **from individua
 - **Audit trail and proof file**: documentation of the methodology, justification of choices, enforceable archive
 - **Employee communication**: explanatory materials, FAQ, HR support in responding to queries
 
-## Our approach
+## Client testimonials
 
 > *"We had a mass regularisation to apply following a sector-level agreement. Our system couldn't handle it natively, and every payroll administrator had their own approach. GBA Connect established a single methodology, built the tooling around it, and supported the team on the first cases. Everything went through in two payroll runs with no DSN rejections and no employee complaints."*
 >

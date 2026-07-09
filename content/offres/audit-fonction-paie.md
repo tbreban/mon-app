@@ -29,7 +29,7 @@ GBA Connect réalise un **audit complet et hiérarchisé de votre fonction paie*
 - **Diagnostic coûts** : coût complet de la fonction (interne + externe + outils), benchmarks de marché
 - **Plan d'action priorisé** : actions correctives à court terme, transformations à moyen terme, investissements à instruire
 
-## Notre approche
+## Verbatims client
 
 > *« Nous avions identifié de nombreux sujets, mais il était difficile de déterminer par où commencer. L'audit de GBA Connect nous a apporté un diagnostic structuré, une hiérarchisation des risques et des recommandations pragmatiques. Nous avons ainsi pu concentrer nos efforts sur les actions les plus prioritaires. »*
 >

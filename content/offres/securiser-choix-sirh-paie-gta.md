@@ -29,7 +29,7 @@ GBA Connect vous met en position de **décider en connaissance de cause**, sur l
 - **Scoring final et recommandation argumentée**, avec analyse des risques par scénario
 - **Appui à la négociation contractuelle** : conditions financières, engagements de service, clauses de réversibilité
 
-## Notre approche
+## Verbatims client
 
 > *« Nous hésitions entre faire évoluer notre solution existante et engager une refonte plus profonde. GBA Connect nous a aidés à objectiver les différents scénarios en intégrant les coûts, les risques, les impacts organisationnels et les contraintes de calendrier. Nous avons ainsi pu prendre une décision éclairée et partagée.»*
 >

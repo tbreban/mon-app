@@ -29,7 +29,7 @@ GBA Connect designs and deploys **a structured, documented payroll control metho
 - **Training and skills transfer** for payroll administrators and managers: practical sessions on real cases, learning materials, skills progression framework
 - **Support through the first controlled payroll cycles**: on-site presence for 2 to 3 payroll cycles to embed the method and iron out any friction
 
-## Our approach
+## Client testimonials
 
 > *"We already had controls in place, but everyone did them their own way. GBA Connect helped us structure what existed, document what didn't, and - most importantly - bring the whole payroll team along in the process. Today the reference framework lives internally and every new payroll administrator is trained on it from day one."*
 >

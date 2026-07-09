@@ -29,7 +29,7 @@ GBA Connect vous aide à **mettre en conformité, sécuriser la rétro-activité
 - **Communication interne** : éléments de langage à destination des managers, des salariés, des représentants du personnel
 - **Sécurisation du traitement courant** : procédures, contrôles, points de vigilance pour les paies à venir
 
-## Notre approche
+## Verbatims client
 
 > *« On avait appliqué la loi sur le courant, mais la rétro-activité, on ne savait pas par quel bout la prendre. GBA Connect a posé une méthode claire, on a chiffré l'exposition, on a tranché le périmètre avec la direction et le juridique, et on a pu déployer les régularisations sereinement. »*
 >

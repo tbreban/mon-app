@@ -29,7 +29,7 @@ GBA Connect leads the Business Project Management of your ADP projects with **in
 - **Business functional testing** on real and complex cases: collective agreements, atypical populations, rare but critical events
 - **Monitoring of the first post-go-live payroll runs**: variance control, team support, incident management
 
-## Our approach
+## Client testimonials
 
 > *"Our Business Project Management consultants knew how ADP works. When the ADP teams proposed a configuration, they could challenge it on substance, suggest alternatives, anticipate side effects. That made all the difference on the complex cases - multiple collective agreements, retroactive adjustments, cumulative calculations."*
 >

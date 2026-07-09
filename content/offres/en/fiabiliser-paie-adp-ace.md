@@ -29,7 +29,7 @@ GBA Connect uses **ACE, ADP's payroll control tool**, to transform this control 
 - **Management reporting** for HR Directors/CFOs: discrepancy rate, recurring error typology, improvement indicators month after month
 - **Auditable documentation and audit trail** in the event of an URSSAF inspection, statutory audit, or employee dispute
 
-## Our approach
+## Client testimonials
 
 > *"Previously, we discovered discrepancies through employee feedback or N+1 retroactive adjustments. With the tooled control process in place, we detect them at the pre-payroll stage and correct them before the payslip is issued. DSN filings go through without rejection, and employee queries have dropped significantly."*
 >

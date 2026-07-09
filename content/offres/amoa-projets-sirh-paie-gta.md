@@ -29,7 +29,7 @@ GBA Connect porte l'AMOA de vos projets SIRH/Paie/GTA avec une **double exigence
 - **Préparation et conduite de la bascule** : checklist go-live, plan de repli, suivi des premières paies post-démarrage
 - **Conduite du changement** auprès des équipes paie, RH, managers et salariés
 
-## Notre approche
+## Verbatims client
 
 > *« Leur expérience combinée de la paie et des éditeurs a fait la différence tout au long de la migration. Les échanges avec l'éditeur étaient plus fluides, les choix de paramétrage étaient challengés lorsque c'était nécessaire et les impacts métier étaient systématiquement pris en compte avant les arbitrages. »*
 >

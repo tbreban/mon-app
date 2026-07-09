@@ -29,7 +29,7 @@ GBA Connect supports you in the **rigorous production and management-level use**
 - **Tailored deliverables**: versions for management, for the Works Council (CSE), for external publication
 - **Recurring production procedure**: calendar, sources, controls, validation, possible automation
 
-## Our approach
+## Client testimonials
 
 > *"We had a workforce report produced every year, but nobody could say whether our indicators were good or not. GBA Connect provided a reading framework, benchmarked us against sector data, and surfaced three issues we had overlooked. We turned them into HR action plan priorities."*
 >

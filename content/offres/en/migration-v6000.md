@@ -29,7 +29,7 @@ GBA Connect has supported companies through this specific transition. We know th
 - **Historical data migration**: strategy, integrity controls, validation of cumulative totals and balance carry-forwards
 - **Go-live securing**: parallel run, cutover plan, rollback plan, monitoring of the first post-go-live payroll runs
 
-## Our approach
+## Client testimonials
 
 > *"With V6000, there are issues you only see through experience: phantom pay element accumulators, configurations that don't document themselves, interfaces that have aged alongside the information system. Having people who had carried out the migration elsewhere saved us from rediscovering all of that mid-project."*
 >

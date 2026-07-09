@@ -37,7 +37,7 @@ GBA Connect met à votre disposition le **profil adapté à votre situation** - 
 - **Documentation et transfert** : formalisation des procédures en cours de mission pour faciliter la prise de poste du futur titulaire ou le retour du collaborateur
 - **Coordination avec vos équipes** : RH, DAF, managers - pour que la transition soit transparente pour l'organisation
 
-## Notre approche
+## Verbatims client
 
 > *« Nous avons perdu notre responsable paie du jour au lendemain. En moins d'une semaine, GBA Connect avait quelqu'un en poste. La paie de ce mois-là est sortie à l'heure, sans erreur. Le temps qu'on recrute, on n'a jamais eu à expliquer aux salariés pourquoi leurs bulletins étaient en retard. »*
 >

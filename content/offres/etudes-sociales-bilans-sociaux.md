@@ -29,7 +29,7 @@ GBA Connect vous accompagne sur la **production rigoureuse et l'exploitation man
 - **Restitution adaptée** : versions pour direction, pour CSE, pour publication externe
 - **Procédure de production récurrente** : calendrier, sources, contrôles, validation, automatisation possible
 
-## Notre approche
+## Verbatims client
 
 > *« On avait un bilan social produit chaque année, mais personne ne savait dire si nos indicateurs étaient bons ou pas. GBA Connect a posé une grille de lecture, comparé à des benchmarks sectoriels, et fait émerger trois points qu'on n'avait pas vus. On en a fait des axes de plan d'action RH. »*
 >

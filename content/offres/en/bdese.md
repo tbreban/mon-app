@@ -29,9 +29,9 @@ GBA Connect designs and deploys a BDESE that **meets the legal obligation, feeds
 - **Update procedure**: calendar, responsibilities, consistency checks, validation before publication
 - **Training for contributors and employee representatives**: understanding the framework, reading the data, using it in consultation processes
 
-## Our approach
+## Client testimonials
 
-> *"Our old BDESE ran to 80 pages and nobody read it. We rebuilt everything with GBA Connect: a tighter structure, data linked to reliable sources, annotated indicators. The employee representatives started using it in consultations, and we saved significant time in Works Council meetings."*
+> *"Beyond regulatory compliance, we needed a clear organisation around the BDESE. GBA Connect defined each contributor's role, set up an input schedule, validation workflows and distribution rules tailored to Works Council consultations. The BDESE became a genuine steering tool, no longer just a regulatory obligation."*
 >
 > - *HR Director, multi-site industrial mid-size company - assignment carried out by the founding partners prior to the creation of GBA Connect*
 

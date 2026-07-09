@@ -29,7 +29,7 @@ Our offer covers four modalities, combinable according to your needs:
 - **Pre-URSSAF inspection preparation**: review of exposed practices, construction of the defence file, support during the hearing
 - **Monthly reliability monitoring**: recurring controls on contribution bases and declarations, management dashboard, auditable audit trail
 
-## Our approach
+## Client testimonials
 
 > *"We had been told 'everything is fine' for years. GBA Connect looked in detail at our exemptions over two years. The result: a significant recovery from URSSAF, and a revised process to stop the same issues recurring. The audit more than paid for itself."*
 >

@@ -29,9 +29,9 @@ GBA Connect designs, executes, and challenges the testing of your payroll projec
 - **Non-regression testing**: proof of stability after each integrator release
 - **UAT acceptance reports** signed, traceable, and enforceable against the integrator
 
-## Our approach
+## Client testimonials
 
-> *"We had prepared the standard cases, but it was the edge cases that caught us out in pre-production: sick leave overlapping a grade change, a senior executive's severance package, a final settlement for an apprentice. GBA Connect built the testing around those cases from the outset. By the end, we knew exactly where we stood."*
+> *"Their knowledge of payroll processes changed the way we approached UAT. Test scenarios were defined based on business risks and the specifics of our company, which allowed us to secure go-live with a level of confidence far higher than in our previous projects."*
 >
 > - *Payroll Manager, mid-sized industrial company - engagement delivered by the founding partners prior to the creation of GBA Connect*
 

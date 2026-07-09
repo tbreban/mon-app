@@ -29,7 +29,7 @@ GBA Connect carries out a **comprehensive audit of your GTA** - system, configur
 - **Social risk mapping**: non-compliance with company agreements, collective agreements, and the Labour Code
 - **Prioritised action plan**: configuration corrections, system enhancements, process transformation, managerial support
 
-## Our approach
+## Client testimonials
 
 > *"Nobody touched the GTA - it was a legacy system that nobody really understood. The audit showed we were losing a significant amount of payroll cost every month through miscategorised overtime. We made the call: keep the system, overhaul the configuration, train the managers. ROI achieved within six months."*
 >

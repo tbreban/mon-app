@@ -29,7 +29,7 @@ GBA Connect porte la reprise de vos données paie comme **un projet à part enti
 - **Validation métier des reprises** : revue avec les responsables paie, signature des PV de reprise par lot
 - **Dossier de reprise** archivable et opposable : traçabilité complète des transformations et des écarts résiduels
 
-## Notre approche
+## Verbatims client
 
 > *« La reprise, c'est l'angle mort des projets. Tout le monde regarde le paramétrage, personne ne regarde sérieusement la donnée jusqu'au mois précédent le démarrage. GBA Connect nous a forcés à instruire le sujet dès le début - on a découvert des écarts à six mois du go-live, on a eu le temps de les traiter. Sans eux, on les aurait découverts dans le premier bulletin. »*
 >

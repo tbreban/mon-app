@@ -37,7 +37,7 @@ GBA Connect provides the **profile suited to your situation** - payroll administ
 - **Documentation and handover**: formalisation of procedures during the assignment to facilitate onboarding for the incoming role-holder or the returning employee
 - **Coordination with your teams**: HR, CFO, managers - so the transition is transparent for the organisation
 
-## Our approach
+## Client testimonials
 
 > *"We lost our payroll manager overnight. In less than a week, GBA Connect had someone in place. That month's payroll went out on time, with no errors. While we recruited, we never had to explain to employees why their payslips were late."*
 >

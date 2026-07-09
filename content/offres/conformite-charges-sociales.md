@@ -29,7 +29,7 @@ Notre offre couvre quatre modalités, combinables selon votre besoin :
 - **Sécurisation pré-contrôle URSSAF** : revue des pratiques exposées, constitution du dossier de défense, accompagnement à l'audition
 - **Run de fiabilisation mensuelle** : contrôles récurrents des assiettes et déclarations, tableau de bord de pilotage, traçabilité opposable
 
-## Notre approche
+## Verbatims client
 
 > *« On nous avait dit "tout va bien" depuis des années. GBA Connect a regardé en détail nos exonérations sur deux ans. Résultat : récupération significative auprès de l'URSSAF, et révision de notre process pour ne plus laisser passer la même chose. L'audit s'est largement autofinancé. »*
 >

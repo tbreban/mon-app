@@ -29,7 +29,7 @@ GBA Connect manages your payroll data migration as **a project in its own right*
 - **Business validation of migrations**: review with payroll managers, sign-off on migration acceptance reports by batch
 - **Migration file** suitable for archiving and audit trail: full traceability of all transformations and residual discrepancies
 
-## Our approach
+## Client testimonials
 
 > *"Data migration is the blind spot of every project. Everyone watches the configuration; no one looks seriously at the data until the month before go-live. GBA Connect forced us to address the issue from the start - we discovered discrepancies six months before go-live and had time to resolve them. Without them, we would have found out on the first payslip."*
 >

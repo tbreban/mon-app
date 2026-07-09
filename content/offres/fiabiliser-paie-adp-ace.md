@@ -29,7 +29,7 @@ GBA Connect exploite **ACE, l'outil de contrôle de paie d'ADP**, pour transform
 - **Reporting de pilotage** à destination DRH/DAF : taux d'écart, typologie des erreurs récurrentes, indicateurs d'amélioration mois après mois
 - **Documentation et traçabilité opposables** en cas de contrôle URSSAF, audit légal ou réclamation salarié
 
-## Notre approche
+## Verbatims client
 
 > *« Avant, on découvrait les écarts via les retours salariés ou les régularisations en N+1. Avec le contrôle outillé mis en place, on les détecte au moment de la pré-paie, on les corrige avant l'édition du bulletin. La DSN passe sans rejet, et les retours salariés ont sensiblement diminué. »*
 >

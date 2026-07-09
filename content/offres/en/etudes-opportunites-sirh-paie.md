@@ -29,7 +29,7 @@ GBA Connect builds with you **a costed, argued, and defensible opportunity dossi
 - **Ready-to-use decision dossier** for the Executive Committee, Management Committee or board, with a reasoned recommendation
 - **Short-term action plan** if the decision is approved: next steps, resources to mobilise, critical milestones
 
-## Our approach
+## Client testimonials
 
 > *"We were torn between evolving our current payroll system and starting from scratch. GBA Connect helped us objectify both scenarios on a comparable basis: total costs, risks, internal workload, realistic timeline. The Executive Committee made its decision within two weeks based on the dossier - after we had been going in circles for eight months."*
 >

@@ -29,7 +29,7 @@ GBA Connect conçoit et déploie chez vous **une méthodologie de contrôle de p
 - **Formation et transfert de compétences** aux gestionnaires et responsables : sessions pratiques sur cas réels, supports pédagogiques, grille de montée en compétence
 - **Accompagnement des premières paies contrôlées** : présence sur 2 à 3 cycles paie pour ancrer la méthode et corriger les frottements
 
-## Notre approche
+## Verbatims client
 
 > *« On avait déjà des contrôles, mais chacun les faisait à sa manière. GBA Connect nous a aidés à structurer ce qui existait, à documenter ce qui ne l'était pas, et surtout à embarquer toute l'équipe paie dans la démarche. Aujourd'hui, le référentiel vit en interne et chaque nouveau gestionnaire est formé dessus dès son arrivée. »*
 >

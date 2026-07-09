@@ -29,9 +29,9 @@ GBA Connect leads the Business Project Management of your HRIS/Payroll/Time & At
 - **Cutover preparation and execution**: go-live checklist, rollback plan, monitoring of the first post-go-live payroll runs
 - **Change management** with payroll, HR, manager and employee teams
 
-## Our approach
+## Client testimonials
 
-> *"We had a Business Project Manager who asked the right questions of the integrator - one who wouldn't be won over by 'it'll work, trust us.' On sensitive pay elements, they demanded proof of configuration before functional testing, not during. The result: no unpleasant surprises at go-live."*
+> *"Their combined expertise in payroll and vendor systems made the difference throughout the migration. Discussions with the vendor were smoother, configuration choices were challenged when needed, and business impacts were systematically factored in before any decision was made."*
 >
 > - *Payroll Manager, multi-site industrial mid-sized company - assignment carried out by the founding partners prior to the creation of GBA Connect*
 

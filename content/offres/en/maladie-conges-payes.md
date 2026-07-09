@@ -29,7 +29,7 @@ GBA Connect helps you **achieve compliance, secure retroactive adjustments, and 
 - **Internal communications**: talking points for managers, employees, and employee representatives
 - **Ongoing processing safeguards**: procedures, controls, and watchpoints for future payroll runs
 
-## Our approach
+## Client testimonials
 
 > *"We had applied the law to our current payroll, but we had no idea where to start with the retroactivity. GBA Connect provided a clear methodology, we quantified our exposure, agreed on the scope with management and legal, and were able to roll out the adjustments without disruption."*
 >

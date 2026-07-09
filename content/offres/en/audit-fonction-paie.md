@@ -29,9 +29,9 @@ GBA Connect delivers a **comprehensive, prioritised audit of your payroll functi
 - **Cost assessment**: full cost of the function (internal + external + tools), market benchmarks
 - **Prioritised action plan**: short-term corrective actions, medium-term transformations, investments to appraise
 
-## Our approach
+## Client testimonials
 
-> *"We knew we had issues, but we couldn't prioritise them. The audit gave us a clear picture: what was serious and urgent, what was serious but could wait, what was cosmetic. That allowed us to allocate investment without being driven by perceived urgency."*
+> *"We had identified many issues, but it was hard to know where to start. GBA Connect's audit gave us a structured diagnosis, a clear prioritisation of risks and pragmatic recommendations. This allowed us to focus our efforts on the most pressing actions."*
 >
 > - *HR Director, multi-site services group - assignment carried out by the founding partners before GBA Connect was established*
 

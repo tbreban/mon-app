@@ -29,7 +29,7 @@ GBA Connect réalise un **audit complet de votre GTA** - outil, paramétrage, pr
 - **Cartographie des risques sociaux** : non-conformités aux accords d'entreprise, à la convention collective, au Code du travail
 - **Plan d'action priorisé** : corrections de paramétrage, évolutions d'outil, transformation des processus, accompagnement managérial
 
-## Notre approche
+## Verbatims client
 
 > *« Personne ne touchait à la GTA, c'était un truc historique que personne ne maîtrisait. L'audit a montré qu'on perdait significativement de la masse salariale chaque mois en heures sup mal qualifiées. On a tranché : on garde l'outil, mais on revoit le paramétrage et on forme les managers. ROI en six mois. »*
 >

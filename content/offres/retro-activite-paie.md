@@ -29,7 +29,7 @@ GBA Connect intervient sur l'ensemble des situations de rétro-activité, **du c
 - **Traçabilité et dossier de preuve** : documentation de la méthode, justification des choix, archivage opposable
 - **Communication au salarié** : éléments explicatifs, FAQ, accompagnement RH face aux questions
 
-## Notre approche
+## Verbatims client
 
 > *« On avait une régularisation massive à appliquer suite à un accord de branche. Notre outil ne savait pas faire en natif, et chaque gestionnaire avait sa méthode. GBA Connect a posé une méthode unique, l'a outillée, et a accompagné les gestionnaires sur les premiers dossiers. Tout est passé en deux paies sans rejet DSN ni réclamation salarié. »*
 >

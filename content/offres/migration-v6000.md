@@ -29,7 +29,7 @@ GBA Connect a accompagné des entreprises sur cette transition spécifique. Nous
 - **Reprise de l'historique** : stratégie, contrôles d'intégrité, validation des cumuls et des reprises de soldes
 - **Sécurisation du go-live** : parallel run, plan de bascule, plan de repli, suivi des premières paies
 
-## Notre approche
+## Verbatims client
 
 > *« Sur la V6000, il y a des sujets qu'on ne voit qu'avec l'expérience : les cumuls de rubriques fantômes, les paramétrages qui ne se documentent pas tout seuls, les interfaces qui ont vieilli avec le SI. Avoir des gens qui ont fait la migration ailleurs nous a évité de redécouvrir tout ça en cours de projet. »*
 >

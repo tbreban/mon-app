@@ -29,11 +29,11 @@ GBA Connect puts you in a position to **make an informed decision**, grounded in
 - **Final scoring and reasoned recommendation**, with risk analysis per scenario
 - **Support in contract negotiation**: financial terms, service-level commitments, reversibility clauses
 
-## Our approach
+## Client testimonials
 
-> *"What stood out for us was that the team brought our payroll administrators and frontline team leaders into the conversation from the very first week. The demonstration scenarios were built around our actual cases - Sunday on-call allowances, retroactive coefficient changes, overlap between IJSS and salary continuation. When the vendors tackled these, it was immediately clear who really knew their product and who was winging it."*
+> *"We were torn between evolving our existing solution and undertaking a deeper overhaul. GBA Connect helped us objectively assess the different scenarios by factoring in costs, risks, organisational impacts and scheduling constraints. This allowed us to make an informed, shared decision."*
 >
-> - *HR Director, mid-sized industrial group - engagement delivered by the founding partners prior to the creation of GBA Connect*
+> - *HR Director, multi-site distribution group - engagement delivered by the founding partners prior to the creation of GBA Connect*
 
 ## Success indicators
 

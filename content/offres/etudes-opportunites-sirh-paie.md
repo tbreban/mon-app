@@ -29,7 +29,7 @@ GBA Connect construit avec vous **un dossier d'opportunité chiffré, argumenté
 - **Dossier de décision** clé en main pour COMEX, CODIR ou board, avec recommandation argumentée
 - **Plan d'action de court terme** si la décision est validée : prochaines étapes, ressources à mobiliser, jalons critiques
 
-## Notre approche
+## Verbatims client
 
 > *« On hésitait entre faire évoluer notre paie actuelle et tout refondre. GBA Connect nous a aidés à objectiver les deux scénarios sur des bases comparables : coûts complets, risques, charge interne, calendrier réaliste. Le COMEX a tranché en quinze jours sur la base du dossier, alors qu'on tournait en rond depuis huit mois. »*
 >

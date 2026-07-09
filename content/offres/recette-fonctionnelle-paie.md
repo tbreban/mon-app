@@ -29,7 +29,7 @@ GBA Connect conçoit, exécute et challenge la recette de vos projets paie sur l
 - **Recette de non-régression** : preuves de stabilité après chaque livraison de l'intégrateur
 - **PV de recette** signés, traçables, opposables à l'intégrateur
 
-## Notre approche
+## Verbatims client
 
 > *« Leur connaissance des processus de paie a changé notre façon d'aborder la recette. Les scénarios de test ont été définis en fonction des risques métier et des spécificités de notre entreprise, ce qui nous a permis de sécuriser la mise en production avec un niveau de confiance bien supérieur à celui de nos précédents projets.»*
 >

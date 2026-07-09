@@ -29,7 +29,7 @@ GBA Connect conçoit et déploie une BDESE qui **respecte l'obligation légale, 
 - **Procédure de mise à jour** : calendrier, responsabilités, contrôles de cohérence, validation avant publication
 - **Formation des contributeurs et des élus** : appropriation de la trame, lecture des données, usage dans les consultations
 
-## Notre approche
+## Verbatims client
 
 > *« Au-delà de la conformité réglementaire, nous avions besoin d'une organisation claire autour de la BDESE. GBA Connect a défini les rôles de chaque contributeur, mis en place un calendrier d'alimentation, des circuits de validation et des règles de diffusion adaptées aux consultations du CSE. La BDESE est devenue un véritable outil de pilotage, et non plus une simple obligation réglementaire. »*
 >
