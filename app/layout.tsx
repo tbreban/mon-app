@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import { getLocale } from "next-intl/server";
+import { SITE_URL } from "@/lib/seo";
 
 const inter = Inter({
   variable: "--font-sans",
@@ -9,6 +10,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL(SITE_URL),
   title: "GBA Conseil",
   description: "Cabinet de conseil spécialisé en SIRH et gestion de la paie",
 };

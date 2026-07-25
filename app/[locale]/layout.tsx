@@ -3,6 +3,8 @@ import { NextIntlClientProvider, useTranslations } from "next-intl";
 import { getMessages, getTranslations } from "next-intl/server";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import JsonLd from "@/components/JsonLd";
+import { organizationSchema } from "@/lib/seo";
 
 export async function generateMetadata({
   params,
@@ -33,6 +35,7 @@ export default async function LocaleLayout({
 
   return (
     <NextIntlClientProvider locale={locale} messages={messages}>
+      <JsonLd data={organizationSchema()} />
       <Navbar />
       <main className="flex-1">{children}</main>
       <Footer />

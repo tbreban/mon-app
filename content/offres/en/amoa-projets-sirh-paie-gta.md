@@ -52,4 +52,4 @@ GBA Connect is **not a system integrator** and does not perform tool configurati
 
 ## Further reading
 
-→ Let's talk about your project · See also: *ADP Migration Support* · *Payroll data migration* · *Functional payroll testing*
+→ Let's talk about your project · See also: [ADP Migration Support](/offres/migration-adp-mep) · [Payroll data migration](/offres/reprise-donnees-paie) · [Functional payroll testing](/offres/recette-fonctionnelle-paie)

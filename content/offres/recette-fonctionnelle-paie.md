@@ -48,4 +48,4 @@ Mission cadrée, généralement entre **8 et 16 semaines** selon le périmètre,
 
 ## Pour aller plus loin
 
-→ Parlons de votre projet · Voir aussi : *AMOA Projets SIRH/Paie/GTA* · *Accompagnement de migration ADP* · *Reprise de données paie*
+→ Parlons de votre projet · Voir aussi : [AMOA Projets SIRH/Paie/GTA](/offres/amoa-projets-sirh-paie-gta) · [Accompagnement de migration ADP](/offres/migration-adp-mep) · [Reprise de données paie](/offres/reprise-donnees-paie)

@@ -1,6 +1,6 @@
 import { useTranslations, useLocale } from "next-intl";
 import { Link } from "@/lib/navigation";
-import { Mail, Phone, MapPin } from "lucide-react";
+import { Mail, MapPin } from "lucide-react";
 import { PILLARS, type PillarSlug } from "@/lib/pillars";
 
 export default function Footer() {
@@ -70,10 +70,6 @@ export default function Footer() {
               <li className="flex items-center gap-2 text-sm text-white/55">
                 <Mail className="h-4 w-4 shrink-0 text-[#E7A64F]" />
                 {t("contactEmail")}
-              </li>
-              <li className="flex items-center gap-2 text-sm text-white/55">
-                <Phone className="h-4 w-4 shrink-0 text-[#E7A64F]" />
-                {t("contactPhone")}
               </li>
               <li className="flex items-center gap-2 text-sm text-white/55">
                 <MapPin className="h-4 w-4 shrink-0 text-[#E7A64F]" />

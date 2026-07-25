@@ -55,4 +55,4 @@ GBA Connect n'effectue **pas la production de paie** elle-même : nous contrôlo
 
 ## Pour aller plus loin
 
-→ Parlons de votre contexte paie · Voir aussi : *Structurer durablement votre contrôle de paie* · *Audit de la fonction Paie* · *Conformité des charges sociales*
+→ Parlons de votre contexte paie · Voir aussi : [Structurer durablement votre contrôle de paie](/offres/structurer-controle-paie) · [Audit de la fonction Paie](/offres/audit-fonction-paie) · [Conformité des charges sociales](/offres/conformite-charges-sociales)

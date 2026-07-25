@@ -1,6 +1,7 @@
 import { useTranslations } from "next-intl";
 import { getTranslations } from "next-intl/server";
 import type { Metadata } from "next";
+import { buildMetadata } from "@/lib/seo";
 
 export async function generateMetadata({
   params,
@@ -9,7 +10,12 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "RgpdPage" });
-  return { title: `${t("title")} - GBA Connect` };
+  return buildMetadata({
+    title: `${t("title")} - GBA Connect`,
+    description: t("metaDescription"),
+    path: "/rgpd",
+    locale,
+  });
 }
 
 const SECTION_KEYS = [1, 2, 3, 4, 5, 6, 7, 8] as const;

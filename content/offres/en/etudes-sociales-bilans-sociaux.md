@@ -51,4 +51,4 @@ Varies:
 
 ## Further reading
 
-→ Let's discuss your context · See also: *BDESE* · *Payroll Function Audit* · *HRIS/Payroll/Time & Attendance Project Management Support*
+→ Let's discuss your context · See also: [BDESE](/offres/bdese) · [Payroll Function Audit](/offres/audit-fonction-paie) · [HRIS/Payroll/Time & Attendance Project Management Support](/offres/amoa-projets-sirh-paie-gta)

@@ -48,4 +48,4 @@ Mission cadrée, généralement entre **8 et 16 semaines** selon le périmètre 
 
 ## Pour aller plus loin
 
-→ Parlons de votre projet · Voir aussi : *Études d'opportunités SIRH/Paie* · *Audit de la fonction Paie* · *AMOA Projets SIRH/Paie/GTA*
+→ Parlons de votre projet · Voir aussi : [Études d'opportunités SIRH/Paie](/offres/etudes-opportunites-sirh-paie) · [Audit de la fonction Paie](/offres/audit-fonction-paie) · [AMOA Projets SIRH/Paie/GTA](/offres/amoa-projets-sirh-paie-gta)

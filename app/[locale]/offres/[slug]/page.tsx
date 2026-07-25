@@ -15,6 +15,8 @@ import OfferCard from "@/components/OfferCard";
 import HighlightText from "@/components/HighlightText";
 import { ArrowLeft } from "lucide-react";
 import type { Metadata } from "next";
+import { buildMetadata, breadcrumbSchema, serviceSchema } from "@/lib/seo";
+import JsonLd from "@/components/JsonLd";
 
 // Only slugs enumerated by generateStaticParams are valid; any other slug
 // 404s instead of being rendered on demand (avoids untrusted slugs reaching
@@ -33,13 +35,26 @@ export async function generateMetadata({
   params: Promise<{ slug: string; locale: string }>;
 }): Promise<Metadata> {
   const { slug, locale } = await params;
+  const path = `/offres/${slug}`;
   if (isPillarSlug(slug)) {
     const pillar = PILLARS[slug];
-    return { title: `${locale === "en" ? pillar.labelEn : pillar.label} - GBA Connect` };
+    const label = locale === "en" ? pillar.labelEn : pillar.label;
+    const description = locale === "en" ? pillar.descriptionEn : pillar.description;
+    return buildMetadata({
+      title: `${label} - GBA Connect`,
+      description,
+      path,
+      locale,
+    });
   }
-  const offer = getOfferBySlug(slug);
+  const offer = getOfferBySlug(slug, locale);
   if (!offer) return {};
-  return { title: `${offer.title} - GBA Connect` };
+  return buildMetadata({
+    title: `${offer.title} - GBA Connect`,
+    description: offer.description,
+    path,
+    locale,
+  });
 }
 
 /* ─── Composants Markdown ─── */
@@ -105,6 +120,28 @@ const mdComponents: React.ComponentProps<typeof ReactMarkdown>["components"] = {
 
   // Séparateur
   hr: () => <hr className="my-12 border-gray-100" />,
+
+  // Liens internes ("Pour aller plus loin") — passent par le Link
+  // locale-aware pour conserver le préfixe /en, sinon lien externe classique.
+  a: ({ href, children }) =>
+    href?.startsWith("/") ? (
+      <Link
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
+        href={href as any}
+        className="font-semibold text-[#254770] underline decoration-[#E7A64F] decoration-2 underline-offset-2 transition-colors hover:text-[#E7A64F]"
+      >
+        {children}
+      </Link>
+    ) : (
+      <a
+        href={href}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="font-semibold text-[#254770] underline decoration-[#E7A64F] decoration-2 underline-offset-2 transition-colors hover:text-[#E7A64F]"
+      >
+        {children}
+      </a>
+    ),
 };
 
 /* ─── Page pilier ─── */
@@ -118,6 +155,16 @@ function PillarPage({ pillarSlug }: { pillarSlug: PillarSlug }) {
 
   return (
     <div className="flex flex-col">
+      <JsonLd
+        data={breadcrumbSchema(
+          [
+            { name: locale === "en" ? "Home" : "Accueil", path: "/" },
+            { name: t("breadcrumbOffres"), path: "/offres" },
+            { name: pillarLabel, path: `/offres/${pillarSlug}` },
+          ],
+          locale
+        )}
+      />
       <section className="relative overflow-hidden bg-[#254770] py-24 text-white">
         <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(ellipse_80%_60%_at_80%_40%,_rgba(231,166,79,0.12),_transparent)]" />
         <div className="relative mx-auto max-w-7xl px-4">
@@ -187,6 +234,25 @@ function OfferPage({ slug }: { slug: string }) {
 
   return (
     <div className="flex flex-col">
+      <JsonLd
+        data={breadcrumbSchema(
+          [
+            { name: locale === "en" ? "Home" : "Accueil", path: "/" },
+            { name: t("breadcrumbOffres"), path: "/offres" },
+            { name: pillarLabel, path: `/offres/${offer.pillar}` },
+            { name: offer.title, path: `/offres/${offer.slug}` },
+          ],
+          locale
+        )}
+      />
+      <JsonLd
+        data={serviceSchema({
+          name: offer.title,
+          description: offer.description,
+          path: `/offres/${offer.slug}`,
+          locale,
+        })}
+      />
 
       {/* Hero avec breadcrumb intégré + titre */}
       <section className="relative overflow-hidden bg-[#254770] pb-14 pt-8 text-white">

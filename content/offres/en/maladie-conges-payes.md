@@ -51,4 +51,4 @@ Assignment scope varies:
 
 ## Further reading
 
-→ Let's discuss your payroll context · See also: *Retroactive Payroll Adjustments* · *Payroll Function Audit* · *Social Charges Compliance*
+→ Let's discuss your payroll context · See also: [Retroactive Payroll Adjustments](/offres/retro-activite-paie) · [Payroll Function Audit](/offres/audit-fonction-paie) · [Social Charges Compliance](/offres/conformite-charges-sociales)

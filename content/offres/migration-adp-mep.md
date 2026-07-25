@@ -48,4 +48,4 @@ Mission longue, généralement entre **6 et 18 mois** selon l'ampleur de la migr
 
 ## Pour aller plus loin
 
-→ Parlons de votre projet · Voir aussi : *Migration V6000 (sortie de version ADP)* · *Reprise de données paie* · *Recette fonctionnelle paie*
+→ Parlons de votre projet · Voir aussi : [Migration V6000 (sortie de version ADP)](/offres/migration-v6000) · [Reprise de données paie](/offres/reprise-donnees-paie) · [Recette fonctionnelle paie](/offres/recette-fonctionnelle-paie)

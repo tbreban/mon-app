@@ -48,4 +48,4 @@ A scoped assignment, typically **4 to 8 weeks** depending on the number of entit
 
 ## Further reading
 
-→ Let's discuss your context · See also: *Selecting your HRIS, Payroll or Time & Attendance system* · *HRIS/Payroll/Time & Attendance Project Management Support* · *Payroll Function Audit*
+→ Let's discuss your context · See also: [Selecting your HRIS, Payroll or Time & Attendance system](/offres/securiser-choix-sirh-paie-gta) · [HRIS/Payroll/Time & Attendance Project Management Support](/offres/amoa-projets-sirh-paie-gta) · [Payroll Function Audit](/offres/audit-fonction-paie)

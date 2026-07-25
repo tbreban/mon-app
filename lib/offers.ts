@@ -12,6 +12,7 @@ export interface Offer {
   variant: string;
   order: number;
   content: string;
+  description: string;
 }
 
 const CONTENT_DIR = path.join(process.cwd(), "content", "offres");
@@ -19,6 +20,24 @@ const CONTENT_DIR = path.join(process.cwd(), "content", "offres");
 // Slugs are simple content identifiers; reject anything else before it can
 // reach the filesystem (defense-in-depth against path traversal).
 const SLUG_RE = /^[a-z0-9-]+$/;
+
+const MAX_DESCRIPTION_LENGTH = 155;
+
+// Every offer file leads with "# Title\n\n**Bold pitch sentence.**" — reuse
+// that sentence as the meta description so content authors don't have to
+// maintain a separate frontmatter field in parallel.
+function excerptFromContent(content: string): string {
+  const trimmed = content.trim();
+  const boldLead = trimmed.match(/^#[^\n]*\n+\*\*([\s\S]+?)\*\*/);
+  const source = boldLead?.[1] ?? trimmed.replace(/^#[^\n]*\n+/, "").split(/\n{2,}/)[0] ?? "";
+  const plain = source
+    .replace(/\*\*|\*|_/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+  if (plain.length <= MAX_DESCRIPTION_LENGTH) return plain;
+  const truncated = plain.slice(0, MAX_DESCRIPTION_LENGTH);
+  return `${truncated.slice(0, truncated.lastIndexOf(" "))}…`;
+}
 
 export function getOfferBySlug(slug: string, locale = "fr"): Offer | null {
   if (!SLUG_RE.test(slug) || !SLUG_RE.test(locale)) return null;
@@ -35,6 +54,7 @@ export function getOfferBySlug(slug: string, locale = "fr"): Offer | null {
     variant: data.variant as string,
     order: typeof data.order === "number" ? data.order : 999,
     content,
+    description: typeof data.description === "string" ? data.description : excerptFromContent(content),
   };
 }
 

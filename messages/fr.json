@@ -21,8 +21,7 @@
     "info4": "Mentions Légales",
     "contactTitle": "Contact",
     "contactEmail": "contact@gba-connect.fr",
-    "contactPhone": "+33 (0)1 85 00 00 00",
-    "contactCity": "Levallois-Perret, France",
+    "contactCity": "18B, rue de Villiers\n92300 Levallois-Perret",
     "copyright": "© 2026 GBA Connect, Excellence RH & Paie."
   },
   "HomePage": {
@@ -101,9 +100,10 @@
   },
   "MentionsLegalesPage": {
     "title": "Mentions Légales",
+    "metaDescription": "Mentions légales du site GBA Connect : éditeur, hébergement, propriété intellectuelle et données personnelles.",
     "intro": "Conformément aux dispositions des articles 6-III et 19 de la Loi n°2004-575 du 21 juin 2004 pour la Confiance dans l'Économie Numérique (LCEN), il est porté à la connaissance des utilisateurs et visiteurs du site GBA Connect les présentes mentions légales.",
     "section1Title": "Éditeur du site",
-    "section1Body": "Le site GBA Connect est édité par :\nGBA Connect SAS\nSiège social : 18B, rue de Villiers, 92300 Levallois-Perret, France\nCapital social de 50 000 euros, n° RCS 104 571 625, TVA FR09104571625\nDirecteur de la publication : Thomas BREBAN\nEmail : contact@gba-connect.fr\nTéléphone : +33 (0)1 85 00 00 00",
+    "section1Body": "Le site GBA Connect est édité par :\nGBA Connect SAS\nSiège social : 18B, rue de Villiers, 92300 Levallois-Perret, France\nCapital social de 50 000 euros, n° RCS 104 571 625, TVA FR09104571625\nDirecteur de la publication : Thomas BREBAN\nEmail : contact@gba-connect.fr",
     "section2Title": "Hébergement",
     "section2Body": "Le site est hébergé par :\nVercel Inc.\n440 N. Barranca Ave #4133 Covina California 91723",
     "section3Title": "Propriété intellectuelle",
@@ -117,6 +117,7 @@
   },
   "RgpdPage": {
     "title": "Politique de Protection des Données Personnelles (RGPD)",
+    "metaDescription": "Politique de protection des données personnelles de GBA Connect, conforme au RGPD (UE 2016/679).",
     "intro": "GBA Connect attache une importance particulière à la protection de vos données personnelles. La présente politique décrit comment nous collectons, utilisons et protégeons vos données, conformément au Règlement Général sur la Protection des Données (UE) 2016/679 (RGPD) et à la loi Informatique et Libertés.",
     "section1Title": "Responsable du traitement",
     "section1Body": "Le responsable du traitement des données collectées sur le site GBA Connect est :\nGBA Connect SAS\n18B, rue de Villiers, 92300 Levallois-Perret, France\nEmail : contact@gba-connect.fr",
@@ -138,6 +139,7 @@
   "AboutPage": {
     "badge": "QUI SOMMES-NOUS",
     "title": "À propos de GBA Connect",
+    "metaDescription": "GBA Connect : trois associés experts SIRH, paie et GTA, réunis pour porter vos projets de la stratégie jusqu'à la production.",
     "intro": "GBA Connect accompagne les transformations SIRH, paie et GTA en réunissant ce que le marché sépare trop souvent : la vision stratégique du conseil et la maîtrise de l’exécution.\nTrois associés, trois expertises, une exigence partagée - mener chaque projet jusqu’à son aboutissement opérationnel.",
     "storyBadge": "NOTRE HISTOIRE",
     "storyTitle": "Trois expertises, une même exigence",

@@ -48,4 +48,4 @@ A long-term project, generally between **9 and 18 months** depending on the chos
 
 ## Further reading
 
-→ Let's talk about your project · See also: *ADP Migration Support* · *Payroll data migration* · *Securing your HRIS, Payroll or Time & Attendance choice*
+→ Let's talk about your project · See also: [ADP Migration Support](/offres/migration-adp-mep) · [Payroll data migration](/offres/reprise-donnees-paie) · [Securing your HRIS, Payroll or Time & Attendance choice](/offres/securiser-choix-sirh-paie-gta)

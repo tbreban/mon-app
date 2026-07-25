@@ -4,6 +4,7 @@ import Image from "next/image";
 import { Link } from "@/lib/navigation";
 import { ShieldCheck, Users, Target, Award } from "lucide-react";
 import type { Metadata } from "next";
+import { buildMetadata } from "@/lib/seo";
 
 export async function generateMetadata({
   params,
@@ -12,7 +13,12 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "AboutPage" });
-  return { title: `${t("title")} - GBA Connect` };
+  return buildMetadata({
+    title: t("title"),
+    description: t("metaDescription"),
+    path: "/about",
+    locale,
+  });
 }
 
 export default function AboutPage() {

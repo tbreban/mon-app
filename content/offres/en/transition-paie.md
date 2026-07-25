@@ -56,4 +56,4 @@ Variable-length assignment depending on context: from **a few weeks** for a shor
 
 ## Further reading
 
-→ Let's discuss your situation · See also: *Payroll Function Audit* · *Structuring your payroll controls for the long term* · *Social charges compliance*
+→ Let's discuss your situation · See also: [Payroll Function Audit](/offres/audit-fonction-paie) · [Structuring your payroll controls for the long term](/offres/structurer-controle-paie) · [Social charges compliance](/offres/conformite-charges-sociales)

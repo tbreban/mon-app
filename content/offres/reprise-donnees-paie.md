@@ -50,4 +50,4 @@ Cette offre s'inscrit prioritairement dans le **cadre d'une migration SIRH/Paie*
 
 ## Pour aller plus loin
 
-→ Parlons de votre projet · Voir aussi : *AMOA Projets SIRH/Paie/GTA* · *Accompagnement de migration ADP* · *Recette fonctionnelle paie*
+→ Parlons de votre projet · Voir aussi : [AMOA Projets SIRH/Paie/GTA](/offres/amoa-projets-sirh-paie-gta) · [Accompagnement de migration ADP](/offres/migration-adp-mep) · [Recette fonctionnelle paie](/offres/recette-fonctionnelle-paie)

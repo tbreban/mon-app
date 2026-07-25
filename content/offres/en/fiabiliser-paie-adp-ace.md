@@ -55,4 +55,4 @@ GBA Connect does **not handle payroll production** itself: we control, we do not
 
 ## Further reading
 
-→ Let's discuss your payroll context · See also: *Structuring your payroll controls for the long term* · *Payroll Function Audit* · *Social charges compliance*
+→ Let's discuss your payroll context · See also: [Structuring your payroll controls for the long term](/offres/structurer-controle-paie) · [Payroll Function Audit](/offres/audit-fonction-paie) · [Social charges compliance](/offres/conformite-charges-sociales)

@@ -48,4 +48,4 @@ A long-term assignment, generally between **6 and 18 months** depending on the s
 
 ## Further reading
 
-→ Let's talk about your project · See also: *V6000 Migration (exiting the ADP version)* · *Payroll data migration* · *Functional payroll testing*
+→ Let's talk about your project · See also: [V6000 Migration (exiting the ADP version)](/offres/migration-v6000) · [Payroll data migration](/offres/reprise-donnees-paie) · [Functional payroll testing](/offres/recette-fonctionnelle-paie)

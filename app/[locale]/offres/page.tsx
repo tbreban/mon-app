@@ -1,7 +1,25 @@
 import { useLocale, useTranslations } from "next-intl";
+import { getTranslations } from "next-intl/server";
 import { Link } from "@/lib/navigation";
 import { getOffersByPillar, PILLARS, type PillarSlug } from "@/lib/offers";
 import OfferCard, { PillarCard } from "@/components/OfferCard";
+import { buildMetadata } from "@/lib/seo";
+import type { Metadata } from "next";
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: "OffresPage" });
+  return buildMetadata({
+    title: `${t("title")} - GBA Connect`,
+    description: t("subtitle"),
+    path: "/offres",
+    locale,
+  });
+}
 
 export default function OffresPage() {
   const locale = useLocale();

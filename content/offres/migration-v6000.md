@@ -48,4 +48,4 @@ Projet long, généralement entre **9 et 18 mois** selon la cible retenue et la 
 
 ## Pour aller plus loin
 
-→ Parlons de votre projet · Voir aussi : *Accompagnement de migration ADP* · *Reprise de données paie* · *Sécuriser le choix de votre SIRH, Paie ou GTA*
+→ Parlons de votre projet · Voir aussi : [Accompagnement de migration ADP](/offres/migration-adp-mep) · [Reprise de données paie](/offres/reprise-donnees-paie) · [Sécuriser le choix de votre SIRH, Paie ou GTA](/offres/securiser-choix-sirh-paie-gta)

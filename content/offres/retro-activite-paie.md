@@ -51,4 +51,4 @@ Variable selon le cas :
 
 ## Pour aller plus loin
 
-→ Parlons de votre contexte paie · Voir aussi : *Maladie & Congés payés post-réforme 2024* · *Audit de la fonction Paie* · *Structurer durablement votre contrôle de paie*
+→ Parlons de votre contexte paie · Voir aussi : [Maladie & Congés payés post-réforme 2024](/offres/maladie-conges-payes) · [Audit de la fonction Paie](/offres/audit-fonction-paie) · [Structurer durablement votre contrôle de paie](/offres/structurer-controle-paie)

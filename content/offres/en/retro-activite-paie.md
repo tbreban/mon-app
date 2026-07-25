@@ -51,4 +51,4 @@ Varies by case:
 
 ## Further reading
 
-→ Let's discuss your payroll context · See also: *Sick Leave & Annual Leave post-2024 reform* · *Payroll Function Audit* · *Building a sustainable payroll control framework*
+→ Let's discuss your payroll context · See also: [Sick Leave & Annual Leave post-2024 reform](/offres/maladie-conges-payes) · [Payroll Function Audit](/offres/audit-fonction-paie) · [Building a sustainable payroll control framework](/offres/structurer-controle-paie)

@@ -50,4 +50,4 @@ This offer is primarily scoped for **HRIS/Payroll migration projects**, but also
 
 ## To go further
 
-→ Let's talk about your project · See also: *HRIS/Payroll/Time & Attendance Business Project Management* · *ADP Migration Support* · *Payroll Functional Testing (UAT)*
+→ Let's talk about your project · See also: [HRIS/Payroll/Time & Attendance Business Project Management](/offres/amoa-projets-sirh-paie-gta) · [ADP Migration Support](/offres/migration-adp-mep) · [Payroll Functional Testing (UAT)](/offres/recette-fonctionnelle-paie)

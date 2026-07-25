@@ -53,4 +53,4 @@ Variable depending on the modality:
 
 ## Further reading
 
-→ Let's discuss your payroll context · See also: *Payroll Function Audit* · *Structuring your payroll controls for the long term* · *Securing your ADP payroll with ACE*
+→ Let's discuss your payroll context · See also: [Payroll Function Audit](/offres/audit-fonction-paie) · [Structuring your payroll controls for the long term](/offres/structurer-controle-paie) · [Securing your ADP payroll with ACE](/offres/fiabiliser-paie-adp-ace)

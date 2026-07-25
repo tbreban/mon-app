@@ -52,4 +52,4 @@ GBA Connect n'est **pas intégrateur** et ne réalise pas le paramétrage de l'o
 
 ## Pour aller plus loin
 
-→ Parlons de votre projet · Voir aussi : *Accompagnement de migration ADP* · *Reprise de données paie* · *Recette fonctionnelle paie*
+→ Parlons de votre projet · Voir aussi : [Accompagnement de migration ADP](/offres/migration-adp-mep) · [Reprise de données paie](/offres/reprise-donnees-paie) · [Recette fonctionnelle paie](/offres/recette-fonctionnelle-paie)

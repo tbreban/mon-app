@@ -53,4 +53,4 @@ Variable selon la modalité :
 
 ## Pour aller plus loin
 
-→ Parlons de votre contexte paie · Voir aussi : *Audit de la fonction Paie* · *Structurer durablement votre contrôle de paie* · *Fiabiliser votre paie ADP avec ACE*
+→ Parlons de votre contexte paie · Voir aussi : [Audit de la fonction Paie](/offres/audit-fonction-paie) · [Structurer durablement votre contrôle de paie](/offres/structurer-controle-paie) · [Fiabiliser votre paie ADP avec ACE](/offres/fiabiliser-paie-adp-ace)

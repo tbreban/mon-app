@@ -48,4 +48,4 @@ Mission cadrée, généralement entre **6 et 10 semaines** selon le périmètre 
 
 ## Pour aller plus loin
 
-→ Parlons de votre contexte paie · Voir aussi : *Structurer durablement votre contrôle de paie* · *Conformité des charges sociales* · *Études d'opportunités SIRH/Paie*
+→ Parlons de votre contexte paie · Voir aussi : [Structurer durablement votre contrôle de paie](/offres/structurer-controle-paie) · [Conformité des charges sociales](/offres/conformite-charges-sociales) · [Études d'opportunités SIRH/Paie](/offres/etudes-opportunites-sirh-paie)

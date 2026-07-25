@@ -48,4 +48,4 @@ Scoped assignment, generally between **6 and 10 weeks** depending on scope (numb
 
 ## Further reading
 
-→ Let's discuss your payroll context · See also: *Structuring your payroll controls for the long term* · *Social charges compliance* · *HRIS/Payroll opportunity studies*
+→ Let's discuss your payroll context · See also: [Structuring your payroll controls for the long term](/offres/structurer-controle-paie) · [Social charges compliance](/offres/conformite-charges-sociales) · [HRIS/Payroll opportunity studies](/offres/etudes-opportunites-sirh-paie)

@@ -48,4 +48,4 @@ Mission cadrée, généralement entre **4 et 8 semaines** selon le nombre d'enti
 
 ## Pour aller plus loin
 
-→ Parlons de votre contexte · Voir aussi : *Sécuriser le choix de votre SIRH, Paie ou GTA* · *AMOA Projets SIRH/Paie/GTA* · *Audit de la fonction Paie*
+→ Parlons de votre contexte · Voir aussi : [Sécuriser le choix de votre SIRH, Paie ou GTA](/offres/securiser-choix-sirh-paie-gta) · [AMOA Projets SIRH/Paie/GTA](/offres/amoa-projets-sirh-paie-gta) · [Audit de la fonction Paie](/offres/audit-fonction-paie)

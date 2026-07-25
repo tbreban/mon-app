@@ -51,4 +51,4 @@ Mission variable selon le périmètre :
 
 ## Pour aller plus loin
 
-→ Parlons de votre contexte paie · Voir aussi : *Gestion de la rétro-activité paie* · *Audit de la fonction Paie* · *Conformité des charges sociales*
+→ Parlons de votre contexte paie · Voir aussi : [Gestion de la rétro-activité paie](/offres/retro-activite-paie) · [Audit de la fonction Paie](/offres/audit-fonction-paie) · [Conformité des charges sociales](/offres/conformite-charges-sociales)

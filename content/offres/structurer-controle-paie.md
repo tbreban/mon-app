@@ -50,4 +50,4 @@ Après la mission, vos équipes opèrent en autonomie. GBA Connect reste disponi
 
 ## Pour aller plus loin
 
-→ Parlons de votre contexte paie · Voir aussi : *Fiabiliser votre paie ADP avec ACE* · *Audit de la fonction Paie* · *Conformité des charges sociales*
+→ Parlons de votre contexte paie · Voir aussi : [Fiabiliser votre paie ADP avec ACE](/offres/fiabiliser-paie-adp-ace) · [Audit de la fonction Paie](/offres/audit-fonction-paie) · [Conformité des charges sociales](/offres/conformite-charges-sociales)

@@ -1,9 +1,27 @@
 import { useTranslations, useLocale } from "next-intl";
+import { getTranslations } from "next-intl/server";
 import { Link } from "@/lib/navigation";
 import Image from "next/image";
 import { Compass, ShieldCheck, Clock, GraduationCap, Check } from "lucide-react";
 import { PILLARS, getOffersByPillar } from "@/lib/offers";
 import HighlightText from "@/components/HighlightText";
+import { buildMetadata } from "@/lib/seo";
+import type { Metadata } from "next";
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: "Metadata" });
+  return buildMetadata({
+    title: t("title"),
+    description: t("description"),
+    path: "/",
+    locale,
+  });
+}
 
 export default function Home() {
   const t = useTranslations("HomePage");

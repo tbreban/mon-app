@@ -56,4 +56,4 @@ Mission à durée variable selon le contexte : de **quelques semaines** pour un 
 
 ## Pour aller plus loin
 
-→ Parlons de votre situation · Voir aussi : *Audit de la fonction Paie* · *Structurer durablement votre contrôle de paie* · *Conformité des charges sociales*
+→ Parlons de votre situation · Voir aussi : [Audit de la fonction Paie](/offres/audit-fonction-paie) · [Structurer durablement votre contrôle de paie](/offres/structurer-controle-paie) · [Conformité des charges sociales](/offres/conformite-charges-sociales)

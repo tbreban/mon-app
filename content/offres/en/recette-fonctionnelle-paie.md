@@ -48,4 +48,4 @@ A scoped engagement, typically between **8 and 16 weeks** depending on scope, al
 
 ## To go further
 
-→ Let's talk about your project · See also: *HRIS/Payroll/Time & Attendance Business Project Management* · *ADP Migration Support* · *Payroll Data Migration*
+→ Let's talk about your project · See also: [HRIS/Payroll/Time & Attendance Business Project Management](/offres/amoa-projets-sirh-paie-gta) · [ADP Migration Support](/offres/migration-adp-mep) · [Payroll Data Migration](/offres/reprise-donnees-paie)

@@ -48,4 +48,4 @@ A scoped assignment, typically **6 to 12 weeks** depending on company size and t
 
 ## Further reading
 
-→ Let's discuss your context · See also: *Social Studies and Workforce Reports* · *Payroll Function Audit* · *HRIS/Payroll/Time & Attendance Project Management Support*
+→ Let's discuss your context · See also: [Social Studies and Workforce Reports](/offres/etudes-sociales-bilans-sociaux) · [Payroll Function Audit](/offres/audit-fonction-paie) · [HRIS/Payroll/Time & Attendance Project Management Support](/offres/amoa-projets-sirh-paie-gta)

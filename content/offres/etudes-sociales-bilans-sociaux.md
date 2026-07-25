@@ -51,4 +51,4 @@ Variable :
 
 ## Pour aller plus loin
 
-→ Parlons de votre contexte · Voir aussi : *BDESE* · *Audit de la fonction Paie* · *AMOA Projets SIRH/Paie/GTA*
+→ Parlons de votre contexte · Voir aussi : [BDESE](/offres/bdese) · [Audit de la fonction Paie](/offres/audit-fonction-paie) · [AMOA Projets SIRH/Paie/GTA](/offres/amoa-projets-sirh-paie-gta)

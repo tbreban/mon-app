@@ -48,4 +48,4 @@ Mission cadrée, généralement entre **6 et 12 semaines** selon la taille de l'
 
 ## Pour aller plus loin
 
-→ Parlons de votre contexte · Voir aussi : *Études sociales et bilans sociaux* · *Audit de la fonction Paie* · *AMOA Projets SIRH/Paie/GTA*
+→ Parlons de votre contexte · Voir aussi : [Études sociales et bilans sociaux](/offres/etudes-sociales-bilans-sociaux) · [Audit de la fonction Paie](/offres/audit-fonction-paie) · [AMOA Projets SIRH/Paie/GTA](/offres/amoa-projets-sirh-paie-gta)

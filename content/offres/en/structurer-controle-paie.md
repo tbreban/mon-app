@@ -50,4 +50,4 @@ After the assignment, your teams operate independently. GBA Connect remains avai
 
 ## Further reading
 
-→ Let's discuss your payroll context · See also: *Securing your ADP payroll with ACE* · *Payroll Function Audit* · *Social charges compliance*
+→ Let's discuss your payroll context · See also: [Securing your ADP payroll with ACE](/offres/fiabiliser-paie-adp-ace) · [Payroll Function Audit](/offres/audit-fonction-paie) · [Social charges compliance](/offres/conformite-charges-sociales)

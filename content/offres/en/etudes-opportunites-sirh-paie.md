@@ -48,4 +48,4 @@ A scoped engagement, typically between **6 and 10 weeks** depending on the numbe
 
 ## To go further
 
-→ Let's talk about your project · See also: *Securing Your HRIS, Payroll or Time & Attendance Choice* · *HRIS/Payroll/Time & Attendance PMO* · *Payroll Function Audit*
+→ Let's talk about your project · See also: [Securing Your HRIS, Payroll or Time & Attendance Choice](/offres/securiser-choix-sirh-paie-gta) · [HRIS/Payroll/Time & Attendance PMO](/offres/amoa-projets-sirh-paie-gta) · [Payroll Function Audit](/offres/audit-fonction-paie)
