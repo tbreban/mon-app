@@ -71,9 +71,9 @@ export default function Footer() {
                 <Mail className="h-4 w-4 shrink-0 text-[#E7A64F]" />
                 {t("contactEmail")}
               </li>
-              <li className="flex items-center gap-2 text-sm text-white/55">
-                <MapPin className="h-4 w-4 shrink-0 text-[#E7A64F]" />
-                {t("contactCity")}
+              <li className="flex items-start gap-2 text-sm text-white/55">
+                <MapPin className="mt-0.5 h-4 w-4 shrink-0 text-[#E7A64F]" />
+                <span className="whitespace-pre-line">{t("contactCity")}</span>
               </li>
             </ul>
           </div>
