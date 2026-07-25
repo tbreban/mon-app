@@ -63,9 +63,12 @@ export default function Footer() {
 
           {/* Contact */}
           <div>
-            <p className="text-sm font-semibold uppercase tracking-wider text-white/80">
+            <Link
+              href="/contact"
+              className="text-sm font-semibold uppercase tracking-wider text-white/80 transition-colors hover:text-white"
+            >
               {t("contactTitle")}
-            </p>
+            </Link>
             <ul className="mt-4 space-y-3">
               <li className="flex items-center gap-2 text-sm text-white/55">
                 <Mail className="h-4 w-4 shrink-0 text-[#E7A64F]" />
